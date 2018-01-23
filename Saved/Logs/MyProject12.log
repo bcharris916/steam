@@ -758,3 +758,37 @@ LogInit: Object subsystem initialized
 [2018.01.23-04.12.34:311][993]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
 [2018.01.23-04.16.16:673][ 56]LogTemp: Repeating last play command: Standalone Game
 [2018.01.23-04.35.52:498][406]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-04.38.33:028][ 74]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-04.38.33:111][ 74]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-04.38.33:111][ 74]LightingResults: New page: Lighting Build
+[2018.01.23-04.38.33:113][ 74]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-04.38.33:114][ 74]MapCheck: New page: Map Check
+[2018.01.23-04.38.33:114][ 74]LightingResults: New page: Lighting Build
+[2018.01.23-04.38.33:428][ 74]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-04.38.33:555][ 74]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-04.38.33:768][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 212.731ms to complete.
+[2018.01.23-04.38.33:770][ 74]LogFileHelpers: Loading map 'arena01' took 0.664
+[2018.01.23-04.38.42:672][494]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-04.38.58:641][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-04.38.58:793][278]LogSavePackage: Save=101.59ms
+[2018.01.23-04.38.58:793][278]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM3979C5F44C0C41F1FD27E9A9D4247C19.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-04.38.58:794][278]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset', retrying in .5s...
+[2018.01.23-04.38.59:295][278]LogFileManager: Error: Error deleting file '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'.
+[2018.01.23-04.38.59:296][278]LogSavePackage: Error: Error saving '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-04.38.59:300][278]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-04.39.01:750][278]EditorErrors: New page: Save Output
+[2018.01.23-04.39.01:750][278]EditorErrors: Warning: Error saving '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-04.39.07:863][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena01" FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.23-04.39.08:479][530]LogSavePackage: Save=494.58ms
+[2018.01.23-04.39.08:479][530]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena0175A053654A014BBD834178B084BA0428.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-04.39.08:481][530]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap', retrying in .5s...
+[2018.01.23-04.39.08:982][530]LogFileManager: Error: Error deleting file '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'.
+[2018.01.23-04.39.08:982][530]LogSavePackage: Error: Error saving '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-04.39.08:987][530]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena01.umap
+[2018.01.23-04.39.09:002][530]EditorErrors: New page: Save Output
+[2018.01.23-04.39.09:002][530]EditorErrors: Warning: Error saving '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-04.39.23:432][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena01" FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.23-04.39.23:885][840]LogSavePackage: Save=372.98ms
+[2018.01.23-04.39.23:885][840]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena017DF313C149C0F6856823EEB972C47654.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-04.39.23:892][840]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena01.umap
+[2018.01.23-04.39.23:954][840]LogFileHelpers: Saving map 'arena01' took 0.709
