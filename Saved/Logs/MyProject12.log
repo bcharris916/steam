@@ -407,3 +407,15 @@ LogInit: Object subsystem initialized
 [2018.01.23-07.39.20:288][ 34]LogSavePackage: Save=106.22ms
 [2018.01.23-07.39.20:288][ 34]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM3FC15EEB43B81720315A74A85CE98D55.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
 [2018.01.23-07.39.20:296][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-07.44.40:393][259]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-07.44.47:342][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-07.44.47:609][449]LogSavePackage: Save=215.96ms
+[2018.01.23-07.44.47:609][449]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC2B31DCDC44D28B47E6B50A94E39A7C6C.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-07.44.47:615][449]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-07.44.53:852][673]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-07.44.59:476][847]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-07.45.01:332][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-07.45.01:588][847]LogSavePackage: Save=212.15ms
+[2018.01.23-07.45.01:588][847]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCF030DB91422E081294E3018D7E9C2AA3.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-07.45.01:594][847]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-07.46.55:254][401]LogTemp: Repeating last play command: Standalone Game
