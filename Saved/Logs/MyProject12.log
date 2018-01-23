@@ -1331,3 +1331,159 @@ Make sure 'NewBlueprint_C' has been compiled for  Get allPlayerControllers
 [2018.01.23-05.59.15:267][986]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena02A43FF2FE4A52879177A7EAB3EF4C5C7D.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena02.umap'
 [2018.01.23-05.59.15:275][986]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena02.umap
 [2018.01.23-05.59.15:336][986]LogFileHelpers: Saving map 'arena02' took 0.797
+[2018.01.23-06.06.31:149][312]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-06.06.31:234][312]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-06.06.31:234][312]LightingResults: New page: Lighting Build
+[2018.01.23-06.06.31:235][312]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-06.06.31:237][312]MapCheck: New page: Map Check
+[2018.01.23-06.06.31:237][312]LightingResults: New page: Lighting Build
+[2018.01.23-06.06.31:534][312]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.23-06.06.31:652][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-06.06.31:845][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 193.371ms to complete.
+[2018.01.23-06.06.31:847][312]LogFileHelpers: Loading map 'arena01' took 0.616
+[2018.01.23-06.06.36:860][557]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-06.06.39:898][718]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.01.23-06.06.41:637][803]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.23-06.06.41:700][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.41:700][803]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.23-06.06.41:716][803]LogPlayLevel: [PlayLevel] Compiling gameplayGM before play...
+[2018.01.23-06.06.42:248][803]LogPlayLevel: [PlayLevel] Compiling gameplayGMbase before play...
+[2018.01.23-06.06.42:809][803]LogPlayLevel: PlayLevel: Blueprint regeneration took 1108 ms (2 blueprints)
+[2018.01.23-06.06.42:810][803]PIE: New page: PIE session: arena01 (Jan 22, 2018, 2:06:42 PM)
+[2018.01.23-06.06.42:810][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_arena01
+[2018.01.23-06.06.42:889][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078436s)
+[2018.01.23-06.06.42:891][803]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-06.06.42:893][803]LogPlayLevel: PIE: World Init took: (0.003463s)
+[2018.01.23-06.06.42:893][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/arena01.arena01 to /Game/Maps/UEDPIE_0_arena01.arena01 (0.082562s)
+[2018.01.23-06.06.42:953][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.23-06.06.42:972][803]LogInit: FAudioDevice initialized.
+[2018.01.23-06.06.43:017][803]LogLoad: Game class is 'gameplayGMbase_C'
+[2018.01.23-06.06.43:022][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_arena01.arena01 up for play (max tick rate 0) at 2018.01.22-22.06.43
+[2018.01.23-06.06.43:023][803]LogWorld: Bringing up level for play took: 0.003944
+[2018.01.23-06.06.43:039][803]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_arena01 2.333
+[2018.01.23-06.06.43:040][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.44:897][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.44:943][921]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-06.06.44:943][921]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-06.06.44:944][921]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-06.06.44:944][921]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-06.06.44:944][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.23-06.06.44:945][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.45:068][922]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.01.23-06.06.45:068][922]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-06.06.47:374][ 42]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-06.06.52:094][262]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.23-06.06.52:144][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.52:144][262]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.23-06.06.52:166][262]LogPlayLevel: [PlayLevel] Compiling gameplayGMbase before play...
+[2018.01.23-06.06.52:707][262]LogPlayLevel: PlayLevel: Blueprint regeneration took 562 ms (1 blueprints)
+[2018.01.23-06.06.52:708][262]PIE: New page: PIE session: arena01 (Jan 22, 2018, 2:06:52 PM)
+[2018.01.23-06.06.52:709][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_arena01
+[2018.01.23-06.06.52:771][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061910s)
+[2018.01.23-06.06.52:772][262]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-06.06.52:773][262]LogPlayLevel: PIE: World Init took: (0.002186s)
+[2018.01.23-06.06.52:773][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/arena01.arena01 to /Game/Maps/UEDPIE_0_arena01.arena01 (0.064776s)
+[2018.01.23-06.06.52:852][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.23-06.06.52:870][262]LogInit: FAudioDevice initialized.
+[2018.01.23-06.06.52:912][262]LogLoad: Game class is 'gameplayGMbase_C'
+[2018.01.23-06.06.52:916][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_arena01.arena01 up for play (max tick rate 0) at 2018.01.22-22.06.52
+[2018.01.23-06.06.52:916][262]LogWorld: Bringing up level for play took: 0.003133
+[2018.01.23-06.06.52:933][262]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_arena01 0.228
+[2018.01.23-06.06.52:934][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.59:940][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.06.59:988][666]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-06.06.59:988][666]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-06.06.59:989][666]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-06.06.59:989][666]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-06.06.59:989][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.23-06.06.59:989][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-06.07.00:117][667]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.01.23-06.07.00:118][667]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-06.08.59:817][977]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.12.28:182][147]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.12.35:624][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-06.12.35:783][401]LogSavePackage: Save=98.71ms
+[2018.01.23-06.12.35:783][401]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGMD752C1CA4D2F3FC80E4EC09B7E1B96E5.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-06.12.35:790][401]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-06.12.35:791][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGMbase" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGMbase.uasset" SILENT=true
+[2018.01.23-06.12.35:929][401]LogSavePackage: Save=96.03ms
+[2018.01.23-06.12.35:930][401]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGMbase11C6CFFB4A4BE0C10E6F97831F479A62.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGMbase.uasset'
+[2018.01.23-06.12.35:937][401]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGMbase.uasset
+[2018.01.23-06.12.35:937][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-06.12.36:262][401]LogSavePackage: Save=286.42ms
+[2018.01.23-06.12.36:263][401]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC024C820741A02FBB40F99FB602DCC9D3.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-06.12.36:270][401]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-06.12.36:271][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/lobby/lobbyPlayerController" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset" SILENT=true
+[2018.01.23-06.12.36:838][401]LogSavePackage: Save=529.34ms
+[2018.01.23-06.12.36:853][401]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/lobbyPlayerController75D3896C4F4EC19420A36580D9DFDAC1.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset'
+[2018.01.23-06.12.36:860][401]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset
+[2018.01.23-06.12.36:864][401]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-06.12.36:865][401]LightingResults: New page: Lighting Build
+[2018.01.23-06.12.36:866][401]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-06.12.36:868][401]MapCheck: New page: Map Check
+[2018.01.23-06.12.36:868][401]LightingResults: New page: Lighting Build
+[2018.01.23-06.12.37:109][401]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-06.12.37:344][401]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-06.12.37:459][401]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-06.12.37:662][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 202.942ms to complete.
+[2018.01.23-06.12.37:664][401]LogFileHelpers: Loading map 'arena01' took 0.802
+[2018.01.23-06.12.39:104][459]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-06.12.57:322][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena01" FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.23-06.12.57:883][336]LogSavePackage: Save=441.99ms
+[2018.01.23-06.12.57:883][336]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena01C64F31CD42E0F27F44FC33B823E67591.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-06.12.57:893][336]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena01.umap
+[2018.01.23-06.12.57:953][336]LogFileHelpers: Saving map 'arena01' took 0.853
+[2018.01.23-06.15.34:693][ 25]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-06.16.49:533][301]BlueprintLog: New page: Compile gameplayGM
+[2018.01.23-06.18.24:684][437]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.18.51:718][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena01" FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.23-06.18.52:253][475]LogSavePackage: Save=415.83ms
+[2018.01.23-06.18.52:254][475]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena01BAD14B0F4356111C6DFF5BBCFA4709A2.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-06.18.52:262][475]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena01.umap
+[2018.01.23-06.18.52:327][475]LogFileHelpers: Saving map 'arena01' took 0.804
+[2018.01.23-06.18.52:335][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-06.18.52:661][475]LogSavePackage: Save=288.36ms
+[2018.01.23-06.18.52:662][475]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC2FC2BD0646CBC7B47958F6B52CCAA570.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-06.18.52:670][475]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-06.18.52:677][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-06.18.52:813][475]LogSavePackage: Save=95.26ms
+[2018.01.23-06.18.52:813][475]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM5B4412004B0CF956323DCA88D5382C3E.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-06.18.52:820][475]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-06.19.55:867][897]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-06.19.56:820][940]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.01.23-06.20.47:948][ 10]BlueprintLog: New page: Compile gameplayGM
+[2018.01.23-06.23.40:521][656]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.23-06.23.40:676][657]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject12
+[2018.01.23-06.23.40:676][657]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.23-06.23.40:676][657]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.23-06.23.40:676][657]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.23-06.23.40:741][658]LogTemp: BranchPath = DESKTOP-3HTVB4G/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-3HTVB4G/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.23-06.23.40:783][659]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Polymake\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.23-06.23.46:711][893]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-06.28.51:867][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/arena01' took 0.059
+[2018.01.23-06.28.51:870][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/lobby/lobbyPlayerController] ([1] browsable assets)...
+[2018.01.23-06.28.51:871][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/lobby/lobbyPlayerController]
+[2018.01.23-06.28.52:439][932]LogSavePackage: Save=521.72ms
+[2018.01.23-06.28.52:439][932]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/lobbyPlayerController_Auto2AF86455248D1F5B4E21199ACBF628EF9.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/lobby/lobbyPlayerController_Auto2.uasset'
+[2018.01.23-06.28.52:444][932]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/lobby/lobbyPlayerController_Auto2.uasset
+[2018.01.23-06.28.52:446][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gameplay/gameplayGM] ([1] browsable assets)...
+[2018.01.23-06.28.52:446][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gameplay/gameplayGM]
+[2018.01.23-06.28.52:446][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayGM_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.23-06.28.52:576][932]LogSavePackage: Save=93.54ms
+[2018.01.23-06.28.52:576][932]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM_Auto2AC47763443040AF1EF8F9B84E2BA38EC.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayGM_Auto2.uasset'
+[2018.01.23-06.28.52:579][932]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayGM_Auto2.uasset
+[2018.01.23-06.28.52:579][932]LogFileHelpers: Auto-saving content packages took 0.711
+[2018.01.23-06.29.45:943][913]BlueprintLog: New page: Compile lobbyPlayerController
+[2018.01.23-06.35.10:129][ 27]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.35.12:759][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/lobby/lobbyPlayerController" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset" SILENT=true
+[2018.01.23-06.35.13:318][ 87]LogSavePackage: Save=515.55ms
+[2018.01.23-06.35.13:318][ 87]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/lobbyPlayerControllerD0B47F9F44FE370FD2E5B497BC170E68.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset'
+[2018.01.23-06.35.13:333][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset
+[2018.01.23-06.35.13:340][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-06.35.13:655][ 87]LogSavePackage: Save=277.09ms
+[2018.01.23-06.35.13:655][ 87]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC33B5A0F0478966B05111DC86B3EEFDD7.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-06.35.13:662][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-06.35.13:670][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-06.35.13:803][ 87]LogSavePackage: Save=96.59ms
+[2018.01.23-06.35.13:803][ 87]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM3221C2144393C1B2808BDDBC5F4314B0.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-06.35.13:810][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
