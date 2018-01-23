@@ -1176,3 +1176,54 @@ Make sure 'lobbyPlayerController_C' has been compiled for  Get MinClickDIstance
 [2018.01.23-05.22.37:428][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
 [2018.01.23-05.22.37:612][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.564ms to complete.
 [2018.01.23-05.22.37:614][ 26]LogFileHelpers: Loading map 'mainMenu' took 0.532
+[2018.01.23-05.27.29:235][173]LogAIModule: Creating AISystem for world lobby
+[2018.01.23-05.27.29:317][173]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.27.29:317][173]LightingResults: New page: Lighting Build
+[2018.01.23-05.27.29:318][173]LoadErrors: New page: Loading map: lobby.umap
+[2018.01.23-05.27.29:319][173]MapCheck: New page: Map Check
+[2018.01.23-05.27.29:319][173]LightingResults: New page: Lighting Build
+[2018.01.23-05.27.29:707][173]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.27.29:830][173]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.27.30:058][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 227.864ms to complete.
+[2018.01.23-05.27.30:060][173]LogFileHelpers: Loading map 'lobby' took 0.745
+[2018.01.23-05.27.33:692][341]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-05.27.42:436][775]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.01.23-05.28.17:662][494]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.23-05.28.17:829][494]LogPlayLevel: [PlayLevel] Compiling lobbyGM before play...
+[2018.01.23-05.28.18:067][494]LogPlayLevel: PlayLevel: Blueprint regeneration took 405 ms (1 blueprints)
+[2018.01.23-05.28.18:068][494]PIE: New page: PIE session: lobby (Jan 22, 2018, 1:28:18 PM)
+[2018.01.23-05.28.18:068][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lobby
+[2018.01.23-05.28.18:080][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011599s)
+[2018.01.23-05.28.18:083][494]LogAIModule: Creating AISystem for world lobby
+[2018.01.23-05.28.18:084][494]LogPlayLevel: PIE: World Init took: (0.003624s)
+[2018.01.23-05.28.18:084][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lobby.lobby to /Game/Maps/UEDPIE_0_lobby.lobby (0.015875s)
+[2018.01.23-05.28.18:147][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.23-05.28.18:164][494]LogInit: FAudioDevice initialized.
+[2018.01.23-05.28.18:209][494]LogLoad: Game class is 'lobbyGM_C'
+[2018.01.23-05.28.18:211][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lobby.lobby up for play (max tick rate 0) at 2018.01.22-21.28.18
+[2018.01.23-05.28.18:211][494]LogWorld: Bringing up level for play took: 0.001651
+[2018.01.23-05.28.18:233][494]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2018.01.23-05.28.18:248][494]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-05.28.18:248][494]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-05.28.18:248][494]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-05.28.18:249][494]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-05.28.18:249][494]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_lobby 1.543
+[2018.01.23-05.28.25:019][879]Cmd: servertravel /Game/Maps/Arena01
+[2018.01.23-05.28.25:020][879]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2018.01.23-05.28.32:203][340]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.01.23-05.28.32:244][340]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.28.32:244][340]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-05.28.32:245][340]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-05.28.32:245][340]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-05.28.32:245][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.23-05.28.32:342][341]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.01.23-05.28.32:342][341]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.29.49:551][941]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.30.01:246][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/lobby/lobbyGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyGM.uasset" SILENT=true
+[2018.01.23-05.30.01:763][283]LogSavePackage: Save=466.66ms
+[2018.01.23-05.30.01:763][283]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/lobbyGM6C88F6D64EF834962F144988CE2CFBAF.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyGM.uasset'
+[2018.01.23-05.30.01:771][283]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyGM.uasset
+[2018.01.23-05.30.01:780][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.30.02:094][283]LogSavePackage: Save=276.07ms
+[2018.01.23-05.30.02:094][283]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC3A68368E4ACA09A5483D18BD0CDAB649.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.30.02:102][283]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
