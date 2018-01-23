@@ -756,3 +756,5 @@ LogInit: Object subsystem initialized
 [2018.01.23-04.12.34:305][993]LogSavePackage: Save=258.98ms
 [2018.01.23-04.12.34:305][993]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCBA344F854C671011A9F0378D9AAE8A52.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.01.23-04.12.34:311][993]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-04.16.16:673][ 56]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-04.35.52:498][406]LogTemp: Repeating last play command: Standalone Game
