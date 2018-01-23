@@ -419,3 +419,7 @@ LogInit: Object subsystem initialized
 [2018.01.23-07.45.01:588][847]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCF030DB91422E081294E3018D7E9C2AA3.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.01.23-07.45.01:594][847]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
 [2018.01.23-07.46.55:254][401]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-07.50.41:247][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-07.50.41:524][523]LogSavePackage: Save=221.08ms
+[2018.01.23-07.50.41:525][523]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC58088D0F485BA8B1A3CE48BFFCD422CA.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-07.50.41:532][523]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
