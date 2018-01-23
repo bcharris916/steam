@@ -1487,3 +1487,38 @@ Make sure 'NewBlueprint_C' has been compiled for  Get allPlayerControllers
 [2018.01.23-06.35.13:803][ 87]LogSavePackage: Save=96.59ms
 [2018.01.23-06.35.13:803][ 87]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM3221C2144393C1B2808BDDBC5F4314B0.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
 [2018.01.23-06.35.13:810][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-06.39.50:632][562]BlueprintLog: New page: Compile gameplayChat
+[2018.01.23-06.40.19:337][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/gameplayChat" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/gameplayChat.uasset" SILENT=true
+[2018.01.23-06.40.19:415][549]LogSavePackage: Save=26.27ms
+[2018.01.23-06.40.19:415][549]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayChat40986B6F4A82D465E9659F8553D86945.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/gameplayChat.uasset'
+[2018.01.23-06.40.19:421][549]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/gameplayChat.uasset
+[2018.01.23-06.40.24:128][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-06.40.24:334][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-06.40.24:538][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-06.40.41:344][240]BlueprintLog: New page: Compile gameplayChat
+[2018.01.23-06.40.48:163][520]BlueprintLog: New page: Compile gameplayChat
+[2018.01.23-06.41.33:867][697]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/arena01' took 0.059
+[2018.01.23-06.41.33:871][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/allLevels/gameplayChat] ([1] browsable assets)...
+[2018.01.23-06.41.33:871][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/allLevels/gameplayChat]
+[2018.01.23-06.41.33:871][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/gameplayChat" FILE="../../../../../../UE4/steam/steam/Saved/Autosaves/Game/UI/allLevels/gameplayChat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.01.23-06.41.33:929][697]LogSavePackage: Save=28.47ms
+[2018.01.23-06.41.33:929][697]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayChat_Auto363CE81E44C7B8A56AC0014AEDF070A30.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/UI/allLevels/gameplayChat_Auto3.uasset'
+[2018.01.23-06.41.33:931][697]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/UI/allLevels/gameplayChat_Auto3.uasset
+[2018.01.23-06.41.33:932][697]LogFileHelpers: Auto-saving content packages took 0.063
+[2018.01.23-06.43.11:329][855]BlueprintLog: New page: Compile lobbyGM
+[2018.01.23-06.45.40:172][708]BlueprintLog: New page: Compile lobbyGM
+[2018.01.23-06.47.53:932][173]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.48.36:281][510]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.49.07:956][428]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-06.49.58:563][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/lobby/lobbyGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyGM.uasset" SILENT=true
+[2018.01.23-06.49.59:091][856]LogSavePackage: Save=475.77ms
+[2018.01.23-06.49.59:091][856]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/lobbyGM381E4609436621D28DD19CBDC60354FF.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyGM.uasset'
+[2018.01.23-06.49.59:098][856]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyGM.uasset
+[2018.01.23-06.49.59:107][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-06.49.59:435][856]LogSavePackage: Save=284.05ms
+[2018.01.23-06.49.59:436][856]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC818FFA8246B24BE76368878B84C721F5.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-06.49.59:443][856]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-06.49.59:450][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/gameplayChat" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/gameplayChat.uasset" SILENT=true
+[2018.01.23-06.49.59:516][856]LogSavePackage: Save=26.30ms
+[2018.01.23-06.49.59:516][856]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayChatE529A9E2461DE58E6076549599955BF1.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/gameplayChat.uasset'
+[2018.01.23-06.49.59:524][856]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/gameplayChat.uasset
