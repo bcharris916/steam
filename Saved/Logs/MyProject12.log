@@ -1237,3 +1237,97 @@ Make sure 'lobbyPlayerController_C' has been compiled for  Get MinClickDIstance
 [2018.01.23-05.37.17:225][867]LogSavePackage: Save=276.92ms
 [2018.01.23-05.37.17:226][867]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC58E66E3644F6AB12B9A07BA067E7765D.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.01.23-05.37.17:233][867]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.45.16:036][381]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.45.24:991][617]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.45.37:546][948]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.45.39:214][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/chatWIndow" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset" SILENT=true
+[2018.01.23-05.45.39:357][976]LogSavePackage: Save=86.64ms
+[2018.01.23-05.45.39:357][976]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/chatWIndowB8591CB94083E47FCF487C9BA0492A91.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset'
+[2018.01.23-05.45.39:365][976]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset
+[2018.01.23-05.45.39:373][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.45.39:698][976]LogSavePackage: Save=284.01ms
+[2018.01.23-05.45.39:698][976]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC3C1C711345010F8123DED6BBBF070052.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.45.39:704][976]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.45.59:100][423]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.46.10:046][731]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.46.14:601][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.46.14:908][850]LogSavePackage: Save=276.92ms
+[2018.01.23-05.46.14:909][850]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC8EB5185A4C31A458ADCDE8B0E5C5DC65.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.46.14:915][850]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.48.42:368][600]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.49.22:343][697]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.01.23-05.49.22:344][697]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.01.23-05.49.22:344][697]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.01.23-05.49.22:344][697]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.01.23-05.49.22:344][697]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.01.23-05.53.20:115][798]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-05.54.29:959][107]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-05.54.30:314][107]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-05.54.30:513][107]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-05.54.30:689][107]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.23-05.54.50:013][744]LogBlueprint: Warning: [NewBlueprint] 'allPlayerControllers' variable not found. Base class was probably changed. /Game/Blueprints/gameplay/NewBlueprint.NewBlueprint
+[2018.01.23-05.54.50:016][744]LogBlueprint: Warning: [NewBlueprint] 'spawnPoints' variable not found. Base class was probably changed. /Game/Blueprints/gameplay/NewBlueprint.NewBlueprint
+[2018.01.23-05.54.50:016][744]LogBlueprint: Warning: [NewBlueprint] 'spawnPoints' variable not found. Base class was probably changed. /Game/Blueprints/gameplay/NewBlueprint.NewBlueprint
+[2018.01.23-05.54.50:016][744]LogBlueprint: Warning: [NewBlueprint] 'spawnPoints' variable not found. Base class was probably changed. /Game/Blueprints/gameplay/NewBlueprint.NewBlueprint
+[2018.01.23-05.54.59:350][ 20]BlueprintLog: New page: Compile NewBlueprint
+[2018.01.23-05.54.59:388][ 20]LogBlueprint: Warning: [Compiler NewBlueprint] Could not find a variable named "spawnPoints" in 'NewBlueprint_C'.
+Make sure 'NewBlueprint_C' has been compiled for  Get spawnPoints
+[2018.01.23-05.54.59:388][ 20]LogBlueprint: Warning: [Compiler NewBlueprint] Could not find a variable named "spawnPoints" in 'NewBlueprint_C'.
+Make sure 'NewBlueprint_C' has been compiled for  Set spawnPoints
+[2018.01.23-05.54.59:389][ 20]LogBlueprint: Warning: [Compiler NewBlueprint] Could not find a variable named "allPlayerControllers" in 'NewBlueprint_C'.
+Make sure 'NewBlueprint_C' has been compiled for  Get allPlayerControllers
+[2018.01.23-05.54.59:390][ 20]LogBlueprint: Error: [Compiler NewBlueprint] The property associated with  All Player Controllers  could not be found
+[2018.01.23-05.54.59:390][ 20]LogBlueprint: Error: [Compiler NewBlueprint] The property associated with  Spawn Points  could not be found
+[2018.01.23-05.54.59:390][ 20]LogBlueprint: Error: [Compiler NewBlueprint] The property associated with  Spawn Points  could not be found
+[2018.01.23-05.54.59:753][ 20]LogBlueprint: Warning: [Compiler NewBlueprint] [9600.42] Compile of NewBlueprint failed. 3 Fatal Issue(s) 3 Warning(s) [in 402 ms] (/Game/Blueprints/gameplay/NewBlueprint.NewBlueprint)
+[2018.01.23-05.55.15:756][463]BlueprintLog: New page: Compile NewBlueprint
+[2018.01.23-05.55.45:382][714]LogMetaData: Removing '/Game/Blueprints/gameplay/gameplayGMbase.gameplayGMbase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/gameplay/NewBlueprint.PackageMetaData'
+[2018.01.23-05.55.45:382][714]LogMetaData: Removing '/Game/Blueprints/gameplay/gameplayGMbase.SKEL_gameplayGMbase_C' ref from Metadata '/Game/Blueprints/gameplay/NewBlueprint.PackageMetaData'
+[2018.01.23-05.55.45:382][714]LogMetaData: Removing '/Game/Blueprints/gameplay/gameplayGMbase.gameplayGMbase_C' ref from Metadata '/Game/Blueprints/gameplay/NewBlueprint.PackageMetaData'
+[2018.01.23-05.55.45:382][714]LogMetaData: Removing '/Game/Blueprints/gameplay/gameplayGMbase.gameplayGMbase:EventGraph.K2Node_Event_4' ref from Metadata '/Game/Blueprints/gameplay/NewBlueprint.PackageMetaData'
+[2018.01.23-05.55.45:382][714]LogMetaData: Removing '/Game/Blueprints/gameplay/gameplayGMbase.gameplayGMbase:EventGraph.K2Node_Event_3' ref from Metadata '/Game/Blueprints/gameplay/NewBlueprint.PackageMetaData'
+[2018.01.23-05.55.45:442][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGMbase" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGMbase.uasset" SILENT=true
+[2018.01.23-05.55.45:555][714]LogSavePackage: Save=105.90ms
+[2018.01.23-05.55.45:555][714]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGMbase1EA0FD6B41A14A61C402FFBABEFE2374.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGMbase.uasset'
+[2018.01.23-05.55.45:561][714]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGMbase.uasset
+[2018.01.23-05.58.23:670][254]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.58.46:553][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.58.46:875][936]LogSavePackage: Save=271.37ms
+[2018.01.23-05.58.46:875][936]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCB3B9A09F436384E62D3AD286D1D9F2E7.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.58.46:883][936]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.58.46:890][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-05.58.47:030][936]LogSavePackage: Save=100.10ms
+[2018.01.23-05.58.47:030][936]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGMEB36483A4C6C7796202A6BAC625CE0D9.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-05.58.47:038][936]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-05.58.52:181][143]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.58.52:271][143]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.58.52:272][143]LightingResults: New page: Lighting Build
+[2018.01.23-05.58.52:273][143]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-05.58.52:275][143]MapCheck: New page: Map Check
+[2018.01.23-05.58.52:275][143]LightingResults: New page: Lighting Build
+[2018.01.23-05.58.52:588][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.58.52:709][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.58.52:929][143]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 219.679ms to complete.
+[2018.01.23-05.58.52:932][143]LogFileHelpers: Loading map 'arena01' took 0.664
+[2018.01.23-05.58.56:716][323]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-05.59.01:199][525]LogAIModule: Creating AISystem for world arena02
+[2018.01.23-05.59.03:558][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena01" FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.23-05.59.04:119][525]LogSavePackage: Save=443.03ms
+[2018.01.23-05.59.04:121][525]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena0174FB92894F66491561B4DE8F046A40DC.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
+[2018.01.23-05.59.04:129][525]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena01.umap
+[2018.01.23-05.59.04:188][525]LogFileHelpers: Saving map 'arena01' took 0.842
+[2018.01.23-05.59.04:190][525]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.59.04:190][525]LightingResults: New page: Lighting Build
+[2018.01.23-05.59.04:192][525]LoadErrors: New page: Loading map: arena02.umap
+[2018.01.23-05.59.04:194][525]MapCheck: New page: Map Check
+[2018.01.23-05.59.04:194][525]LightingResults: New page: Lighting Build
+[2018.01.23-05.59.04:489][525]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.59.04:612][525]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.59.04:803][525]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 190.273ms to complete.
+[2018.01.23-05.59.04:807][525]LogFileHelpers: Loading map 'arena02' took 0.619
+[2018.01.23-05.59.06:366][596]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-05.59.14:728][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena02" FILE="../../../../../../UE4/steam/steam/Content/Maps/arena02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.23-05.59.15:266][986]LogSavePackage: Save=424.13ms
+[2018.01.23-05.59.15:267][986]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena02A43FF2FE4A52879177A7EAB3EF4C5C7D.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena02.umap'
+[2018.01.23-05.59.15:275][986]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena02.umap
+[2018.01.23-05.59.15:336][986]LogFileHelpers: Saving map 'arena02' took 0.797
