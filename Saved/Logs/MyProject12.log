@@ -1227,3 +1227,13 @@ Make sure 'lobbyPlayerController_C' has been compiled for  Get MinClickDIstance
 [2018.01.23-05.30.02:094][283]LogSavePackage: Save=276.07ms
 [2018.01.23-05.30.02:094][283]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC3A68368E4ACA09A5483D18BD0CDAB649.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.01.23-05.30.02:102][283]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.37.04:942][551]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.37.12:975][773]BlueprintLog: New page: Compile chatWIndow
+[2018.01.23-05.37.13:795][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/chatWIndow" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset" SILENT=true
+[2018.01.23-05.37.13:950][789]LogSavePackage: Save=94.53ms
+[2018.01.23-05.37.13:950][789]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/chatWIndow6B4BEDB8414C34E44FBFF1A39CDAA5F3.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset'
+[2018.01.23-05.37.13:953][789]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset
+[2018.01.23-05.37.16:907][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.37.17:225][867]LogSavePackage: Save=276.92ms
+[2018.01.23-05.37.17:226][867]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC58E66E3644F6AB12B9A07BA067E7765D.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.37.17:233][867]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
