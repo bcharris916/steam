@@ -792,3 +792,377 @@ LogInit: Object subsystem initialized
 [2018.01.23-04.39.23:885][840]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/arena017DF313C149C0F6856823EEB972C47654.tmp' to '../../../../../../UE4/steam/steam/Content/Maps/arena01.umap'
 [2018.01.23-04.39.23:892][840]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Maps/arena01.umap
 [2018.01.23-04.39.23:954][840]LogFileHelpers: Saving map 'arena01' took 0.709
+[2018.01.23-04.42.44:103][854]BlueprintLog: New page: Compile gameplayGM
+[2018.01.23-04.42.55:647][195]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-04.43.00:507][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-04.43.00:817][330]LogSavePackage: Save=261.10ms
+[2018.01.23-04.43.00:817][330]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCC51FDF7B4B7671972C2559A9D8E7B5C4.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-04.43.00:823][330]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-04.43.00:829][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-04.43.00:943][330]LogSavePackage: Save=90.99ms
+[2018.01.23-04.43.00:943][330]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGMDC0F4F0445F7B0805539D2B68AC73B77.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-04.43.00:949][330]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-04.44.16:905][948]LogSlate: Took 0.009350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.23-04.45.43:188][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/chatWIndow" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset" SILENT=true
+[2018.01.23-04.45.43:320][140]LogSavePackage: Save=87.94ms
+[2018.01.23-04.45.43:320][140]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/chatWIndow118F3FEE46094F2435D6569C2003D2CC.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset'
+[2018.01.23-04.45.43:326][140]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset
+[2018.01.23-04.45.43:333][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-04.45.43:617][140]LogSavePackage: Save=261.15ms
+[2018.01.23-04.45.43:617][140]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC39BAA52640A31144A2CEA6B1E911520D.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-04.45.43:624][140]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-04.54.36:990][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/arena01' took 0.053
+[2018.01.23-04.54.36:999][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/allLevels/chatWIndow] ([1] browsable assets)...
+[2018.01.23-04.54.36:999][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/allLevels/chatWIndow]
+[2018.01.23-04.54.36:999][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/chatWIndow" FILE="../../../../../../UE4/steam/steam/Saved/Autosaves/Game/UI/allLevels/chatWIndow_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.23-04.54.37:125][783]LogSavePackage: Save=85.57ms
+[2018.01.23-04.54.37:126][783]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/chatWIndow_Auto1B282A3CF4FA7499AA7D0FBA645355187.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/UI/allLevels/chatWIndow_Auto1.uasset'
+[2018.01.23-04.54.37:128][783]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/UI/allLevels/chatWIndow_Auto1.uasset
+[2018.01.23-04.54.37:129][783]LogFileHelpers: Auto-saving content packages took 0.137
+[2018.01.23-04.57.58:838][890]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-04.59.00:591][732]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.00:879][733]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.00:879][733]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.01:161][734]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.01:161][734]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.02:011][757]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.02:012][757]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.02:262][758]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.02:262][758]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.02:518][759]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.02:518][759]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.03:325][779]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.03:325][779]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.03:573][780]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.03:573][780]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.03:820][781]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.03:820][781]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.04:875][809]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.04:875][809]LogEditorTransaction: Undo Move Node
+[2018.01.23-04.59.05:847][835]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.05:847][835]LogEditorTransaction: Undo Break Pin Link
+[2018.01.23-04.59.06:648][854]Cmd: TRANSACTION UNDO
+[2018.01.23-04.59.06:648][854]LogEditorTransaction: Undo Break Pin Link
+[2018.01.23-05.00.05:531][ 46]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.00.14:054][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.00.14:359][388]LogSavePackage: Save=267.13ms
+[2018.01.23-05.00.14:359][388]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCB69430E048676BC85F8788ABE6DFCB29.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.00.14:366][388]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.00.14:366][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/chatWIndow" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset" SILENT=true
+[2018.01.23-05.00.14:485][388]LogSavePackage: Save=86.60ms
+[2018.01.23-05.00.14:486][388]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/chatWIndow5B302E0642AB845D8BE705B8E2650782.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset'
+[2018.01.23-05.00.14:492][388]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset
+[2018.01.23-05.00.14:508][388]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.00.14:508][388]LightingResults: New page: Lighting Build
+[2018.01.23-05.00.14:510][388]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-05.00.14:511][388]MapCheck: New page: Map Check
+[2018.01.23-05.00.14:511][388]LightingResults: New page: Lighting Build
+[2018.01.23-05.00.14:740][388]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.00.14:967][388]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.00.15:088][388]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.00.16:134][388]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,045.835ms to complete.
+[2018.01.23-05.00.16:136][388]LogFileHelpers: Loading map 'arena01' took 1.630
+[2018.01.23-05.00.27:093][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.00.27:094][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-05.00.27:101][960]PIE: New page: PIE session: arena01 (Jan 22, 2018, 1:00:27 PM)
+[2018.01.23-05.00.27:102][960]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_arena01
+[2018.01.23-05.00.27:184][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081507s)
+[2018.01.23-05.00.27:186][960]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.00.27:187][960]LogPlayLevel: PIE: World Init took: (0.002872s)
+[2018.01.23-05.00.27:187][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/arena01.arena01 to /Game/Maps/UEDPIE_1_arena01.arena01 (0.084992s)
+[2018.01.23-05.00.27:256][960]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.23-05.00.27:276][960]LogInit: FAudioDevice initialized.
+[2018.01.23-05.00.27:320][960]LogLoad: Game class is 'gameplayGM_C'
+[2018.01.23-05.00.27:324][960]LogWorld: Bringing World /Game/Maps/UEDPIE_1_arena01.arena01 up for play (max tick rate 0) at 2018.01.22-21.00.27
+[2018.01.23-05.00.27:325][960]LogWorld: Bringing up level for play took: 0.003853
+[2018.01.23-05.00.27:339][960]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.00.27:339][960]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.01.23-05.00.27:339][960]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.00.27:339][960]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.23-05.00.27:340][960]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.23-05.00.27:340][960]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.01.23-05.00.27:340][960]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-05.00.27:340][960]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-05.00.27:340][960]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-05.00.27:345][960]LogBlueprintUserMessages: [gameplayPC_C_0] Server: loaded game for arena
+[2018.01.23-05.00.27:349][960]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-05.00.27:349][960]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_arena01 0.644
+[2018.01.23-05.00.27:357][960]PIE: New page: PIE session: arena01 (Jan 22, 2018, 1:00:27 PM)
+[2018.01.23-05.00.27:458][960]LogNet: Browse: 127.0.0.1:17777//Game/Maps/mainMenu
+[2018.01.23-05.00.27:458][960]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.00.27:458][960]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.01.23-05.00.27:458][960]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.23-05.00.27:459][960]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.23-05.00.27:459][960]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.23-05.00.27:460][960]LogNet: Game client on port 17777, rate 10000
+[2018.01.23-05.00.27:477][960]PIE: Play in editor start time for /Game/Maps/mainMenu 0.771
+[2018.01.23-05.00.27:500][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.00.27:502][960]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53829
+[2018.01.23-05.00.27:502][960]LogHandshake: SendConnectChallenge. Timestamp: 0.019877, Cookie: 130255060093219195177061212082099149058177250140023070222179
+[2018.01.23-05.00.27:505][960]LogHandshake: SendChallengeResponse. Timestamp: 0.019877, Cookie: 130255060093219195177061212082099149058177250140023070222179
+[2018.01.23-05.00.27:643][961]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53829
+[2018.01.23-05.00.27:643][961]LogHandshake: SendChallengeAck. InCookie: 130255060093219195177061212082099149058177250140023070222179
+[2018.01.23-05.00.27:643][961]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53829
+[2018.01.23-05.00.27:644][961]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.23-05.00.27:644][961]LogNet: NotifyAcceptedConnection: Name: arena01, TimeStamp: 01/22/18 21:00:27, [UNetConnection] RemoteAddr: 127.0.0.1:53829, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.23-05.00.27:644][961]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53829, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.23-05.00.27:645][961]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.23-05.00.27:669][962]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_arena01.arena01: Accepted
+[2018.01.23-05.00.27:669][962]LogNet: Remote platform little endian=1
+[2018.01.23-05.00.27:669][962]LogNet: This platform little endian=1
+[2018.01.23-05.00.27:698][963]LogNet: Login request: /Game/Maps/mainMenu?Name=DESKTOP-3HTVB4G-C38A253843C6EC7FD7FB98A6E041D8C2 userId: DESKTOP-3HTVB4G-C38A253843C6EC7FD7FB98A6E041D8C2
+[2018.01.23-05.00.27:700][963]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_arena01, Game: /Game/Blueprints/gameplay/gameplayGM.gameplayGM_C)
+[2018.01.23-05.00.27:701][963]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_arena01?game=/Game/Blueprints/gameplay/gameplayGM.gameplayGM_C
+[2018.01.23-05.00.27:821][963]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.00.27:821][963]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.00.27:827][963]LogWorld: Bringing World /Game/Maps/UEDPIE_2_arena01.arena01 up for play (max tick rate 0) at 2018.01.22-21.00.27
+[2018.01.23-05.00.27:827][963]LogWorld: Bringing up level for play took: 0.003597
+[2018.01.23-05.00.27:827][963]LogLoad: Took 0.126593 seconds to LoadMap(/Game/Maps/UEDPIE_1_arena01)
+[2018.01.23-05.00.27:863][964]LogNet: Client netspeed is 10000
+[2018.01.23-05.00.27:863][964]LogNet: Join request: /Game/Maps/mainMenu?Name=DESKTOP-3HTVB4G-C38A253843C6EC7FD7FB98A6E041D8C2?SplitscreenCount=1
+[2018.01.23-05.00.27:864][964]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.23-05.00.27:868][964]LogNet: Join succeeded: DESKTOP-3HTVB4G-C38A
+[2018.01.23-05.00.27:913][965]LogBlueprintUserMessages: [gameplayPC_C_0] Client 1: loaded game for arena
+[2018.01.23-05.00.27:915][965]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.23-05.00.27:915][965]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.23-05.00.40:379][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.00.40:455][565]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.00.40:455][565]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-05.00.40:456][565]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-05.00.40:456][565]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-05.00.40:456][565]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.01.23-05.00.40:456][565]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.23-05.00.40:496][565]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.00.40:496][565]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-05.00.40:497][565]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-05.00.40:497][565]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-05.00.40:497][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.23-05.00.40:498][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.00.40:551][565]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53829, Name: IpConnection_7, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.23-05.00.40:551][565]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53829, Name: IpConnection_7, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.23-05.00.40
+[2018.01.23-05.00.40:552][565]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53829, Name: IpConnection_7, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.01.23-05.00.40:552][565]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.23-05.00.40:552][565]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.23-05.00.40
+[2018.01.23-05.00.40:552][565]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.01.23-05.00.40:558][565]LogExit: GameNetDriver None shut down
+[2018.01.23-05.00.40:558][565]LogExit: GameNetDriver None shut down
+[2018.01.23-05.00.40:625][566]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.01.23-05.00.40:625][566]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.00.40:625][566]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.01.23-05.00.40:625][566]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.01.47:554][944]LogAIModule: Creating AISystem for world mainMenu
+[2018.01.23-05.01.47:624][944]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.01.47:624][944]LightingResults: New page: Lighting Build
+[2018.01.23-05.01.47:626][944]LoadErrors: New page: Loading map: mainMenu.umap
+[2018.01.23-05.01.47:628][944]MapCheck: New page: Map Check
+[2018.01.23-05.01.47:628][944]LightingResults: New page: Lighting Build
+[2018.01.23-05.01.47:866][944]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.01.47:980][944]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.01.48:158][944]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 177.503ms to complete.
+[2018.01.23-05.01.48:159][944]LogFileHelpers: Loading map 'mainMenu' took 0.537
+[2018.01.23-05.01.49:566][ 24]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-05.03.26:741][114]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.03.26:827][114]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.03.26:827][114]LightingResults: New page: Lighting Build
+[2018.01.23-05.03.26:829][114]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-05.03.26:829][114]MapCheck: New page: Map Check
+[2018.01.23-05.03.26:829][114]LightingResults: New page: Lighting Build
+[2018.01.23-05.03.27:203][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.03.27:318][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.03.27:502][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 182.934ms to complete.
+[2018.01.23-05.03.27:504][114]LogFileHelpers: Loading map 'arena01' took 0.679
+[2018.01.23-05.03.29:602][203]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.23-05.03.30:898][263]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.01.23-05.03.33:310][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.01.23-05.03.33:453][382]LogSavePackage: Save=98.81ms
+[2018.01.23-05.03.33:453][382]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGMFA9619C04574F8A8D5F9FCAD5E039F7A.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.01.23-05.03.33:460][382]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.01.23-05.03.35:366][476]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-05.06.45:644][920]LogBlueprint: Warning: [lobbyPlayerController] 'MinClickDIstance' variable not found. Base class was probably changed. /Game/Blueprints/lobby/lobbyPlayerController.lobbyPlayerController
+[2018.01.23-05.06.51:897][114]BlueprintLog: New page: Compile lobbyPlayerController
+[2018.01.23-05.06.52:440][114]LogBlueprint: Warning: [Compiler lobbyPlayerController] Could not find a variable named "MinClickDIstance" in 'lobbyPlayerController_C'.
+Make sure 'lobbyPlayerController_C' has been compiled for  Get MinClickDIstance
+[2018.01.23-05.06.52:514][114]LogBlueprint: Error: [Compiler lobbyPlayerController] The property associated with  Min Click DIstance  could not be found
+[2018.01.23-05.06.52:514][114]LogBlueprint: Error: [Compiler lobbyPlayerController] The current value of the ' Hit ' pin is invalid: 'Hit' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.23-05.06.53:271][114]LogBlueprint: Warning: [Compiler lobbyPlayerController] [6713.94] Compile of lobbyPlayerController failed. 2 Fatal Issue(s) 1 Warning(s) [in 1,373 ms] (/Game/Blueprints/lobby/lobbyPlayerController.lobbyPlayerController)
+[2018.01.23-05.07.14:756][764]LogSlate: Took 0.012333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.23-05.07.25:833][106]BlueprintLog: New page: Compile lobbyPlayerController
+[2018.01.23-05.07.26:384][106]LogBlueprint: Error: [Compiler lobbyPlayerController] The current value of the ' Hit ' pin is invalid: 'Hit' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.23-05.07.27:130][106]LogBlueprint: Warning: [Compiler lobbyPlayerController] [6747.80] Compile of lobbyPlayerController failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,296 ms] (/Game/Blueprints/lobby/lobbyPlayerController.lobbyPlayerController)
+[2018.01.23-05.07.31:093][226]BlueprintLog: New page: Compile lobbyPlayerController
+[2018.01.23-05.07.31:636][226]LogBlueprint: Error: [Compiler lobbyPlayerController] The current value of the ' Hit ' pin is invalid: 'Hit' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.01.23-05.07.32:364][226]LogBlueprint: Warning: [Compiler lobbyPlayerController] [6753.03] Compile of lobbyPlayerController failed. 1 Fatal Issue(s) 0 Warning(s) [in 1,270 ms] (/Game/Blueprints/lobby/lobbyPlayerController.lobbyPlayerController)
+[2018.01.23-05.07.56:094][946]BlueprintLog: New page: Compile lobbyPlayerController
+[2018.01.23-05.08.20:943][648]BlueprintLog: New page: Compile lobbyPlayerController
+[2018.01.23-05.08.32:932][964]BlueprintLog: New page: Compile gameplayPC
+[2018.01.23-05.08.38:866][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/lobby/lobbyPlayerController" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset" SILENT=true
+[2018.01.23-05.08.39:439][133]LogSavePackage: Save=529.23ms
+[2018.01.23-05.08.39:440][133]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/lobbyPlayerController67C3375141784EAD6A37B4A3F2D53724.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset'
+[2018.01.23-05.08.39:448][133]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/lobby/lobbyPlayerController.uasset
+[2018.01.23-05.08.41:860][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.08.42:162][211]LogSavePackage: Save=265.02ms
+[2018.01.23-05.08.42:162][211]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCEEEF4D92444CDE47FAA82C9C550DFA23.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.08.42:168][211]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.08.45:117][305]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-05.10.01:097][ 85]LogAIModule: Creating AISystem for world lobby
+[2018.01.23-05.10.01:167][ 85]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.10.01:168][ 85]LightingResults: New page: Lighting Build
+[2018.01.23-05.10.01:170][ 85]LoadErrors: New page: Loading map: lobby.umap
+[2018.01.23-05.10.01:171][ 85]MapCheck: New page: Map Check
+[2018.01.23-05.10.01:171][ 85]LightingResults: New page: Lighting Build
+[2018.01.23-05.10.01:460][ 85]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.23-05.10.01:576][ 85]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.10.01:765][ 85]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 189.225ms to complete.
+[2018.01.23-05.10.01:767][ 85]LogFileHelpers: Loading map 'lobby' took 0.602
+[2018.01.23-05.10.03:039][139]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-05.11.45:228][144]LogAIModule: Creating AISystem for world mainMenu
+[2018.01.23-05.11.45:294][144]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.11.45:294][144]LightingResults: New page: Lighting Build
+[2018.01.23-05.11.45:295][144]LoadErrors: New page: Loading map: mainMenu.umap
+[2018.01.23-05.11.45:296][144]MapCheck: New page: Map Check
+[2018.01.23-05.11.45:297][144]LightingResults: New page: Lighting Build
+[2018.01.23-05.11.45:565][144]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.11.45:685][144]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.11.45:863][144]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 177.004ms to complete.
+[2018.01.23-05.11.45:864][144]LogFileHelpers: Loading map 'mainMenu' took 0.572
+[2018.01.23-05.12.01:357][212]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.12.01:439][212]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/arena01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.12.01:439][212]LightingResults: New page: Lighting Build
+[2018.01.23-05.12.01:440][212]LoadErrors: New page: Loading map: arena01.umap
+[2018.01.23-05.12.01:441][212]MapCheck: New page: Map Check
+[2018.01.23-05.12.01:441][212]LightingResults: New page: Lighting Build
+[2018.01.23-05.12.01:886][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.12.02:000][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.12.02:183][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 182.773ms to complete.
+[2018.01.23-05.12.02:185][212]LogFileHelpers: Loading map 'arena01' took 0.748
+[2018.01.23-05.13.15:184][596]BlueprintLog: New page: Compile gameplayGM
+[2018.01.23-05.15.50:695][613]BlueprintLog: New page: Compile chatWIndow
+[2018.01.23-05.15.57:228][811]BlueprintLog: New page: Compile chatWIndow
+[2018.01.23-05.16.31:933][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.16.31:934][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.23-05.16.31:940][102]PIE: New page: PIE session: arena01 (Jan 22, 2018, 1:16:31 PM)
+[2018.01.23-05.16.31:941][102]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_arena01
+[2018.01.23-05.16.32:020][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078746s)
+[2018.01.23-05.16.32:022][102]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.16.32:023][102]LogPlayLevel: PIE: World Init took: (0.003035s)
+[2018.01.23-05.16.32:027][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/arena01.arena01 to /Game/Maps/UEDPIE_1_arena01.arena01 (0.086139s)
+[2018.01.23-05.16.32:095][102]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.23-05.16.32:112][102]LogInit: FAudioDevice initialized.
+[2018.01.23-05.16.32:207][102]LogLoad: Game class is 'gameplayGM_C'
+[2018.01.23-05.16.32:212][102]LogWorld: Bringing World /Game/Maps/UEDPIE_1_arena01.arena01 up for play (max tick rate 0) at 2018.01.22-21.16.32
+[2018.01.23-05.16.32:212][102]LogWorld: Bringing up level for play took: 0.003961
+[2018.01.23-05.16.32:226][102]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.16.32:226][102]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.01.23-05.16.32:226][102]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.16.32:227][102]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.01.23-05.16.32:227][102]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.23-05.16.32:228][102]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2018.01.23-05.16.32:228][102]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-05.16.32:228][102]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.23-05.16.32:228][102]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-05.16.32:229][102]LogBlueprintUserMessages: [gameplayPC_C_0] Server: loaded game for arena
+[2018.01.23-05.16.32:232][102]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.23-05.16.32:250][102]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_arena01 -0.455
+[2018.01.23-05.16.32:257][102]PIE: New page: PIE session: arena01 (Jan 22, 2018, 1:16:32 PM)
+[2018.01.23-05.16.32:368][102]LogNet: Browse: 127.0.0.1:17777//Game/Maps/mainMenu
+[2018.01.23-05.16.32:369][102]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.16.32:369][102]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2018.01.23-05.16.32:369][102]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.01.23-05.16.32:369][102]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.01.23-05.16.32:370][102]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.23-05.16.32:370][102]LogNet: Game client on port 17777, rate 10000
+[2018.01.23-05.16.32:387][102]PIE: Play in editor start time for /Game/Maps/mainMenu -0.319
+[2018.01.23-05.16.32:423][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.16.32:428][102]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60689
+[2018.01.23-05.16.32:428][102]LogHandshake: SendConnectChallenge. Timestamp: 0.020588, Cookie: 057103210202157213013087127093201171055209145100193246180064
+[2018.01.23-05.16.32:431][102]LogHandshake: SendChallengeResponse. Timestamp: 0.020588, Cookie: 057103210202157213013087127093201171055209145100193246180064
+[2018.01.23-05.16.32:607][103]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60689
+[2018.01.23-05.16.32:607][103]LogHandshake: SendChallengeAck. InCookie: 057103210202157213013087127093201171055209145100193246180064
+[2018.01.23-05.16.32:607][103]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60689
+[2018.01.23-05.16.32:607][103]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.01.23-05.16.32:607][103]LogNet: NotifyAcceptedConnection: Name: arena01, TimeStamp: 01/22/18 21:16:32, [UNetConnection] RemoteAddr: 127.0.0.1:60689, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.23-05.16.32:607][103]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60689, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.01.23-05.16.32:609][103]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2018.01.23-05.16.32:638][104]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_arena01.arena01: Accepted
+[2018.01.23-05.16.32:638][104]LogNet: Remote platform little endian=1
+[2018.01.23-05.16.32:638][104]LogNet: This platform little endian=1
+[2018.01.23-05.16.32:672][105]LogNet: Login request: /Game/Maps/mainMenu?Name=DESKTOP-3HTVB4G-61561CAA4F032DD369147E81B256518C userId: DESKTOP-3HTVB4G-61561CAA4F032DD369147E81B256518C
+[2018.01.23-05.16.32:674][105]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_arena01, Game: /Game/Blueprints/gameplay/gameplayGM.gameplayGM_C)
+[2018.01.23-05.16.32:674][105]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_arena01?game=/Game/Blueprints/gameplay/gameplayGM.gameplayGM_C
+[2018.01.23-05.16.32:786][105]LogAIModule: Creating AISystem for world arena01
+[2018.01.23-05.16.32:787][105]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.01.23-05.16.32:792][105]LogWorld: Bringing World /Game/Maps/UEDPIE_2_arena01.arena01 up for play (max tick rate 0) at 2018.01.22-21.16.32
+[2018.01.23-05.16.32:793][105]LogWorld: Bringing up level for play took: 0.003891
+[2018.01.23-05.16.32:793][105]LogLoad: Took 0.118860 seconds to LoadMap(/Game/Maps/UEDPIE_1_arena01)
+[2018.01.23-05.16.32:832][106]LogNet: Client netspeed is 10000
+[2018.01.23-05.16.32:832][106]LogNet: Join request: /Game/Maps/mainMenu?Name=DESKTOP-3HTVB4G-61561CAA4F032DD369147E81B256518C?SplitscreenCount=1
+[2018.01.23-05.16.32:833][106]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.23-05.16.32:834][106]LogNet: Join succeeded: DESKTOP-3HTVB4G-6156
+[2018.01.23-05.16.32:873][107]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.23-05.16.32:873][107]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.01.23-05.16.32:875][107]LogBlueprintUserMessages: [gameplayPC_C_0] Client 1: loaded game for arena
+[2018.01.23-05.16.43:590][481]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.43:868][490]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.44:022][495]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.44:209][501]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.47:421][624]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.47:624][631]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.47:902][638]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.47:974][640]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.48:171][646]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.48:387][653]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.48:574][659]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.48:765][665]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.48:961][671]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.49:158][677]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.49:324][682]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.49:539][689]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.49:752][696]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.16.49:939][702]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.21:357][960]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.21:535][966]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.21:704][972]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.21:865][978]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.22:029][984]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.22:218][991]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.22:385][996]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.22:546][  1]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.22:677][  5]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.22:864][ 11]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.23:038][ 17]LogNavigation: Warning: UNavigationSystem::SimpleMoveToActor called for NavSys:None Controller:gameplayPC_C_0 controlling Pawn:Frosty_C_1 (if any of these is None then there's your problem
+[2018.01.23-05.17.26:740][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.17.26:835][156]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.17.26:835][156]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-05.17.26:837][156]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-05.17.26:837][156]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-05.17.26:837][156]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.01.23-05.17.26:837][156]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.01.23-05.17.26:912][156]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.17.26:912][156]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.23-05.17.26:913][156]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.23-05.17.26:913][156]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.23-05.17.26:913][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.01.23-05.17.26:914][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/arena01.arena01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/arena01.arena01:PersistentLevel.arena01' with GeneratedClass '/Game/Maps/arena01.arena01_C' with ClassGeneratedBy '/Game/Maps/arena01.arena01:PersistentLevel.arena01'
+[2018.01.23-05.17.26:979][156]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60689, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.23-05.17.26:979][156]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60689, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.01.23-05.17.26
+[2018.01.23-05.17.26:979][156]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60689, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.01.23-05.17.26:980][156]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.23-05.17.26:980][156]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.01.23-05.17.26
+[2018.01.23-05.17.26:980][156]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.01.23-05.17.26:985][156]LogExit: GameNetDriver None shut down
+[2018.01.23-05.17.26:986][156]LogExit: GameNetDriver None shut down
+[2018.01.23-05.17.27:066][157]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.01.23-05.17.27:067][157]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.17.27:067][157]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.01.23-05.17.27:067][157]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.23-05.17.40:034][697]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2018.01.23-05.17.40:034][697]PIE: Warning: PIE failed because map save was canceled
+[2018.01.23-05.17.43:654][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/allLevels/chatWIndow" FILE="../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset" SILENT=true
+[2018.01.23-05.17.43:796][910]LogSavePackage: Save=91.60ms
+[2018.01.23-05.17.43:796][910]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/chatWIndow6597D0FD4D224FB6643477A9294E1723.tmp' to '../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset'
+[2018.01.23-05.17.43:803][910]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/UI/allLevels/chatWIndow.uasset
+[2018.01.23-05.17.43:813][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.01.23-05.17.44:136][910]LogSavePackage: Save=286.75ms
+[2018.01.23-05.17.44:136][910]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC449B2B694559EC73705DB287DCF5BB55.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.01.23-05.17.44:143][910]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.01.23-05.17.45:272][982]LogTemp: Repeating last play command: Standalone Game
