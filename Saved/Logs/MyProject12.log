@@ -1166,3 +1166,13 @@ Make sure 'lobbyPlayerController_C' has been compiled for  Get MinClickDIstance
 [2018.01.23-05.17.44:136][910]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC449B2B694559EC73705DB287DCF5BB55.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.01.23-05.17.44:143][910]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
 [2018.01.23-05.17.45:272][982]LogTemp: Repeating last play command: Standalone Game
+[2018.01.23-05.22.37:008][ 26]LogAIModule: Creating AISystem for world mainMenu
+[2018.01.23-05.22.37:084][ 26]Cmd: MAP LOAD FILE="../../../../../../UE4/steam/steam/Content/Maps/mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.23-05.22.37:084][ 26]LightingResults: New page: Lighting Build
+[2018.01.23-05.22.37:086][ 26]LoadErrors: New page: Loading map: mainMenu.umap
+[2018.01.23-05.22.37:087][ 26]MapCheck: New page: Map Check
+[2018.01.23-05.22.37:087][ 26]LightingResults: New page: Lighting Build
+[2018.01.23-05.22.37:304][ 26]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.23-05.22.37:428][ 26]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.23-05.22.37:612][ 26]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 183.564ms to complete.
+[2018.01.23-05.22.37:614][ 26]LogFileHelpers: Loading map 'mainMenu' took 0.532
