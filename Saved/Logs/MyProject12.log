@@ -379,3 +379,17 @@ LogInit: Object subsystem initialized
 [2018.02.10-19.19.49:909][176]LogSavePackage: Save=284.25ms
 [2018.02.10-19.19.49:909][176]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCE0E4A2A64201CA81FA1B0D861F6EFA56.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.02.10-19.19.49:918][176]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-19.34.27:984][147]LogSlate: Took 0.000651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.10-19.34.40:238][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.088
+[2018.02.10-19.34.40:251][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gameplay/gameplayPC] ([1] browsable assets)...
+[2018.02.10-19.34.40:251][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gameplay/gameplayPC]
+[2018.02.10-19.34.40:251][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.10-19.34.40:702][420]LogSavePackage: Save=348.15ms
+[2018.02.10-19.34.40:702][420]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC_Auto167D20A844BADC525BDC954A1C9536A29.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset'
+[2018.02.10-19.34.40:706][420]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset
+[2018.02.10-19.34.40:707][420]LogFileHelpers: Auto-saving content packages took 0.466
+[2018.02.10-19.39.02:322][253]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-19.39.09:260][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.10-19.39.09:677][376]LogSavePackage: Save=318.03ms
+[2018.02.10-19.39.09:677][376]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC2F2CC9014D0F1517614C538161270D36.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.10-19.39.09:689][376]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
