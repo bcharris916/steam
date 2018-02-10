@@ -407,3 +407,8 @@ LogInit: Object subsystem initialized
 [2018.02.10-19.49.32:384][315]LogSavePackage: Save=232.33ms
 [2018.02.10-19.49.32:384][315]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC362F2EB94AAB6A932DFBCB98631D1477.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.02.10-19.49.32:391][315]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-19.54.06:791][337]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-19.54.11:045][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.10-19.54.11:341][447]LogSavePackage: Save=248.31ms
+[2018.02.10-19.54.11:341][447]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC0D00550F4F2EC1A16625D5A6803DE8EC.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.10-19.54.11:349][447]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
