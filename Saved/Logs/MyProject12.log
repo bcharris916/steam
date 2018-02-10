@@ -412,3 +412,37 @@ LogInit: Object subsystem initialized
 [2018.02.10-19.54.11:341][447]LogSavePackage: Save=248.31ms
 [2018.02.10-19.54.11:341][447]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC0D00550F4F2EC1A16625D5A6803DE8EC.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.02.10-19.54.11:349][447]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-19.57.25:314][824]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-19.57.26:940][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.10-19.57.27:261][854]LogSavePackage: Save=254.24ms
+[2018.02.10-19.57.27:261][854]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC46B6EABC45F26B5712977AAFDA7FEBBA.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.10-19.57.27:269][854]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-20.03.50:015][260]BlueprintLog: New page: Compile 0_base
+[2018.02.10-20.04.03:732][504]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-20.04.03:921][504]LogBlueprint: Error: [Compiler gameplayPC] This blueprint (self) is not a 0_base_C, therefore ' Target ' must have a connection.
+[2018.02.10-20.04.04:591][504]LogBlueprint: Warning: [Compiler gameplayPC] [3717.74] Compile of gameplayPC failed. 1 Fatal Issue(s) 0 Warning(s) [in 858 ms] (/Game/Blueprints/gameplay/gameplayPC.gameplayPC)
+[2018.02.10-20.04.05:762][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/characters/0_base" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/characters/0_base.uasset" SILENT=true
+[2018.02.10-20.04.06:176][526]LogSavePackage: Save=263.68ms
+[2018.02.10-20.04.06:176][526]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/0_base5B4123694C72BDB761E758BD5F407DDA.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/characters/0_base.uasset'
+[2018.02.10-20.04.06:188][526]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/characters/0_base.uasset
+[2018.02.10-20.04.06:294][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/characters/Barbarous" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/characters/Barbarous.uasset" SILENT=true
+[2018.02.10-20.04.06:519][526]LogSavePackage: Save=166.85ms
+[2018.02.10-20.04.06:519][526]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/BarbarousCF6305884A72097B19BB888567B60BED.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/characters/Barbarous.uasset'
+[2018.02.10-20.04.06:530][526]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/characters/Barbarous.uasset
+[2018.02.10-20.04.06:625][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/characters/Forge" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/characters/Forge.uasset" SILENT=true
+[2018.02.10-20.04.06:762][526]LogSavePackage: Save=84.57ms
+[2018.02.10-20.04.06:764][526]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/ForgeFDCD6A7F4E0359DF8E646C874B6981E5.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/characters/Forge.uasset'
+[2018.02.10-20.04.06:779][526]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/characters/Forge.uasset
+[2018.02.10-20.04.06:852][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/characters/Frosty" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/characters/Frosty.uasset" SILENT=true
+[2018.02.10-20.04.07:017][526]LogSavePackage: Save=70.80ms
+[2018.02.10-20.04.07:017][526]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/Frosty39A0721B47276EDCDEAD14A31C3E740C.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/characters/Frosty.uasset'
+[2018.02.10-20.04.07:027][526]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/characters/Frosty.uasset
+[2018.02.10-20.04.07:060][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.10-20.04.07:458][526]LogSavePackage: Save=332.20ms
+[2018.02.10-20.04.07:458][526]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPCED3FD93B4CC629953EED368CF8FD9C9B.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.10-20.04.07:466][526]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-20.04.18:608][773]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-20.04.20:517][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.10-20.04.20:906][796]LogSavePackage: Save=304.43ms
+[2018.02.10-20.04.20:907][796]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC3FAEB5D9483AFFB5BF3D57B481988C16.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.10-20.04.20:916][796]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
