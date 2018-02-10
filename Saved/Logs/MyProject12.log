@@ -491,3 +491,4 @@ LogInit: Object subsystem initialized
 [2018.02.10-20.09.50:801][230]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/Frosty_Auto2734874254724857B1607F3B9C2A3ABA5.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/characters/Frosty_Auto2.uasset'
 [2018.02.10-20.09.50:804][230]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/characters/Frosty_Auto2.uasset
 [2018.02.10-20.09.50:804][230]LogFileHelpers: Auto-saving content packages took 1.493
+[2018.02.10-20.16.09:361][461]BlueprintLog: New page: Compile gameplayPC
