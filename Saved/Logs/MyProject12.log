@@ -393,3 +393,12 @@ LogInit: Object subsystem initialized
 [2018.02.10-19.39.09:677][376]LogSavePackage: Save=318.03ms
 [2018.02.10-19.39.09:677][376]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC2F2CC9014D0F1517614C538161270D36.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.02.10-19.39.09:689][376]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-19.43.57:145][457]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-19.44.22:561][962]BlueprintLog: New page: Compile gameplayPC
+[2018.02.10-19.44.27:658][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.10-19.44.28:163][ 76]LogSavePackage: Save=367.31ms
+[2018.02.10-19.44.28:164][ 76]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC0BD409FE48BF26185198688D2FFB080D.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.10-19.44.28:173][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.10-19.45.28:434][291]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8a9c911f-d5a7-4ebf-b841-f082e72fbb38} was removed. Shutting down audio device.
+[2018.02.10-19.45.28:435][291]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.10-19.45.41:398][316]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)

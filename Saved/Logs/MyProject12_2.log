@@ -1,4 +1,4 @@
-﻿Log file open, 02/10/18 11:41:25
+﻿Log file open, 02/10/18 11:46:35
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: MyProject12
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1915161619) SRandInit(-1915161619).
+LogInit: Display: RandInit(-1207197349) SRandInit(-1207197349).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.337342
+LogStats: Stats thread started at 0.255769
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
@@ -200,413 +200,478 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.02.10-19.41.32:312][  0]LogInit: Selected Device Profile: [Windows]
-[2018.02.10-19.41.32:312][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.02.10-19.41.32:364][  0]LogInit: Computer: DESKTOP-3HTVB4G
-[2018.02.10-19.41.32:364][  0]LogInit: User: Polymake
-[2018.02.10-19.41.32:364][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.02.10-19.41.32:364][  0]LogInit: High frequency timer resolution =2.272934 MHz
-[2018.02.10-19.41.32:365][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
-[2018.02.10-19.41.32:365][  0]LogMemory: Platform Memory Stats for Windows
-[2018.02.10-19.41.32:365][  0]LogMemory: Process Physical Memory: 306.73 MB used, 306.73 MB peak
-[2018.02.10-19.41.32:365][  0]LogMemory: Process Virtual Memory: 281.39 MB used, 281.39 MB peak
-[2018.02.10-19.41.32:365][  0]LogMemory: Physical Memory: 4983.27 MB used,  3207.91 MB free, 8191.18 MB total
-[2018.02.10-19.41.32:365][  0]LogMemory: Virtual Memory: 756.91 MB used,  3207.91 MB free, 134217728.00 MB total
-[2018.02.10-19.41.33:157][  0]LogInit: Using OS detected language (en-US).
-[2018.02.10-19.41.33:158][  0]LogInit: Using OS detected locale (en-US).
-[2018.02.10-19.41.33:166][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.02.10-19.41.34:677][  0]LogD3D11RHI: D3D11 adapters:
-[2018.02.10-19.41.34:836][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
-[2018.02.10-19.41.34:836][  0]LogD3D11RHI:       4029/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.02.10-19.41.34:842][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.02.10-19.41.34:842][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.02.10-19.41.34:842][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.02.10-19.41.34:906][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.02.10-19.41.34:908][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
-[2018.02.10-19.41.34:908][  0]LogWindows: EnumDisplayDevices:
-[2018.02.10-19.41.34:908][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2018.02.10-19.41.34:909][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
-[2018.02.10-19.41.34:909][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2018.02.10-19.41.34:909][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
-[2018.02.10-19.41.34:910][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.02.10-19.41.34:910][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
-[2018.02.10-19.41.34:910][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
-[2018.02.10-19.41.34:910][  0]LogD3D11RHI:      Driver Date: 11-14-2017
-[2018.02.10-19.41.34:910][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
-[2018.02.10-19.41.34:986][  0]LogD3D11RHI: Async texture creation enabled
-[2018.02.10-19.41.35:013][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2018.02.10-19.41.35:073][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../../UE4/steam/steam/Intermediate/Shaders/WorkingDirectory/108812/).
-[2018.02.10-19.41.35:073][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Polymake/AppData/Local/Temp/UnrealShaderWorkingDir/A64C49FC4989AB92F911909D709053F0/'.
-[2018.02.10-19.41.35:074][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.02.10-19.41.39:569][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.02.10-19.41.39:807][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.02.10-19.41.40:035][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.02.10-19.41.40:303][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.02.10-19.41.40:303][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.02.10-19.41.42:621][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.02.10-19.41.43:052][  0]LogDerivedDataCache: Loaded boot cache 0.43s 77MB C:/Users/Polymake/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.02.10-19.41.43:052][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Polymake/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2018.02.10-19.41.43:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE4/steam/steam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.02.10-19.41.43:052][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.02.10-19.41.43:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE4/steam/steam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.02.10-19.41.43:052][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.02.10-19.41.43:094][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.02.10-19.41.43:108][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Polymake/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.02.10-19.41.43:147][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.02.10-19.41.43:149][  0]LogSlate: Using Freetype 2.6.0
-[2018.02.10-19.41.43:150][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.02.10-19.41.43:151][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.02.10-19.41.44:579][  0]LogAssetRegistry: FAssetRegistry took 0.0183 seconds to start up
-[2018.02.10-19.41.44:771][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.191915 seconds
-[2018.02.10-19.41.45:161][  0]LogInit: Selected Device Profile: [Windows]
-[2018.02.10-19.41.46:633][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.02.10-19.41.46:843][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.02.10-19.41.46:843][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.02.10-19.41.46:843][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.02.10-19.41.46:843][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.02.10-19.41.46:843][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.02.10-19.41.46:934][  0]LogNetVersion: MyProject12 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3203290924)
-[2018.02.10-19.41.54:775][  0]LogMoviePlayer: Initializing movie player
-[2018.02.10-19.41.56:107][  0]LogCollectionManager: Loaded 0 collections in 0.003225 seconds
-[2018.02.10-19.41.56:220][  0]LogFileCache: Scanning file cache for directory 'C:/UE4/steam/steam/Saved/Collections/' took 0.01s
-[2018.02.10-19.41.56:220][  0]LogFileCache: Scanning file cache for directory 'C:/UE4/steam/steam/Content/Developers/Polymake/Collections/' took 0.01s
-[2018.02.10-19.41.56:220][  0]LogFileCache: Scanning file cache for directory 'C:/UE4/steam/steam/Content/Collections/' took 0.01s
-[2018.02.10-19.41.56:220][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2018.02.10-19.41.56:220][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000220 seconds (updated 0 objects)
-[2018.02.10-19.41.58:578][  0]SourceControl: Source control is disabled
-[2018.02.10-19.41.58:578][  0]SourceControl: Source control is disabled
-[2018.02.10-19.41.58:776][  0]SourceControl: Source control is disabled
-[2018.02.10-19.42.00:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.02.10-19.42.01:364][  0]LogOcInput: OculusInput pre-init called
-[2018.02.10-19.42.01:808][  0]LogUObjectArray: 38930 objects as part of root set at end of initial load.
-[2018.02.10-19.42.01:808][  0]LogUObjectAllocator: 8563128 out of 0 bytes used by permanent object pool.
-[2018.02.10-19.42.01:808][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.02.10-19.42.02:141][  0]LogEngine: Initializing Engine...
-[2018.02.10-19.42.02:150][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.02.10-19.42.02:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.02.10-19.42.02:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.02.10-19.42.02:867][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2018.02.10-19.42.02:989][  0]LogInit: FAudioDevice initialized.
-[2018.02.10-19.42.03:243][  0]LogDerivedDataCache: Saved boot cache 0.22s 77MB C:/Users/Polymake/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2018.02.10-19.42.03:292][  0]LogInit: Texture streaming: Enabled
-[2018.02.10-19.42.03:354][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2018.02.10-19.42.04:703][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/optionsMenu.optionsMenu_C:playerInfo'. Unknown structure.
-[2018.02.10-19.42.04:706][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/allLevels/playerSaveGame.playerSaveGame_C:S_PlayerINfo'. Unknown structure.
-[2018.02.10-19.42.04:710][  0]LogClass: Warning: Property S_PlayerINfo of S_PlayerINfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../UE4/steam/steam/Content/Blueprints/allLevels/playerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2018.02.10-19.42.04:852][  0]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../UE4/steam/steam/Content/UI/MainMenu/optionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2018.02.10-19.42.05:063][  0]LogClass: Warning: Property S_PlayerINfo of S_PlayerINfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2018.02.10-19.42.05:064][  0]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2018.02.10-19.42.05:351][  0]LogInit: Display: Game Engine Initialized.
-[2018.02.10-19.42.05:352][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.02.10-19.42.06:046][  0]LogInit: Display: Starting Game.
-[2018.02.10-19.42.06:046][  0]LogNet: Browse: /Game/Maps/mainMenu?Name=Player
-[2018.02.10-19.42.06:046][  0]LogLoad: LoadMap: /Game/Maps/mainMenu?Name=Player
-[2018.02.10-19.42.06:595][  0]LogAIModule: Creating AISystem for world mainMenu
-[2018.02.10-19.42.07:142][  0]LogLoad: Game class is 'TopDownGameMode_C'
-[2018.02.10-19.42.07:145][  0]LogWorld: Bringing World /Game/Maps/mainMenu.mainMenu up for play (max tick rate 0) at 2018.02.10-11.42.07
-[2018.02.10-19.42.07:145][  0]LogWorld: Bringing up level for play took: 0.001457
-[2018.02.10-19.42.07:147][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2018.02.10-19.42.07:164][  0]LogLoad: Took 1.117972 seconds to LoadMap(/Game/Maps/mainMenu)
-[2018.02.10-19.42.07:168][  0]LogSlate: Took 0.000964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.02.10-19.42.07:838][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
-[2018.02.10-19.42.07:838][  0]LogLoad: (Engine Initialization) Total time: 45.35 seconds
-[2018.02.10-19.42.07:838][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.02.10-19.42.07:839][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2018.02.10-19.42.07:876][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.02.10-19.42.20:126][688]LogNetVersion: MyProject12 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 878358411)
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: dumping NamedSession: 
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	SessionName: GameSession
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	HostingPlayerNum: 0
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	SessionState: Pending
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	RegisteredPlayers: 
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	    0 registered players
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: dumping Session: 
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	OwningPlayerName: harriswga
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	OwningPlayerId: harriswga [0x110000119AC6958]
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	NumOpenPrivateConnections: 0
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	NumOpenPublicConnections: 1
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198390995288:7777 Type: Lobby session SessionId: Lobby [0x1860000DFCC9961]
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: dumping SessionSettings: 
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	NumPublicConnections: 2
-[2018.02.10-19.42.20:348][701]LogOnline: Verbose: 	NumPrivateConnections: 0
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bIsLanMatch: false
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bIsDedicated: false
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bUsesStats: false
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bShouldAdvertise: true
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bAllowJoinInProgress: true
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bAllowInvites: false
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bUsesPresence: true
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bAllowJoinViaPresence: true
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	bAllowJoinViaPresenceFriendsOnly: false
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	BuildUniqueId: 0x6cd3e102
-[2018.02.10-19.42.20:349][701]LogOnline: Verbose: 	Settings:
-[2018.02.10-19.42.20:575][701]LogPackageName: SearchForPackageOnDisk took   0.225s to resolve lobby.umap.
-[2018.02.10-19.42.20:796][701]LogPackageName: SearchForPackageOnDisk took   0.220s to resolve lobby.umap.
-[2018.02.10-19.42.20:796][701]LogNet: Browse: /Game/Maps/lobby?listen
-[2018.02.10-19.42.20:797][701]LogLoad: LoadMap: /Game/Maps/lobby?listen
-[2018.02.10-19.42.21:414][701]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/Lobby/gameSettings.gameSettings_C:ExecuteUbergraph_gameSettings.CallFunc_Array_Get_Item'. Unknown structure.
-[2018.02.10-19.42.21:418][701]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/Lobby/playerButton.playerButton_C:playerInfo'. Unknown structure.
-[2018.02.10-19.42.21:419][701]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../UE4/steam/steam/Content/UI/Lobby/playerButton.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2018.02.10-19.42.22:113][701]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
-[2018.02.10-19.42.22:640][701]LogAIModule: Creating AISystem for world lobby
-[2018.02.10-19.42.22:640][701]LogLoad: Game class is 'lobbyGM_C'
-[2018.02.10-19.42.22:641][701]LogTemp: Display: ParseSettings for GameNetDriver
-[2018.02.10-19.42.22:641][701]LogTemp: Display: ParseSettings for SteamNetDriver_0
-[2018.02.10-19.42.22:641][701]LogTemp: Display: ParseSettings for GameNetDriver
-[2018.02.10-19.42.22:643][701]LogNet: Display: SteamNetDriver_0 bound to port 7777
-[2018.02.10-19.42.22:643][701]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2018.02.10-19.42.22:643][701]LogNet: GameNetDriver SteamNetDriver_0 IpNetDriver listening on port 7777
-[2018.02.10-19.42.22:656][701]LogWorld: Bringing World /Game/Maps/lobby.lobby up for play (max tick rate 0) at 2018.02.10-11.42.22
-[2018.02.10-19.42.22:656][701]LogWorld: Bringing up level for play took: 0.011065
-[2018.02.10-19.42.22:673][701]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
-[2018.02.10-19.42.22:690][701]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
-[2018.02.10-19.42.22:690][701]LogGameState: Match State Changed from EnteringMap to WaitingToStart
-[2018.02.10-19.42.22:690][701]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
-[2018.02.10-19.42.22:691][701]LogGameState: Match State Changed from WaitingToStart to InProgress
-[2018.02.10-19.42.22:701][701]LogLoad: Took 1.904052 seconds to LoadMap(/Game/Maps/lobby)
-[2018.02.10-19.42.28:317][938]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
-[2018.02.10-19.42.28:317][938]LogHandshake: SendConnectChallenge. Timestamp: 7.986414, Cookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:318][938]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
-[2018.02.10-19.42.28:318][938]LogHandshake: SendConnectChallenge. Timestamp: 7.986414, Cookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:319][938]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
-[2018.02.10-19.42.28:319][938]LogHandshake: SendConnectChallenge. Timestamp: 7.986414, Cookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:319][938]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
-[2018.02.10-19.42.28:319][938]LogHandshake: SendConnectChallenge. Timestamp: 7.986414, Cookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:387][941]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
-[2018.02.10-19.42.28:387][941]LogHandshake: SendChallengeAck. InCookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:388][941]LogNet: Server accepting post-challenge connection from: 76561198011701234:7777
-[2018.02.10-19.42.28:388][941]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
-[2018.02.10-19.42.28:388][941]LogNet: NotifyAcceptedConnection: Name: lobby, TimeStamp: 02/10/18 11:42:28, [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
-[2018.02.10-19.42.28:388][941]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
-[2018.02.10-19.42.28:389][941]LogHandshake: Received unexpected post-connect handshake packet - resending ack.
-[2018.02.10-19.42.28:389][941]LogHandshake: SendChallengeAck. InCookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:389][941]LogHandshake: Received unexpected post-connect handshake packet - resending ack.
-[2018.02.10-19.42.28:389][941]LogHandshake: SendChallengeAck. InCookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:390][941]LogHandshake: Received unexpected post-connect handshake packet - resending ack.
-[2018.02.10-19.42.28:390][941]LogHandshake: SendChallengeAck. InCookie: 033065247203251228133008168010236020002068203133126077252095
-[2018.02.10-19.42.28:446][943]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/lobby.lobby: Accepted
-[2018.02.10-19.42.28:446][943]LogNet: Remote platform little endian=1
-[2018.02.10-19.42.28:446][943]LogNet: This platform little endian=1
-[2018.02.10-19.42.28:484][945]LogNet: Login request: /Game/Maps/mainMenu?Name=Ian userId: 76561198011701234
-[2018.02.10-19.42.28:607][947]LogNet: Client netspeed is 10000
-[2018.02.10-19.42.28:944][960]LogNet: Join request: /Game/Maps/mainMenu?Name=Ian?SplitscreenCount=1
-[2018.02.10-19.42.28:955][960]LogNet: Join succeeded: Ian
-[2018.02.10-19.42.29:248][971]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
-[2018.02.10-19.42.37:431][287]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
-[2018.02.10-19.42.37:431][287]LogGameState: Match State Changed from InProgress to LeavingMap
-[2018.02.10-19.42.37:438][287]LogGameMode: ProcessServerTravel: /Game/Maps/Arena01
-[2018.02.10-19.42.37:438][287]LogWorld: SeamlessTravel to: /Game/Maps/Arena01
-[2018.02.10-19.42.37:539][288]LogAIModule: Creating AISystem for world travelMap
-[2018.02.10-19.42.37:545][288]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.004 s
-[2018.02.10-19.42.37:546][288]LogWorld: Bringing World /Game/Maps/travelMap.travelMap up for play (max tick rate 0) at 2018.02.10-11.42.37
-[2018.02.10-19.42.37:547][288]LogWorld: Bringing up level for play took: 0.001238
-[2018.02.10-19.42.37:547][288]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: lobbyPlayerController_C_0
-[2018.02.10-19.42.37:547][288]LogNet: Verbose: NotifyLoadedWorld Begin
-[2018.02.10-19.42.37:547][288]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
-[2018.02.10-19.42.37:547][288]LogNet: Verbose: NotifyLoadedWorld End
-[2018.02.10-19.42.37:547][288]LogWorld: StartLoadingDestination to: /Game/Maps/Arena01
-[2018.02.10-19.42.38:180][296]LogAIModule: Creating AISystem for world arena01
-[2018.02.10-19.42.38:181][296]LogLoad: Game class is 'gameplayGM_C'
-[2018.02.10-19.42.38:183][296]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.002 s
-[2018.02.10-19.42.38:190][296]LogWorld: Bringing World /Game/Maps/Arena01.arena01 up for play (max tick rate 0) at 2018.02.10-11.42.38
-[2018.02.10-19.42.38:190][296]LogWorld: Bringing up level for play took: 0.006991
-[2018.02.10-19.42.38:191][296]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: lobbyPlayerController_C_0
-[2018.02.10-19.42.38:191][296]LogNet: Verbose: NotifyLoadedWorld Begin
-[2018.02.10-19.42.38:191][296]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
-[2018.02.10-19.42.38:191][296]LogNet: Verbose: NotifyLoadedWorld End
-[2018.02.10-19.42.38:191][296]LogWorld: ----SeamlessTravel finished in 0.75 seconds ------
-[2018.02.10-19.42.38:191][296]LogGameMode: >> GameMode::HandleSeamlessTravelPlayer: lobbyPlayerController_C_0 
-[2018.02.10-19.42.38:194][296]LogGameMode: << GameMode::HandleSeamlessTravelPlayer: gameplayPC_C_0
-[2018.02.10-19.42.38:194][296]LogGameMode: >> GameMode::HandleSeamlessTravelPlayer: lobbyPlayerController_C_1 
-[2018.02.10-19.42.38:196][296]LogGameMode: << GameMode::HandleSeamlessTravelPlayer: gameplayPC_C_1
-[2018.02.10-19.42.38:196][296]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
-[2018.02.10-19.42.38:196][296]LogGameState: Match State Changed from EnteringMap to WaitingToStart
-[2018.02.10-19.42.38:196][296]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
-[2018.02.10-19.42.38:202][296]LogBlueprintUserMessages: [gameplayPC_C_0] loaded game for arena
-[2018.02.10-19.42.38:215][296]LogBlueprintUserMessages: [gameplayPC_C_1] loaded game for arena
-[2018.02.10-19.42.38:221][296]LogGameState: Match State Changed from WaitingToStart to InProgress
-[2018.02.10-19.42.38:259][298]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:0).
-[2018.02.10-19.42.38:361][298]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
-[2018.02.10-19.42.38:413][298]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
-[2018.02.10-19.42.47:756][627]LogAudio: Warning: Waited 59.650211ms for audio thread.
-[2018.02.10-19.42.47:836][628]LogAudio: Warning: Waited 70.250610ms for audio thread.
-[2018.02.10-19.42.47:844][628]LogAudio: Warning: Waited 78.579056ms for audio thread.
-[2018.02.10-19.43.08:031][335]Closing by request
-[2018.02.10-19.43.08:031][335]LogWindows: FPlatformMisc::RequestExit(0)
-[2018.02.10-19.43.08:086][336]LogNet: World NetDriver shutdown SteamNetDriver_0 [GameNetDriver]
-[2018.02.10-19.43.08:086][336]LogNet: DestroyNamedNetDriver SteamNetDriver_0 [GameNetDriver]
-[2018.02.10-19.43.08:087][336]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: gameplayPC_C_1, Owner: gameplayPC_C_1
-[2018.02.10-19.43.08:087][336]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: gameplayPC_C_1, Owner: gameplayPC_C_1, Channels: 12, Time: 2018.02.10-19.43.08
-[2018.02.10-19.43.08:087][336]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: gameplayPC_C_1, Owner: gameplayPC_C_1
-[2018.02.10-19.43.08:087][336]LogExit: GameNetDriver SteamNetDriver_0 shut down
-[2018.02.10-19.43.08:212][336]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.02.10-19.43.08:215][336]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.02.10-19.43.08:252][336]LogExit: Preparing to exit.
-[2018.02.10-19.43.08:252][336]LogMoviePlayer: Shutting down movie player
-[2018.02.10-19.43.08:446][336]LogExit: Game engine shut down
-[2018.02.10-19.43.08:712][336]LogExit: Object subsystem successfully closed.
-[2018.02.10-19.43.08:738][336]LogD3D11RHI: Shutdown
-[2018.02.10-19.43.08:738][336]LogD3D11RHI: CleanupD3DDevice
-[2018.02.10-19.43.08:745][336]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.02.10-19.43.08:782][336]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (314)
-[2018.02.10-19.43.08:782][336]LogModuleManager: Shutting down and abandoning module SequenceRecorder (312)
-[2018.02.10-19.43.08:782][336]LogModuleManager: Shutting down and abandoning module AutomationController (310)
-[2018.02.10-19.43.08:782][336]LogModuleManager: Shutting down and abandoning module AutomationWorker (308)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module AIModule (306)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module GameplayDebugger (305)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module AITestSuite (303)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (300)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (298)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (296)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (294)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module CharacterAI (292)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module SessionServices (290)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (288)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (286)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module MovieScene (284)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module GeometryCache (282)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (281)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (278)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module PortalServices (276)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module PortalRpc (274)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module MessagingRpc (272)
-[2018.02.10-19.43.08:783][336]LogModuleManager: Shutting down and abandoning module ProfilerService (270)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module TaskGraph (268)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module SteamVRController (266)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (264)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module OculusInput (262)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (260)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (258)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module CableComponent (256)
-[2018.02.10-19.43.09:006][336]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (254)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module AndroidPermission (252)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module ActorSequence (248)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module MediaCompositing (246)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module HTML5Networking (244)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (242)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module HotReload (241)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (238)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module UObjectPlugin (236)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (234)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (232)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module SourceControl (231)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module FacialAnimation (210)
-[2018.02.10-19.43.09:007][336]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (208)
-[2018.02.10-19.43.09:008][336]LogModuleManager: Shutting down and abandoning module GraphEditor (207)
-[2018.02.10-19.43.09:008][336]LogModuleManager: Shutting down and abandoning module ContentBrowser (205)
-[2018.02.10-19.43.09:008][336]LogModuleManager: Shutting down and abandoning module CollectionManager (204)
-[2018.02.10-19.43.09:008][336]LogDirectoryWatcher: A directory notification for 'C:/UE4/steam/steam/Content/Collections/' was aborted.
-[2018.02.10-19.43.09:008][336]LogDirectoryWatcher: A directory notification for 'C:/UE4/steam/steam/Content/Developers/Polymake/Collections/' was aborted.
-[2018.02.10-19.43.09:008][336]LogDirectoryWatcher: A directory notification for 'C:/UE4/steam/steam/Saved/Collections/' was aborted.
-[2018.02.10-19.43.09:008][336]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (203)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (198)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module Paper2D (196)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (194)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module WmfMedia (192)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module ImgMedia (190)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module PacketHandler (188)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (186)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (184)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module MediaAssets (182)
-[2018.02.10-19.43.09:009][336]LogModuleManager: Shutting down and abandoning module Media (181)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module Overlay (178)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module VREditor (174)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module UMG (160)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module Sequencer (158)
-[2018.02.10-19.43.09:016][336]LogModuleManager: Shutting down and abandoning module MessageLog (155)
-[2018.02.10-19.43.09:017][336]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
-[2018.02.10-19.43.09:017][336]LogModuleManager: Shutting down and abandoning module Slate (148)
-[2018.02.10-19.43.09:017][336]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module MRMesh (144)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module Messaging (142)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module Networking (134)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module Core (132)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
-[2018.02.10-19.43.09:022][336]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
-[2018.02.10-19.43.09:023][336]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
-[2018.02.10-19.43.09:023][336]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
-[2018.02.10-19.43.09:023][336]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
-[2018.02.10-19.43.09:023][336]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
-[2018.02.10-19.43.09:257][336]LogDerivedDataCache: Shutdown
-[2018.02.10-19.43.09:257][336]LogModuleManager: Shutting down and abandoning module TargetPlatform (108)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (107)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (105)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (103)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (101)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (99)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (97)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (95)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (93)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (91)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (89)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module ImageWrapper (88)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (85)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (83)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (81)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (79)
-[2018.02.10-19.43.09:258][336]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (77)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (75)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (73)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (71)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module InputCore (68)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module Settings (66)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module SteamVR (62)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module AppleARKit (56)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module AugmentedReality (55)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (52)
-[2018.02.10-19.43.09:259][336]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (48)
-[2018.02.10-19.43.09:259][336]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-[2018.02.10-19.43.09:259][336]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[4/0]
-[2018.02.10-19.43.09:302][336]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
-[2018.02.10-19.43.09:302][336]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
-[2018.02.10-19.43.09:302][336]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-[2018.02.10-19.43.09:302][336]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.02.10-19.43.09:302][336]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.02.10-19.43.09:310][336]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.02.10-19.43.09:312][336]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.02.10-19.43.09:312][336]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.02.10-19.43.09:312][336]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.02.10-19.43.09:313][336]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.02.10-19.43.09:313][336]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.02.10-19.43.09:313][336]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.02.10-19.43.09:313][336]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.02.10-19.43.09:314][336]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.02.10-19.43.09:314][336]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.02.10-19.43.09:314][336]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.02.10-19.43.09:314][336]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.02.10-19.43.09:314][336]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.02.10-19.43.09:315][336]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.02.10-19.43.09:315][336]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.02.10-19.43.09:315][336]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.02.10-19.43.09:315][336]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.02.10-19.43.09:315][336]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.02.10-19.43.09:315][336]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.02.10-19.43.09:324][336]LogExit: Exiting.
-[2018.02.10-19.43.09:327][336]Log file closed, 02/10/18 11:43:09
+[2018.02.10-19.46.40:138][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.10-19.46.40:138][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.10-19.46.40:166][  0]LogInit: Computer: DESKTOP-3HTVB4G
+[2018.02.10-19.46.40:166][  0]LogInit: User: Polymake
+[2018.02.10-19.46.40:166][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.10-19.46.40:166][  0]LogInit: High frequency timer resolution =2.272934 MHz
+[2018.02.10-19.46.40:167][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.02.10-19.46.40:167][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.10-19.46.40:167][  0]LogMemory: Process Physical Memory: 306.73 MB used, 306.73 MB peak
+[2018.02.10-19.46.40:167][  0]LogMemory: Process Virtual Memory: 281.39 MB used, 281.39 MB peak
+[2018.02.10-19.46.40:167][  0]LogMemory: Physical Memory: 4711.34 MB used,  3479.84 MB free, 8191.18 MB total
+[2018.02.10-19.46.40:167][  0]LogMemory: Virtual Memory: 756.91 MB used,  3479.84 MB free, 134217728.00 MB total
+[2018.02.10-19.46.40:690][  0]LogInit: Using OS detected language (en-US).
+[2018.02.10-19.46.40:690][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.10-19.46.40:697][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.10-19.46.41:759][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.10-19.46.41:865][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.02.10-19.46.41:865][  0]LogD3D11RHI:       4029/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.10-19.46.41:871][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.10-19.46.41:871][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.10-19.46.41:871][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.10-19.46.41:921][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.10-19.46.41:922][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.10-19.46.41:922][  0]LogWindows: EnumDisplayDevices:
+[2018.02.10-19.46.41:922][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.02.10-19.46.41:922][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2018.02.10-19.46.41:923][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.02.10-19.46.41:923][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.02.10-19.46.41:923][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.02.10-19.46.41:923][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.02.10-19.46.41:923][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2018.02.10-19.46.41:923][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2018.02.10-19.46.41:923][  0]LogRHI: Texture pool is 2820 MB (70% of 4029 MB)
+[2018.02.10-19.46.41:989][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.10-19.46.42:010][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.10-19.46.42:054][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../../UE4/steam/steam/Intermediate/Shaders/WorkingDirectory/105076/).
+[2018.02.10-19.46.42:055][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Polymake/AppData/Local/Temp/UnrealShaderWorkingDir/CB6B397846583A9D68504DB05002B97A/'.
+[2018.02.10-19.46.42:055][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.10-19.46.44:847][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.10-19.46.45:007][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.10-19.46.45:166][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.10-19.46.45:328][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.10-19.46.45:328][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.10-19.46.46:890][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.10-19.46.47:143][  0]LogDerivedDataCache: Loaded boot cache 0.25s 77MB C:/Users/Polymake/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.10-19.46.47:143][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Polymake/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.10-19.46.47:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UE4/steam/steam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.10-19.46.47:143][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.10-19.46.47:144][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UE4/steam/steam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.10-19.46.47:144][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.10-19.46.47:176][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.10-19.46.47:189][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Polymake/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.10-19.46.47:215][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.10-19.46.47:215][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.10-19.46.47:217][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.10-19.46.47:217][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.10-19.46.48:202][  0]LogAssetRegistry: FAssetRegistry took 0.0105 seconds to start up
+[2018.02.10-19.46.48:324][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.121873 seconds
+[2018.02.10-19.46.48:588][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.10-19.46.49:566][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.10-19.46.49:702][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.10-19.46.49:702][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.10-19.46.49:702][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.10-19.46.49:702][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.10-19.46.49:702][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.10-19.46.49:758][  0]LogNetVersion: MyProject12 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3203290924)
+[2018.02.10-19.46.55:106][  0]LogMoviePlayer: Initializing movie player
+[2018.02.10-19.46.56:073][  0]LogCollectionManager: Loaded 0 collections in 0.003228 seconds
+[2018.02.10-19.46.56:170][  0]LogFileCache: Scanning file cache for directory 'C:/UE4/steam/steam/Saved/Collections/' took 0.01s
+[2018.02.10-19.46.56:170][  0]LogFileCache: Scanning file cache for directory 'C:/UE4/steam/steam/Content/Developers/Polymake/Collections/' took 0.01s
+[2018.02.10-19.46.56:170][  0]LogFileCache: Scanning file cache for directory 'C:/UE4/steam/steam/Content/Collections/' took 0.01s
+[2018.02.10-19.46.56:170][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.10-19.46.56:170][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000176 seconds (updated 0 objects)
+[2018.02.10-19.46.58:133][  0]SourceControl: Source control is disabled
+[2018.02.10-19.46.58:133][  0]SourceControl: Source control is disabled
+[2018.02.10-19.46.58:297][  0]SourceControl: Source control is disabled
+[2018.02.10-19.46.59:534][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.10-19.47.00:369][  0]LogOcInput: OculusInput pre-init called
+[2018.02.10-19.47.00:720][  0]LogUObjectArray: 38930 objects as part of root set at end of initial load.
+[2018.02.10-19.47.00:720][  0]LogUObjectAllocator: 8563128 out of 0 bytes used by permanent object pool.
+[2018.02.10-19.47.00:720][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.10-19.47.00:999][  0]LogEngine: Initializing Engine...
+[2018.02.10-19.47.01:006][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.10-19.47.01:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.10-19.47.01:482][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.10-19.47.01:519][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.10-19.47.01:546][  0]LogInit: FAudioDevice initialized.
+[2018.02.10-19.47.01:764][  0]LogDerivedDataCache: Saved boot cache 0.19s 77MB C:/Users/Polymake/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.10-19.47.01:807][  0]LogInit: Texture streaming: Enabled
+[2018.02.10-19.47.01:863][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.10-19.47.02:925][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/optionsMenu.optionsMenu_C:playerInfo'. Unknown structure.
+[2018.02.10-19.47.02:927][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/allLevels/playerSaveGame.playerSaveGame_C:S_PlayerINfo'. Unknown structure.
+[2018.02.10-19.47.02:929][  0]LogClass: Warning: Property S_PlayerINfo of S_PlayerINfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../UE4/steam/steam/Content/Blueprints/allLevels/playerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.10-19.47.03:030][  0]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../UE4/steam/steam/Content/UI/MainMenu/optionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.10-19.47.03:213][  0]LogClass: Warning: Property S_PlayerINfo of S_PlayerINfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.10-19.47.03:214][  0]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.10-19.47.03:464][  0]LogInit: Display: Game Engine Initialized.
+[2018.02.10-19.47.03:464][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.10-19.47.04:001][  0]LogInit: Display: Starting Game.
+[2018.02.10-19.47.04:001][  0]LogNet: Browse: /Game/Maps/mainMenu?Name=Player
+[2018.02.10-19.47.04:002][  0]LogLoad: LoadMap: /Game/Maps/mainMenu?Name=Player
+[2018.02.10-19.47.04:468][  0]LogAIModule: Creating AISystem for world mainMenu
+[2018.02.10-19.47.04:858][  0]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.10-19.47.04:860][  0]LogWorld: Bringing World /Game/Maps/mainMenu.mainMenu up for play (max tick rate 0) at 2018.02.10-11.47.04
+[2018.02.10-19.47.04:861][  0]LogWorld: Bringing up level for play took: 0.001363
+[2018.02.10-19.47.04:862][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.02.10-19.47.04:872][  0]LogLoad: Took 0.870345 seconds to LoadMap(/Game/Maps/mainMenu)
+[2018.02.10-19.47.05:424][  0]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2018.02.10-19.47.05:424][  0]LogLoad: (Engine Initialization) Total time: 31.41 seconds
+[2018.02.10-19.47.05:424][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.10-19.47.05:425][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.10-19.47.05:443][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.10-19.47.05:448][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.10-19.47.09:337][229]LogSlate: Took 0.000449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.10-19.47.13:590][493]LogNetVersion: MyProject12 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 878358411)
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: dumping NamedSession: 
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	SessionName: GameSession
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	HostingPlayerNum: 0
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	SessionState: Pending
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	RegisteredPlayers: 
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	    0 registered players
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: dumping Session: 
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	OwningPlayerName: harriswga
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	OwningPlayerId: harriswga [0x110000119AC6958]
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	NumOpenPrivateConnections: 0
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	NumOpenPublicConnections: 1
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198390995288:7777 Type: Lobby session SessionId: Lobby [0x1860000DFCCBA29]
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: dumping SessionSettings: 
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	NumPublicConnections: 2
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	NumPrivateConnections: 0
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bIsLanMatch: false
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bIsDedicated: false
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bUsesStats: false
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bShouldAdvertise: true
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bAllowJoinInProgress: true
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bAllowInvites: false
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bUsesPresence: true
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bAllowJoinViaPresence: true
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	bAllowJoinViaPresenceFriendsOnly: false
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	BuildUniqueId: 0x6cd3e102
+[2018.02.10-19.47.13:761][504]LogOnline: Verbose: 	Settings:
+[2018.02.10-19.47.13:930][504]LogPackageName: SearchForPackageOnDisk took   0.168s to resolve lobby.umap.
+[2018.02.10-19.47.14:093][504]LogPackageName: SearchForPackageOnDisk took   0.162s to resolve lobby.umap.
+[2018.02.10-19.47.14:093][504]LogNet: Browse: /Game/Maps/lobby?listen
+[2018.02.10-19.47.14:093][504]LogLoad: LoadMap: /Game/Maps/lobby?listen
+[2018.02.10-19.47.14:462][504]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/Lobby/gameSettings.gameSettings_C:ExecuteUbergraph_gameSettings.CallFunc_Array_Get_Item'. Unknown structure.
+[2018.02.10-19.47.14:465][504]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/Lobby/playerButton.playerButton_C:playerInfo'. Unknown structure.
+[2018.02.10-19.47.14:465][504]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../UE4/steam/steam/Content/UI/Lobby/playerButton.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.10-19.47.14:956][504]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.10-19.47.15:331][504]LogAIModule: Creating AISystem for world lobby
+[2018.02.10-19.47.15:331][504]LogLoad: Game class is 'lobbyGM_C'
+[2018.02.10-19.47.15:331][504]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.10-19.47.15:332][504]LogTemp: Display: ParseSettings for SteamNetDriver_0
+[2018.02.10-19.47.15:332][504]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.02.10-19.47.15:332][504]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2018.02.10-19.47.15:333][504]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.10-19.47.15:333][504]LogNet: GameNetDriver SteamNetDriver_0 IpNetDriver listening on port 7777
+[2018.02.10-19.47.15:339][504]LogWorld: Bringing World /Game/Maps/lobby.lobby up for play (max tick rate 0) at 2018.02.10-11.47.15
+[2018.02.10-19.47.15:340][504]LogWorld: Bringing up level for play took: 0.005568
+[2018.02.10-19.47.15:348][504]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2018.02.10-19.47.15:365][504]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.10-19.47.15:365][504]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.10-19.47.15:365][504]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.10-19.47.15:366][504]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.10-19.47.15:366][504]LogLoad: Took 1.273121 seconds to LoadMap(/Game/Maps/lobby)
+[2018.02.10-19.47.40:149][ 31]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
+[2018.02.10-19.47.40:150][ 31]LogHandshake: SendConnectChallenge. Timestamp: 26.399334, Cookie: 134019220067214203153211076085106243052220012109048079041032
+[2018.02.10-19.47.40:166][ 32]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
+[2018.02.10-19.47.40:166][ 32]LogHandshake: SendConnectChallenge. Timestamp: 26.415514, Cookie: 129031195197174089209197065183177109042004056152251248137185
+[2018.02.10-19.47.40:214][ 35]LogNet: NotifyAcceptingConnection accepted from: 76561198011701234:7777
+[2018.02.10-19.47.40:214][ 35]LogHandshake: SendChallengeAck. InCookie: 134019220067214203153211076085106243052220012109048079041032
+[2018.02.10-19.47.40:214][ 35]LogNet: Server accepting post-challenge connection from: 76561198011701234:7777
+[2018.02.10-19.47.40:215][ 35]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.02.10-19.47.40:215][ 35]LogNet: NotifyAcceptedConnection: Name: lobby, TimeStamp: 02/10/18 11:47:40, [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.10-19.47.40:215][ 35]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.02.10-19.47.40:215][ 35]LogHandshake: Received unexpected post-connect handshake packet - resending ack.
+[2018.02.10-19.47.40:215][ 35]LogHandshake: SendChallengeAck. InCookie: 134019220067214203153211076085106243052220012109048079041032
+[2018.02.10-19.47.40:262][ 38]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/lobby.lobby: Accepted
+[2018.02.10-19.47.40:263][ 38]LogNet: Remote platform little endian=1
+[2018.02.10-19.47.40:263][ 38]LogNet: This platform little endian=1
+[2018.02.10-19.47.40:311][ 41]LogNet: Login request: /Game/Maps/mainMenu?Name=Ian userId: 76561198011701234
+[2018.02.10-19.47.40:359][ 44]LogNet: Client netspeed is 10000
+[2018.02.10-19.47.42:215][159]LogNet: Join request: /Game/Maps/mainMenu?Name=Ian?SplitscreenCount=1
+[2018.02.10-19.47.42:223][159]LogNet: Join succeeded: Ian
+[2018.02.10-19.47.42:522][178]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2018.02.10-19.47.49:331][600]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.02.10-19.47.49:331][600]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.02.10-19.47.49:336][600]LogGameMode: ProcessServerTravel: /Game/Maps/Arena01
+[2018.02.10-19.47.49:336][600]LogWorld: SeamlessTravel to: /Game/Maps/Arena01
+[2018.02.10-19.47.49:395][601]LogAIModule: Creating AISystem for world travelMap
+[2018.02.10-19.47.49:396][601]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2018.02.10-19.47.49:397][601]LogWorld: Bringing World /Game/Maps/travelMap.travelMap up for play (max tick rate 0) at 2018.02.10-11.47.49
+[2018.02.10-19.47.49:398][601]LogWorld: Bringing up level for play took: 0.001253
+[2018.02.10-19.47.49:398][601]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: lobbyPlayerController_C_0
+[2018.02.10-19.47.49:398][601]LogNet: Verbose: NotifyLoadedWorld Begin
+[2018.02.10-19.47.49:398][601]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2018.02.10-19.47.49:398][601]LogNet: Verbose: NotifyLoadedWorld End
+[2018.02.10-19.47.49:398][601]LogWorld: StartLoadingDestination to: /Game/Maps/Arena01
+[2018.02.10-19.47.49:729][607]LogAIModule: Creating AISystem for world arena01
+[2018.02.10-19.47.49:729][607]LogLoad: Game class is 'gameplayGM_C'
+[2018.02.10-19.47.49:730][607]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.001 s
+[2018.02.10-19.47.49:735][607]LogWorld: Bringing World /Game/Maps/Arena01.arena01 up for play (max tick rate 0) at 2018.02.10-11.47.49
+[2018.02.10-19.47.49:736][607]LogWorld: Bringing up level for play took: 0.006161
+[2018.02.10-19.47.49:737][607]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: lobbyPlayerController_C_0
+[2018.02.10-19.47.49:737][607]LogNet: Verbose: NotifyLoadedWorld Begin
+[2018.02.10-19.47.49:737][607]LogNet: VeryVerbose: GetFunctionCallspace Server calling Server function: ServerNotifyLoadedWorld Local
+[2018.02.10-19.47.49:737][607]LogNet: Verbose: NotifyLoadedWorld End
+[2018.02.10-19.47.49:737][607]LogWorld: ----SeamlessTravel finished in 0.40 seconds ------
+[2018.02.10-19.47.49:737][607]LogGameMode: >> GameMode::HandleSeamlessTravelPlayer: lobbyPlayerController_C_0 
+[2018.02.10-19.47.49:739][607]LogGameMode: << GameMode::HandleSeamlessTravelPlayer: gameplayPC_C_0
+[2018.02.10-19.47.49:739][607]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.10-19.47.49:739][607]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.10-19.47.49:739][607]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.10-19.47.49:741][607]LogBlueprintUserMessages: [gameplayPC_C_0] loaded game for arena
+[2018.02.10-19.47.49:745][607]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.10-19.47.49:758][609]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:0).
+[2018.02.10-19.47.49:815][609]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2018.02.10-19.47.50:003][618]LogGameMode: >> GameMode::HandleSeamlessTravelPlayer: lobbyPlayerController_C_1 
+[2018.02.10-19.47.50:005][618]LogGameMode: << GameMode::HandleSeamlessTravelPlayer: gameplayPC_C_1
+[2018.02.10-19.47.50:068][622]LogScriptCore: Warning: Script Msg: DestroySession - Invalid player state
+[2018.02.10-19.47.51:957][739]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.52:150][751]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.52:957][801]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.53:134][812]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.53:392][828]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.53:571][839]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.53:765][851]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.53:974][864]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.54:168][876]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.54:394][890]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.54:587][902]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.54:797][915]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.55:055][931]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.55:264][944]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.55:460][956]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.55:669][969]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.55:863][981]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.56:073][994]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.56:300][  8]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.56:477][ 19]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.56:703][ 33]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.56:946][ 48]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.57:155][ 61]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.57:332][ 72]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.57:543][ 85]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.57:946][110]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.58:123][121]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.47.58:349][135]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.01:065][303]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.01:227][313]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.01:455][327]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.02:315][380]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.02:510][392]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.02:705][404]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.02:898][416]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.03:109][429]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.03:318][442]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.03:546][456]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.03:755][469]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.04:063][488]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.04:272][501]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.04:610][522]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.04:918][541]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.05:209][559]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.05:434][573]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.05:676][588]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.05:860][598]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.06:067][611]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.06:261][623]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.06:422][633]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.06:680][649]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.06:876][661]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.07:150][678]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.07:376][692]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.07:650][709]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.07:878][723]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.08:151][740]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.08:393][755]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.08:653][771]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.08:895][786]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.09:104][799]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.09:363][815]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.09:592][829]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.09:866][846]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.10:109][861]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.10:323][874]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.10:596][891]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.10:841][906]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.11:098][922]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.11:324][936]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.11:520][948]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.11:781][964]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.12:024][979]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.12:267][994]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.12:528][ 10]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.12:754][ 24]LogBlueprintUserMessages: [gameplayPC_C_0] cast succeeded on Click
+[2018.02.10-19.48.15:681][196]Closing by request
+[2018.02.10-19.48.15:681][196]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.02.10-19.48.15:695][197]LogNet: World NetDriver shutdown SteamNetDriver_0 [GameNetDriver]
+[2018.02.10-19.48.15:695][197]LogNet: DestroyNamedNetDriver SteamNetDriver_0 [GameNetDriver]
+[2018.02.10-19.48.15:696][197]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: gameplayPC_C_1, Owner: gameplayPC_C_1
+[2018.02.10-19.48.15:696][197]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: gameplayPC_C_1, Owner: gameplayPC_C_1, Channels: 11, Time: 2018.02.10-19.48.15
+[2018.02.10-19.48.15:696][197]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198011701234:7777, Name: SteamNetConnection_0, Driver: GameNetDriver SteamNetDriver_0, IsServer: YES, PC: gameplayPC_C_1, Owner: gameplayPC_C_1
+[2018.02.10-19.48.15:697][197]LogExit: GameNetDriver SteamNetDriver_0 shut down
+[2018.02.10-19.48.16:059][197]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.10-19.48.16:061][197]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.10-19.48.16:086][197]LogExit: Preparing to exit.
+[2018.02.10-19.48.16:087][197]LogMoviePlayer: Shutting down movie player
+[2018.02.10-19.48.16:200][197]LogExit: Game engine shut down
+[2018.02.10-19.48.16:347][197]LogExit: Object subsystem successfully closed.
+[2018.02.10-19.48.16:373][197]LogD3D11RHI: Shutdown
+[2018.02.10-19.48.16:373][197]LogD3D11RHI: CleanupD3DDevice
+[2018.02.10-19.48.16:378][197]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (314)
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module SequenceRecorder (312)
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module AutomationController (310)
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module AutomationWorker (308)
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module AIModule (306)
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module GameplayDebugger (305)
+[2018.02.10-19.48.16:401][197]LogModuleManager: Shutting down and abandoning module AITestSuite (303)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (300)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (298)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (296)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (294)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module CharacterAI (292)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module SessionServices (290)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (288)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (286)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module MovieScene (284)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module GeometryCache (282)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (281)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (278)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module PortalServices (276)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module PortalRpc (274)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module MessagingRpc (272)
+[2018.02.10-19.48.16:402][197]LogModuleManager: Shutting down and abandoning module ProfilerService (270)
+[2018.02.10-19.48.16:484][197]LogModuleManager: Shutting down and abandoning module TaskGraph (268)
+[2018.02.10-19.48.16:484][197]LogModuleManager: Shutting down and abandoning module SteamVRController (266)
+[2018.02.10-19.48.16:484][197]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (264)
+[2018.02.10-19.48.16:484][197]LogModuleManager: Shutting down and abandoning module OculusInput (262)
+[2018.02.10-19.48.16:484][197]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (260)
+[2018.02.10-19.48.16:484][197]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (258)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module CableComponent (256)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (254)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module AndroidPermission (252)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module ActorSequence (248)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module MediaCompositing (246)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module HTML5Networking (244)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (242)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module HotReload (241)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (238)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module UObjectPlugin (236)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (234)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (232)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module SourceControl (231)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
+[2018.02.10-19.48.16:485][197]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (212)
+[2018.02.10-19.48.16:486][197]LogModuleManager: Shutting down and abandoning module FacialAnimation (210)
+[2018.02.10-19.48.16:486][197]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (208)
+[2018.02.10-19.48.16:486][197]LogModuleManager: Shutting down and abandoning module GraphEditor (207)
+[2018.02.10-19.48.16:486][197]LogModuleManager: Shutting down and abandoning module ContentBrowser (205)
+[2018.02.10-19.48.16:486][197]LogModuleManager: Shutting down and abandoning module CollectionManager (204)
+[2018.02.10-19.48.16:486][197]LogDirectoryWatcher: A directory notification for 'C:/UE4/steam/steam/Content/Collections/' was aborted.
+[2018.02.10-19.48.16:486][197]LogDirectoryWatcher: A directory notification for 'C:/UE4/steam/steam/Content/Developers/Polymake/Collections/' was aborted.
+[2018.02.10-19.48.16:486][197]LogDirectoryWatcher: A directory notification for 'C:/UE4/steam/steam/Saved/Collections/' was aborted.
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (203)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (198)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (194)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module WmfMedia (192)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module ImgMedia (190)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module PacketHandler (188)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (186)
+[2018.02.10-19.48.16:487][197]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (184)
+[2018.02.10-19.48.16:488][197]LogModuleManager: Shutting down and abandoning module MediaAssets (182)
+[2018.02.10-19.48.16:488][197]LogModuleManager: Shutting down and abandoning module Media (181)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.02.10-19.48.16:494][197]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2018.02.10-19.48.16:499][197]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2018.02.10-19.48.16:810][197]LogDerivedDataCache: Shutdown
+[2018.02.10-19.48.16:810][197]LogModuleManager: Shutting down and abandoning module TargetPlatform (108)
+[2018.02.10-19.48.16:810][197]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (107)
+[2018.02.10-19.48.16:810][197]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (105)
+[2018.02.10-19.48.16:810][197]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (103)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (101)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (99)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (97)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (95)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (93)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (91)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (89)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module ImageWrapper (88)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (85)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (83)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (81)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (79)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (77)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (75)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (73)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (71)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module InputCore (68)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module Settings (66)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module SteamVR (62)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module AppleARKit (56)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module AugmentedReality (55)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (52)
+[2018.02.10-19.48.16:811][197]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (48)
+[2018.02.10-19.48.16:811][197]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.02.10-19.48.16:811][197]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[4/0]
+[2018.02.10-19.48.16:852][197]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.02.10-19.48.16:853][197]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.02.10-19.48.16:853][197]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.02.10-19.48.16:853][197]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.10-19.48.16:853][197]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.10-19.48.16:867][197]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.10-19.48.16:869][197]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.10-19.48.16:870][197]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.10-19.48.16:870][197]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.10-19.48.16:870][197]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.10-19.48.16:870][197]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.10-19.48.16:870][197]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.10-19.48.16:870][197]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.10-19.48.16:871][197]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.10-19.48.16:875][197]LogExit: Exiting.
+[2018.02.10-19.48.16:877][197]Log file closed, 02/10/18 11:48:16
