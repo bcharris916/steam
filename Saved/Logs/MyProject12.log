@@ -417,3 +417,30 @@ LogInit: Object subsystem initialized
 [2018.02.11-01.13.17:893][159]LogSavePackage: Save=236.41ms
 [2018.02.11-01.13.17:894][159]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM2B411C0D42773004DAA9FABC344A3E3E.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
 [2018.02.11-01.13.17:953][159]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.02.11-01.29.35:971][465]BlueprintLog: New page: Compile gameplayGM
+[2018.02.11-01.32.06:825][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.369
+[2018.02.11-01.32.06:847][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gameplay/gameplayPC] ([1] browsable assets)...
+[2018.02.11-01.32.06:847][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gameplay/gameplayPC]
+[2018.02.11-01.32.06:848][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.11-01.32.10:195][641]LogSavePackage: Save=2502.60ms
+[2018.02.11-01.32.10:195][641]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC_Auto1542DA40D45268C3A74824DBD55B70C5E.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset'
+[2018.02.11-01.32.10:208][641]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset
+[2018.02.11-01.32.10:238][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gameplay/gameplayGM] ([1] browsable assets)...
+[2018.02.11-01.32.10:238][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gameplay/gameplayGM]
+[2018.02.11-01.32.10:238][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayGM_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.11-01.32.13:288][641]LogSavePackage: Save=2140.23ms
+[2018.02.11-01.32.13:493][641]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM_Auto1FBCD135E4B6775E078F68FBC5DA61E28.tmp' to '../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayGM_Auto1.uasset'
+[2018.02.11-01.32.14:005][641]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayGM_Auto1.uasset
+[2018.02.11-01.32.14:006][641]LogFileHelpers: Auto-saving content packages took 7.167
+[2018.02.11-01.35.04:446][352]LogEditorTransaction: Undo Move Node
+[2018.02.11-01.35.05:535][369]LogEditorTransaction: Undo Delete current selection
+[2018.02.11-01.35.28:342][751]BlueprintLog: New page: Compile gameplayGM
+[2018.02.11-01.35.36:570][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset" SILENT=true
+[2018.02.11-01.35.36:993][908]LogSavePackage: Save=312.88ms
+[2018.02.11-01.35.36:993][908]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayPC2540F5BA42714C6121DC0BA001D510A2.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
+[2018.02.11-01.35.37:018][908]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.11-01.35.37:029][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.02.11-01.35.37:289][908]LogSavePackage: Save=212.44ms
+[2018.02.11-01.35.37:289][908]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM7752A42547CCCA56FC7FC49876EFF45C.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.02.11-01.35.37:307][908]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
+[2018.02.11-01.40.19:319][365]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{8a9c911f-d5a7-4ebf-b841-f082e72fbb38} was removed. Shutting down audio device.
