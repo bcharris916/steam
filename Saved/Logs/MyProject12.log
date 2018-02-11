@@ -413,3 +413,7 @@ LogInit: Object subsystem initialized
 [2018.02.11-01.10.15:081][578]LogFileHelpers: Loading map 'mainMenu' took 1.149
 [2018.02.11-01.11.12:487][199]BlueprintLog: New page: Compile gameplayGM
 [2018.02.11-01.12.45:016][891]BlueprintLog: New page: Compile gameplayGM
+[2018.02.11-01.13.17:496][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayGM" FILE="../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset" SILENT=true
+[2018.02.11-01.13.17:893][159]LogSavePackage: Save=236.41ms
+[2018.02.11-01.13.17:894][159]LogSavePackage: Moving '../../../../../../UE4/steam/steam/Saved/gameplayGM2B411C0D42773004DAA9FABC344A3E3E.tmp' to '../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset'
+[2018.02.11-01.13.17:953][159]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/steam/Content/Blueprints/gameplay/gameplayGM.uasset
