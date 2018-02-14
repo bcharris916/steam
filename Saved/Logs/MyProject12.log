@@ -387,3 +387,12 @@ LogInit: Object subsystem initialized
 [2018.02.14-18.01.59:088][697]LogSavePackage: Save=91.83ms
 [2018.02.14-18.01.59:088][697]LogSavePackage: Moving '../../../../UE4/steamTest/steam/Saved/gameplayPC562E7AE1444D1C769469E4857D0BE263.tmp' to '../../../../UE4/steamTest/steam/Content/Blueprints/gameplay/gameplayPC.uasset'
 [2018.02.14-18.01.59:089][697]LogSavePackage: Display: Finished SavePackage ../../../../UE4/steamTest/steam/Content/Blueprints/gameplay/gameplayPC.uasset
+[2018.02.14-18.05.58:478][602]BlueprintLog: New page: Compile gameplayPC
+[2018.02.14-18.06.26:094][876]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.020
+[2018.02.14-18.06.26:096][876]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gameplay/gameplayPC] ([1] browsable assets)...
+[2018.02.14-18.06.26:096][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gameplay/gameplayPC]
+[2018.02.14-18.06.26:096][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gameplay/gameplayPC" FILE="../../../../UE4/steamTest/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.14-18.06.26:194][876]LogSavePackage: Save=90.15ms
+[2018.02.14-18.06.26:194][876]LogSavePackage: Moving '../../../../UE4/steamTest/steam/Saved/gameplayPC_Auto1A5DF939C437FB7D7EC91F1BB3EEBED76.tmp' to '../../../../UE4/steamTest/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset'
+[2018.02.14-18.06.26:195][876]LogSavePackage: Display: Finished SavePackage ../../../../UE4/steamTest/steam/Saved/Autosaves/Game/Blueprints/gameplay/gameplayPC_Auto1.uasset
+[2018.02.14-18.06.26:195][876]LogFileHelpers: Auto-saving content packages took 0.100
