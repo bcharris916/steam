@@ -1,0 +1,553 @@
+﻿Log file open, 02/23/18 18:29:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject12
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1827501178) SRandInit(-1827501178).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.890069
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.24-02.29.17:314][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-02.29.17:314][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.24-02.29.17:360][  0]LogInit: Computer: CALVERT-PC
+[2018.02.24-02.29.17:360][  0]LogInit: User: Calvert
+[2018.02.24-02.29.17:360][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.24-02.29.17:360][  0]LogInit: High frequency timer resolution =3.515673 MHz
+[2018.02.24-02.29.17:361][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.24-02.29.17:361][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.24-02.29.17:361][  0]LogMemory: Process Physical Memory: 275.41 MB used, 275.41 MB peak
+[2018.02.24-02.29.17:361][  0]LogMemory: Process Virtual Memory: 273.47 MB used, 273.47 MB peak
+[2018.02.24-02.29.17:361][  0]LogMemory: Physical Memory: 6986.05 MB used,  1070.97 MB free, 8057.02 MB total
+[2018.02.24-02.29.17:361][  0]LogMemory: Virtual Memory: 632.07 MB used,  1070.97 MB free, 8388608.00 MB total
+[2018.02.24-02.29.18:215][  0]LogInit: Using OS detected language (en-US).
+[2018.02.24-02.29.18:215][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.24-02.29.18:462][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.24-02.29.19:251][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.02.24-02.29.19:251][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.02.24-02.29.19:251][  0]LogInit: Setting process to DPI aware
+[2018.02.24-02.29.19:447][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.02.24-02.29.19:447][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.02.24-02.29.19:447][  0]LogInit: Setting process to DPI aware
+[2018.02.24-02.29.20:304][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.24-02.29.20:897][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2018.02.24-02.29.20:897][  0]LogD3D11RHI:       1990/0/3772 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.24-02.29.20:932][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.02.24-02.29.20:932][  0]LogD3D11RHI:       64/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.24-02.29.20:932][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.24-02.29.20:938][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.24-02.29.20:951][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.24-02.29.20:951][  0]LogWindows: EnumDisplayDevices:
+[2018.02.24-02.29.20:951][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2018.02.24-02.29.20:951][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2018.02.24-02.29.20:951][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.02.24-02.29.20:951][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2018.02.24-02.29.20:951][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows:    7. 'RDPDD Chained DD' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows:    8. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows:    9. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows:    10. 'LogMeIn Mirror Driver' (P:0 D:0)
+[2018.02.24-02.29.20:952][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.02.24-02.29.20:952][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2018.02.24-02.29.20:952][  0]LogD3D11RHI:   Driver Version: 385.41 (internal:22.21.13.8541, unified:385.41)
+[2018.02.24-02.29.20:952][  0]LogD3D11RHI:      Driver Date: 8-21-2017
+[2018.02.24-02.29.20:952][  0]LogRHI: Texture pool is 1393 MB (70% of 1990 MB)
+[2018.02.24-02.29.21:499][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.24-02.29.21:600][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.24-02.29.21:712][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (../../../../ue4/steam/Intermediate/Shaders/WorkingDirectory/5552/).
+[2018.02.24-02.29.21:712][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Calvert/AppData/Local/Temp/UnrealShaderWorkingDir/DB0C38EC497027E52105D19F303D7F5B/'.
+[2018.02.24-02.29.21:715][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.24-02.29.23:779][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.24-02.29.23:815][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.24-02.29.23:852][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.24-02.29.23:894][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.24-02.29.23:941][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.24-02.29.23:985][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.24-02.29.24:022][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.24-02.29.24:058][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.24-02.29.24:089][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.24-02.29.24:121][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.24-02.29.24:150][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.24-02.29.24:187][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.24-02.29.24:218][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.24-02.29.24:250][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.24-02.29.24:314][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.24-02.29.24:314][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.24-02.29.24:363][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.24-02.29.24:385][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.24-02.29.24:540][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.24-02.29.24:567][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.24-02.29.24:603][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.24-02.29.24:641][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.24-02.29.24:680][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.24-02.29.24:719][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.24-02.29.24:719][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.24-02.29.25:356][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.24-02.29.25:635][  0]LogDerivedDataCache: Loaded boot cache 0.28s 78MB C:/Users/Calvert/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-02.29.25:635][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Calvert/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.24-02.29.25:635][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../ue4/steam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.24-02.29.25:635][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.24-02.29.25:635][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../ue4/steam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.24-02.29.25:635][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.24-02.29.25:653][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.24-02.29.25:665][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Calvert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.24-02.29.25:688][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.24-02.29.25:716][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.24-02.29.25:753][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-02.29.25:753][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-02.29.30:246][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-02.29.31:164][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.24-02.29.31:205][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.24-02.29.31:206][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.24-02.29.31:206][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.24-02.29.31:206][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.24-02.29.31:206][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.24-02.29.31:339][  0]LogNetVersion: MyProject12 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3203290924)
+[2018.02.24-02.29.31:877][  0]LogAssetRegistry: FAssetRegistry took 0.0238 seconds to start up
+[2018.02.24-02.29.35:616][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.170331 seconds
+[2018.02.24-02.29.35:675][  0]LogUObjectArray: 35907 objects as part of root set at end of initial load.
+[2018.02.24-02.29.35:676][  0]LogUObjectAllocator: 7585952 out of 0 bytes used by permanent object pool.
+[2018.02.24-02.29.35:676][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.24-02.29.43:899][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.24-02.29.43:958][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.24-02.29.45:410][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.24-02.29.46:095][  0]SourceControl: Source control is disabled
+[2018.02.24-02.29.46:105][  0]SourceControl: Source control is disabled
+[2018.02.24-02.29.46:199][  0]SourceControl: Source control is disabled
+[2018.02.24-02.29.46:250][  0]SourceControl: Source control is disabled
+[2018.02.24-02.29.47:492][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.24-02.29.47:687][  0]LogOcInput: OculusInput pre-init called
+[2018.02.24-02.29.48:499][  0]LogEngine: Initializing Engine...
+[2018.02.24-02.29.48:613][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.24-02.29.49:266][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.24-02.29.49:268][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.24-02.29.49:960][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.24-02.29.50:218][  0]LogInit: XAudio2 using 'E248W-1920-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-02.29.50:226][  0]LogInit: FAudioDevice initialized.
+[2018.02.24-02.29.50:334][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Calvert/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-02.29.50:347][  0]LogInit: Texture streaming: Enabled
+[2018.02.24-02.29.50:501][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.24-02.29.50:880][  0]LogInit: Transaction tracking system initialized
+[2018.02.24-02.29.51:535][  0]BlueprintLog: New page: Editor Load
+[2018.02.24-02.29.53:448][  0]LocalizationService: Localization service is disabled
+[2018.02.24-02.29.54:710][  0]LogConsoleResponse: Display: 
+[2018.02.24-02.29.57:089][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.24-02.29.57:109][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.24-02.29.57:119][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.24-02.29.58:769][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/steam/Content/' took 0.80s
+[2018.02.24-02.30.00:014][  0]SourceControl: Source control is disabled
+[2018.02.24-02.30.00:053][  0]Cmd: MAP LOAD FILE="../../../../ue4/steam/Content/Maps/mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.24-02.30.00:072][  0]LightingResults: New page: Lighting Build
+[2018.02.24-02.30.00:364][  0]MapCheck: New page: Map Check
+[2018.02.24-02.30.00:364][  0]LightingResults: New page: Lighting Build
+[2018.02.24-02.30.01:531][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/UI/MainMenu/optionsMenu.optionsMenu_C:playerInfo'. Unknown structure.
+[2018.02.24-02.30.01:560][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/allLevels/playerSaveGame.playerSaveGame_C:S_PlayerINfo'. Unknown structure.
+[2018.02.24-02.30.01:560][  0]LogClass: Warning: Property S_PlayerINfo of S_PlayerINfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../ue4/steam/Content/Blueprints/allLevels/playerSaveGame.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.24-02.30.01:887][  0]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../ue4/steam/Content/UI/MainMenu/optionsMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.24-02.30.02:432][  0]LogClass: Warning: Property S_PlayerINfo of S_PlayerINfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.24-02.30.02:433][  0]LogClass: Warning: Property playerInfo of playerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.24-02.30.02:922][  0]LogAIModule: Creating AISystem for world mainMenu
+[2018.02.24-02.30.03:034][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.24-02.30.03:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.24-02.30.03:315][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.138ms to complete.
+[2018.02.24-02.30.03:328][  0]LogFileHelpers: Loading map 'mainMenu' took 3.288
+[2018.02.24-02.30.05:145][  0]LogCollectionManager: Loaded 0 collections in 0.001474 seconds
+[2018.02.24-02.30.05:339][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/steam/Saved/Collections/' took 0.01s
+[2018.02.24-02.30.05:340][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/steam/Content/Developers/Calvert/Collections/' took 0.01s
+[2018.02.24-02.30.05:340][  0]LogFileCache: Scanning file cache for directory 'E:/ue4/steam/Content/Collections/' took 0.01s
+[2018.02.24-02.30.05:340][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.24-02.30.05:365][  0]LogContentBrowser: Native class hierarchy populated in 0.0232 seconds. Added 2365 classes and 522 folders.
+[2018.02.24-02.30.05:525][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.24-02.30.06:185][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.24-02.30.06:318][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.24-02.30.07:750][  0]LogSlate: Took 0.012887 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-02.30.07:755][  0]LogSlate: Took 0.001283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.24-02.30.07:890][  0]LogSlate: Took 0.043797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.24-02.30.08:655][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-02.30.09:790][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.24-02.30.09:790][  0]LogLoad: (Engine Initialization) Total time: 65.53 seconds
+[2018.02.24-02.30.09:790][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.24-02.30.09:812][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.24-02.30.09:812][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.24-02.30.10:532][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.24-02.30.11:288][  2]LogSlate: Took 0.020779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-02.30.11:371][  2]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-02.30.11:595][  3]LogAssetRegistry: Asset discovery search completed in 39.7383 seconds
+[2018.02.24-02.30.11:643][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.24-02.30.11:643][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.02.24-03.05.35:951][754]LogRenderer: Reallocating scene render targets to support 1196x600 Format 10 NumSamples 1 (Frame:408).
+[2018.02.24-03.05.36:000][754]LogRenderer: Reallocating scene render targets to support 1240x600 Format 10 NumSamples 1 (Frame:409).
+[2018.02.24-03.05.36:067][754]LogRenderer: Reallocating scene render targets to support 1352x600 Format 10 NumSamples 1 (Frame:410).
+[2018.02.24-03.05.36:133][754]LogRenderer: Reallocating scene render targets to support 1440x600 Format 10 NumSamples 1 (Frame:411).
+[2018.02.24-03.05.36:194][754]LogRenderer: Reallocating scene render targets to support 1452x600 Format 10 NumSamples 1 (Frame:412).
+[2018.02.24-03.05.37:330][754]LogRenderer: Reallocating scene render targets to support 1540x600 Format 10 NumSamples 1 (Frame:431).
+[2018.02.24-03.05.37:384][754]LogRenderer: Reallocating scene render targets to support 1672x600 Format 10 NumSamples 1 (Frame:432).
+[2018.02.24-03.05.37:450][754]LogRenderer: Reallocating scene render targets to support 1780x600 Format 10 NumSamples 1 (Frame:433).
+[2018.02.24-03.05.37:505][754]LogRenderer: Reallocating scene render targets to support 1852x600 Format 10 NumSamples 1 (Frame:434).
+[2018.02.24-03.05.37:591][754]LogRenderer: Reallocating scene render targets to support 1908x600 Format 10 NumSamples 1 (Frame:435).
+[2018.02.24-03.05.37:669][754]LogRenderer: Reallocating scene render targets to support 2036x600 Format 10 NumSamples 1 (Frame:436).
+[2018.02.24-03.05.37:737][754]LogRenderer: Reallocating scene render targets to support 2156x600 Format 10 NumSamples 1 (Frame:437).
+[2018.02.24-03.05.37:832][754]LogRenderer: Reallocating scene render targets to support 2260x600 Format 10 NumSamples 1 (Frame:438).
+[2018.02.24-03.05.37:934][754]LogRenderer: Reallocating scene render targets to support 2344x600 Format 10 NumSamples 1 (Frame:439).
+[2018.02.24-03.05.38:031][754]LogRenderer: Reallocating scene render targets to support 2376x600 Format 10 NumSamples 1 (Frame:440).
+[2018.02.24-03.05.38:115][754]LogRenderer: Reallocating scene render targets to support 2420x600 Format 10 NumSamples 1 (Frame:441).
+[2018.02.24-03.05.52:732][164]LogRenderer: Reallocating scene render targets to support 2424x600 Format 10 NumSamples 1 (Frame:940).
+[2018.02.24-03.05.56:343][390]LogRenderer: Reallocating scene render targets to support 2436x600 Format 10 NumSamples 1 (Frame:1166).
+[2018.02.24-03.05.56:376][391]LogRenderer: Reallocating scene render targets to support 2464x600 Format 10 NumSamples 1 (Frame:1168).
+[2018.02.24-03.05.56:412][392]LogRenderer: Reallocating scene render targets to support 2496x600 Format 10 NumSamples 1 (Frame:1170).
+[2018.02.24-03.05.56:666][393]LogRenderer: Reallocating scene render targets to support 2532x600 Format 10 NumSamples 1 (Frame:1172).
+[2018.02.24-03.05.56:787][394]LogRenderer: Reallocating scene render targets to support 2720x600 Format 10 NumSamples 1 (Frame:1173).
+[2018.02.24-03.05.56:890][395]LogRenderer: Reallocating scene render targets to support 2816x600 Format 10 NumSamples 1 (Frame:1175).
+[2018.02.24-03.05.57:044][396]LogRenderer: Reallocating scene render targets to support 2820x600 Format 10 NumSamples 1 (Frame:1177).
+[2018.02.24-03.05.57:175][397]LogRenderer: Reallocating scene render targets to support 2876x600 Format 10 NumSamples 1 (Frame:1179).
+[2018.02.24-03.08.53:593][609]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-03.15.47:864][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.012
+[2018.02.24-03.15.47:903][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/MovementType] ([1] browsable assets)...
+[2018.02.24-03.15.47:903][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/MovementType]
+[2018.02.24-03.15.47:903][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/MovementType" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/MovementType_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.15.48:124][344]LogSavePackage: Save=132.10ms
+[2018.02.24-03.15.48:124][344]LogSavePackage: Moving '../../../../ue4/steam/Saved/MovementType_Auto1D57988D34B45EE032E3A13BBFDC715CE.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/MovementType_Auto1.uasset'
+[2018.02.24-03.15.48:132][344]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/MovementType_Auto1.uasset
+[2018.02.24-03.15.48:132][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/TargettingType] ([1] browsable assets)...
+[2018.02.24-03.15.48:132][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/TargettingType]
+[2018.02.24-03.15.48:132][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/TargettingType" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TargettingType_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.15.48:148][344]LogSavePackage: Save=0.78ms
+[2018.02.24-03.15.48:148][344]LogSavePackage: Moving '../../../../ue4/steam/Saved/TargettingType_Auto1242006714274E15BAE02D9A63AE8AA2A.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TargettingType_Auto1.uasset'
+[2018.02.24-03.15.48:148][344]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TargettingType_Auto1.uasset
+[2018.02.24-03.15.48:148][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/DamageType] ([1] browsable assets)...
+[2018.02.24-03.15.48:148][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/DamageType]
+[2018.02.24-03.15.48:148][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/DamageType" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/DamageType_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.15.48:152][344]LogSavePackage: Save=0.65ms
+[2018.02.24-03.15.48:152][344]LogSavePackage: Moving '../../../../ue4/steam/Saved/DamageType_Auto1B21A268A4431A69B6F6DB8A3FBDA3EE0.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/DamageType_Auto1.uasset'
+[2018.02.24-03.15.48:153][344]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/DamageType_Auto1.uasset
+[2018.02.24-03.15.48:154][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/AnimationInformation] ([1] browsable assets)...
+[2018.02.24-03.15.48:154][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/AnimationInformation]
+[2018.02.24-03.15.48:189][344]LogSavePackage: Save=34.47ms
+[2018.02.24-03.15.48:190][344]LogSavePackage: Moving '../../../../ue4/steam/Saved/AnimationInformation_Auto16792A48C4E11D61B63B9E2B4F7CD3B5F.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AnimationInformation_Auto1.uasset'
+[2018.02.24-03.15.48:190][344]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AnimationInformation_Auto1.uasset
+[2018.02.24-03.15.48:190][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-03.15.48:190][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-03.15.48:190][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.15.48:218][344]LogSavePackage: Save=26.59ms
+[2018.02.24-03.15.48:218][344]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto1F5B77AAB487C087B4C6359B8E1DBF50A.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto1.uasset'
+[2018.02.24-03.15.48:218][344]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto1.uasset
+[2018.02.24-03.15.48:218][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/AttackComponent] ([1] browsable assets)...
+[2018.02.24-03.15.48:218][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/AttackComponent]
+[2018.02.24-03.15.48:218][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/AttackComponent" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AttackComponent_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.15.48:223][344]LogSavePackage: Save=3.69ms
+[2018.02.24-03.15.48:223][344]LogSavePackage: Moving '../../../../ue4/steam/Saved/AttackComponent_Auto11B1DB327409945CE9588E2A686F41F56.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AttackComponent_Auto1.uasset'
+[2018.02.24-03.15.48:223][344]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AttackComponent_Auto1.uasset
+[2018.02.24-03.15.48:223][344]LogFileHelpers: Auto-saving content packages took 0.358
+[2018.02.24-03.17.13:435][819]LogSlate: Took 0.017997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-03.17.16:078][819]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0085 seconds. Added 116 classes and 0 folders.
+[2018.02.24-03.17.18:704][819]LogSlate: Took 0.009384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.24-03.20.23:860][ 50]LogSlate: Took 0.013137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.24-03.20.40:391][ 11]BlueprintLog: New page: Compile AttackComponent
+[2018.02.24-03.21.36:876][704]BlueprintLog: New page: Compile AttackComponent
+[2018.02.24-03.25.48:747][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.024
+[2018.02.24-03.25.48:749][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-03.25.48:765][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-03.25.48:765][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.25.48:768][333]LogSavePackage: Save=1.87ms
+[2018.02.24-03.25.48:768][333]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto25A4AD2244CEA03DDB6E4A58DB7B547D5.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto2.uasset'
+[2018.02.24-03.25.48:777][333]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto2.uasset
+[2018.02.24-03.25.48:777][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/AttackComponent] ([1] browsable assets)...
+[2018.02.24-03.25.48:777][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/AttackComponent]
+[2018.02.24-03.25.48:777][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/AttackComponent" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AttackComponent_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.25.48:814][333]LogSavePackage: Save=21.07ms
+[2018.02.24-03.25.48:814][333]LogSavePackage: Moving '../../../../ue4/steam/Saved/AttackComponent_Auto264EF56564AC85D2CD9FEA8B6EB69B322.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AttackComponent_Auto2.uasset'
+[2018.02.24-03.25.48:815][333]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/AttackComponent_Auto2.uasset
+[2018.02.24-03.25.48:815][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/TimingInformation] ([1] browsable assets)...
+[2018.02.24-03.25.48:815][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/TimingInformation]
+[2018.02.24-03.25.48:815][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/TimingInformation" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TimingInformation_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.25.48:817][333]LogSavePackage: Save=0.90ms
+[2018.02.24-03.25.48:817][333]LogSavePackage: Moving '../../../../ue4/steam/Saved/TimingInformation_Auto2E8D9BA424577B154CFF169B1B3177EA5.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TimingInformation_Auto2.uasset'
+[2018.02.24-03.25.48:817][333]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TimingInformation_Auto2.uasset
+[2018.02.24-03.25.48:817][333]LogFileHelpers: Auto-saving content packages took 0.069
+[2018.02.24-03.38.47:127][765]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.023
+[2018.02.24-03.38.47:129][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-03.38.47:129][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-03.38.47:129][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.38.47:132][765]LogSavePackage: Save=2.12ms
+[2018.02.24-03.38.47:132][765]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto3E5F6F85243B878B943656E8E1B637500.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto3.uasset'
+[2018.02.24-03.38.47:132][765]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto3.uasset
+[2018.02.24-03.38.47:133][765]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/TimingInformation] ([1] browsable assets)...
+[2018.02.24-03.38.47:133][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/TimingInformation]
+[2018.02.24-03.38.47:133][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/TimingInformation" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TimingInformation_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-03.38.47:178][765]LogSavePackage: Save=1.42ms
+[2018.02.24-03.38.47:178][765]LogSavePackage: Moving '../../../../ue4/steam/Saved/TimingInformation_Auto3510F28E042DEA8A72ADE8882206B0736.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TimingInformation_Auto3.uasset'
+[2018.02.24-03.38.47:179][765]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/TimingInformation_Auto3.uasset
+[2018.02.24-03.38.47:179][765]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.02.24-03.45.01:312][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/TimingInformation" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/TimingInformation.uasset" SILENT=true
+[2018.02.24-03.45.01:317][529]LogSavePackage: Save=3.14ms
+[2018.02.24-03.45.01:317][529]LogSavePackage: Moving '../../../../ue4/steam/Saved/TimingInformation613947F648B38E5DDCAE90BE09C926E6.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/TimingInformation.uasset'
+[2018.02.24-03.45.01:318][529]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/TimingInformation.uasset
+[2018.02.24-03.47.06:729][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/TargettingType" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/TargettingType.uasset" SILENT=true
+[2018.02.24-03.47.06:734][250]LogSavePackage: Save=0.84ms
+[2018.02.24-03.47.06:735][250]LogSavePackage: Moving '../../../../ue4/steam/Saved/TargettingTypeC1B5E71F412F99A2977B85A972B6EB55.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/TargettingType.uasset'
+[2018.02.24-03.47.06:735][250]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/TargettingType.uasset
+[2018.02.24-04.01.51:330][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/MovementType" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/MovementType.uasset" SILENT=true
+[2018.02.24-04.01.51:331][445]LogSavePackage: Save=0.73ms
+[2018.02.24-04.01.51:331][445]LogSavePackage: Moving '../../../../ue4/steam/Saved/MovementType04D112094973F68FAB34C7AAE88FD046.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/MovementType.uasset'
+[2018.02.24-04.01.51:332][445]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/MovementType.uasset
+[2018.02.24-04.03.28:000][164]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.038
+[2018.02.24-04.03.28:002][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/DamageType] ([1] browsable assets)...
+[2018.02.24-04.03.28:002][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/DamageType]
+[2018.02.24-04.03.28:002][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/DamageType" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/DamageType_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-04.03.28:018][164]LogSavePackage: Save=0.94ms
+[2018.02.24-04.03.28:018][164]LogSavePackage: Moving '../../../../ue4/steam/Saved/DamageType_Auto4C19F8ABD48697F380D2686BF89F91E33.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/DamageType_Auto4.uasset'
+[2018.02.24-04.03.28:019][164]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/DamageType_Auto4.uasset
+[2018.02.24-04.03.28:019][164]LogFileHelpers: Auto-saving content packages took 0.017
+[2018.02.24-04.07.38:134][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/AnimationInformation" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/AnimationInformation.uasset" SILENT=true
+[2018.02.24-04.07.38:137][488]LogSavePackage: Save=1.34ms
+[2018.02.24-04.07.38:137][488]LogSavePackage: Moving '../../../../ue4/steam/Saved/AnimationInformationAF6CF44A471212A48843E9AC719AAEE3.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/AnimationInformation.uasset'
+[2018.02.24-04.07.38:138][488]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/AnimationInformation.uasset
+[2018.02.24-04.07.41:401][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/DamageType" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/DamageType.uasset" SILENT=true
+[2018.02.24-04.07.41:422][876]LogSavePackage: Save=0.78ms
+[2018.02.24-04.07.41:422][876]LogSavePackage: Moving '../../../../ue4/steam/Saved/DamageTypeCB63D80348F0D63C155713B76489BBC3.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/DamageType.uasset'
+[2018.02.24-04.07.41:423][876]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/DamageType.uasset
+[2018.02.24-04.07.46:533][486]BlueprintLog: New page: Compile Attack
+[2018.02.24-04.08.11:250][855]BlueprintLog: New page: Compile Attack
+[2018.02.24-04.08.20:383][932]LogClass: Warning: Property animationInformation of animationInformation has a struct type mismatch (tag TimingInformation != prop AnimationInformation) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.24-04.08.41:378][443]LogClass: Warning: Type mismatch in damageTypes of SKEL_Attack_C - Previous (StructProperty) Current(ByteProperty) for package:  FObjectReader
+[2018.02.24-04.08.49:198][376]BlueprintLog: New page: Compile Attack
+[2018.02.24-04.08.49:200][376]LogClass: Warning: Property animationInformation of animationInformation has a struct type mismatch (tag TimingInformation != prop AnimationInformation) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.24-04.09.13:433][276]BlueprintLog: New page: Compile Attack
+[2018.02.24-04.09.43:021][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/TargettingInformation" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/TargettingInformation.uasset" SILENT=true
+[2018.02.24-04.09.43:024][643]LogSavePackage: Save=1.68ms
+[2018.02.24-04.09.43:024][643]LogSavePackage: Moving '../../../../ue4/steam/Saved/TargettingInformation9719E8E24851EC6BDC94429F60C63C85.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/TargettingInformation.uasset'
+[2018.02.24-04.09.43:025][643]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/TargettingInformation.uasset
+[2018.02.24-04.09.59:598][575]BlueprintLog: New page: Compile Attack
+[2018.02.24-04.11.10:738][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/damageInformation" FILE="../../../../ue4/steam/Content/Blueprints/Attacks/damageInformation.uasset" SILENT=true
+[2018.02.24-04.11.10:740][878]LogSavePackage: Save=1.25ms
+[2018.02.24-04.11.10:740][878]LogSavePackage: Moving '../../../../ue4/steam/Saved/damageInformation8A55E4394C4C1E90CC1817A18AA85A7E.tmp' to '../../../../ue4/steam/Content/Blueprints/Attacks/damageInformation.uasset'
+[2018.02.24-04.11.10:741][878]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Content/Blueprints/Attacks/damageInformation.uasset
+[2018.02.24-04.13.28:710][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.030
+[2018.02.24-04.13.28:711][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-04.13.28:712][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-04.13.28:712][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-04.13.28:716][589]LogSavePackage: Save=2.60ms
+[2018.02.24-04.13.28:716][589]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto5C98016DB4C3332AC2BA12BAE54D7D385.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto5.uasset'
+[2018.02.24-04.13.28:716][589]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto5.uasset
+[2018.02.24-04.13.28:716][589]LogFileHelpers: Auto-saving content packages took 0.005
+[2018.02.24-04.50.49:349][408]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.026
+[2018.02.24-04.50.49:350][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-04.50.49:350][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-04.50.49:350][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-04.50.49:354][408]LogSavePackage: Save=2.83ms
+[2018.02.24-04.50.49:355][408]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto6068784134610299892E9E2BDB40C601C.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto6.uasset'
+[2018.02.24-04.50.49:355][408]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto6.uasset
+[2018.02.24-04.50.49:355][408]LogFileHelpers: Auto-saving content packages took 0.006
+[2018.02.24-04.59.05:568][350]BlueprintLog: New page: Compile Attack
+[2018.02.24-04.59.47:181][328]BlueprintLog: New page: Compile Attack
+[2018.02.24-05.00.50:198][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.017
+[2018.02.24-05.00.50:200][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-05.00.50:200][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-05.00.50:200][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-05.00.50:204][950]LogSavePackage: Save=2.75ms
+[2018.02.24-05.00.50:204][950]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto7BB742DB349DE95379C50D88FF749DC3E.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto7.uasset'
+[2018.02.24-05.00.50:204][950]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto7.uasset
+[2018.02.24-05.00.50:204][950]LogFileHelpers: Auto-saving content packages took 0.005
+[2018.02.24-05.10.47:722][517]BlueprintLog: New page: Compile Attack
+[2018.02.24-05.11.25:748][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.022
+[2018.02.24-05.11.25:750][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Attacks/Attack] ([1] browsable assets)...
+[2018.02.24-05.11.25:750][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Attacks/Attack]
+[2018.02.24-05.11.25:750][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Attacks/Attack" FILE="../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.02.24-05.11.25:753][258]LogSavePackage: Save=2.76ms
+[2018.02.24-05.11.25:753][258]LogSavePackage: Moving '../../../../ue4/steam/Saved/Attack_Auto8105292FD4DAC8C6EC4AB6DB01E38C5CA.tmp' to '../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto8.uasset'
+[2018.02.24-05.11.25:754][258]LogSavePackage: Display: Finished SavePackage ../../../../ue4/steam/Saved/Autosaves/Game/Blueprints/Attacks/Attack_Auto8.uasset
+[2018.02.24-05.11.25:754][258]LogFileHelpers: Auto-saving content packages took 0.005
