@@ -370,3 +370,6 @@ LogInit: Object subsystem initialized
 [2018.02.24-05.25.56:195][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.02.24-05.25.56:195][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
 [2018.02.24-05.25.56:530][  3]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-06.21.27:757][  0]LogInit: XAudio2 using 'Speakers (7- Logitech USB Headset H340)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-07.27.14:568][769]Cmd: QUIT_EDITOR
+[2018.02.24-07.27.15:569][769]LogExit: Preparing to exit.
