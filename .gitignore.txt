@@ -4,6 +4,7 @@ Intermediate
 Saved
 .vscode
 .vs
+*.ini
 *.VC.db
 *.opensdf
 *.opendb
@@ -13,3 +14,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *.log
+*.bin
