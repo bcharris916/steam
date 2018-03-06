@@ -1675,3 +1675,259 @@ LogInit: Object subsystem initialized
 [2018.03.06-17.49.57:213][582]LogSavePackage: Save=106.49ms
 [2018.03.06-17.49.57:213][582]LogSavePackage: Moving '../../../../UE4/newSteamTest/steam/Saved/0_baseANimBP11537F4D4157277A8831228C2E934AEA.tmp' to '../../../../UE4/newSteamTest/steam/Content/InfinityBladeWarriors/animations/0_baseANimBP.uasset'
 [2018.03.06-17.49.57:215][582]LogSavePackage: Display: Finished SavePackage ../../../../UE4/newSteamTest/steam/Content/InfinityBladeWarriors/animations/0_baseANimBP.uasset
+[2018.03.06-18.10.13:672][942]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_3
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.13:672][942]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_3
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.13:672][942]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_3
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.13:676][942]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_4
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.13:676][942]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_4
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.13:676][942]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_4
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.13:685][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_5
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.13:685][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_5
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.13:685][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_5
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.13:688][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_6
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.13:688][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_6
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.13:688][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_6
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.14:848][ 32]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.14:848][ 32]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.14:848][ 32]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.14:849][ 32]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.14:849][ 32]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.14:849][ 32]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.14:904][ 33]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.14:904][ 33]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.14:904][ 33]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.14:932][ 34]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.14:932][ 34]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.14:932][ 34]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.14:941][ 35]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.14:941][ 35]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.14:941][ 35]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.14:950][ 36]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.14:950][ 36]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_7
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:127][ 14]BlueprintLog: New page: Compile 0_base
+[2018.03.06-18.10.23:255][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_8
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:255][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_8
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:255][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_8
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:256][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_9
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:256][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_9
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:256][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_9
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:256][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_10
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:257][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_10
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:257][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_10
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:257][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:257][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:257][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:258][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_12
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:258][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_12
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:258][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_12
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:258][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_13
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:258][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_13
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:258][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_10:PersistentLevel.Barbarous_C_0.CharacterMesh0.0_baseANimBP_C_13
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:259][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_14
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:259][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_14
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:259][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_14
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:259][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_15
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:259][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_15
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:259][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_9:PersistentLevel.Forge_C_0.CharacterMesh0.0_baseANimBP_C_15
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:260][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_16
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:260][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_16
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:260][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_16
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:261][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_17
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:261][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_17
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:261][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_8:PersistentLevel.Frosty_C_0.CharacterMesh0.0_baseANimBP_C_17
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:813][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_9
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:813][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_9
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:813][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_0.CharacterMesh0.0_baseANimBP_C_9
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:814][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:814][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:814][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:814][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_18.CharacterMesh0.0_baseANimBP_C_18
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:814][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_18.CharacterMesh0.0_baseANimBP_C_18
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:814][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_11:PersistentLevel.0_base_C_18.CharacterMesh0.0_baseANimBP_C_18
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:821][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:821][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:821][ 14]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:838][ 15]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:838][ 15]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:838][ 15]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:847][ 16]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:847][ 16]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.23:847][ 16]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:0329
+[2018.03.06-18.10.23:855][ 17]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:01F1
+[2018.03.06-18.10.23:856][ 17]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsGameplay_PC
+	0_baseANimBP_C /Engine/Transient.World_12:PersistentLevel.0_base_C_1.CharacterMesh0.0_baseANimBP_C_11
+	Function /Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C:ExecuteUbergraph_0_baseANimBP:028D
+[2018.03.06-18.10.51:856][523]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/arena01' took 0.023
+[2018.03.06-18.10.51:858][523]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/characters/0_base] ([1] browsable assets)...
+[2018.03.06-18.10.51:867][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/characters/0_base.0_base]
+[2018.03.06-18.10.51:867][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/characters/0_base]
+[2018.03.06-18.10.51:867][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/characters/0_base" FILE="../../../../UE4/newSteamTest/steam/Saved/Autosaves/Game/Blueprints/characters/0_base_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.03.06-18.10.51:926][523]LogSavePackage: Save=45.18ms
+[2018.03.06-18.10.51:926][523]LogSavePackage: Moving '../../../../UE4/newSteamTest/steam/Saved/0_base_Auto4E30E98414D26E19D06FA94987A5CE1CC.tmp' to '../../../../UE4/newSteamTest/steam/Saved/Autosaves/Game/Blueprints/characters/0_base_Auto4.uasset'
+[2018.03.06-18.10.51:940][523]LogSavePackage: Display: Finished SavePackage ../../../../UE4/newSteamTest/steam/Saved/Autosaves/Game/Blueprints/characters/0_base_Auto4.uasset
+[2018.03.06-18.10.51:940][523]LogFileHelpers: Auto-saving content packages took 0.083
+[2018.03.06-18.11.50:433][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/characters/0_base" FILE="../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset" SILENT=true
+[2018.03.06-18.11.50:482][885]LogSavePackage: Save=38.40ms
+[2018.03.06-18.11.50:482][885]LogSavePackage: Moving '../../../../UE4/newSteamTest/steam/Saved/0_base7257FCE14CCA595000F1C99BC5AFC595.tmp' to '../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset'
+[2018.03.06-18.11.50:482][885]LogFileManager: Warning: DeleteFile was unable to delete '../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset', retrying in .5s...
+[2018.03.06-18.11.50:983][885]LogFileManager: Error: Error deleting file '../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset'.
+[2018.03.06-18.11.50:983][885]LogSavePackage: Error: Error saving '../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset'
+[2018.03.06-18.11.50:985][885]LogSavePackage: Display: Finished SavePackage ../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset
+[2018.03.06-18.11.54:726][885]EditorErrors: New page: Save Output
+[2018.03.06-18.11.54:726][885]EditorErrors: Warning: Error saving '../../../../UE4/newSteamTest/steam/Content/Blueprints/characters/0_base.uasset'
