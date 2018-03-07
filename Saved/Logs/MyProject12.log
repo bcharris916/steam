@@ -7528,3 +7528,1057 @@ LogInit: Object subsystem initialized
 [2018.03.07-18.50.01:104][207]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
 [2018.03.07-18.50.01:104][207]MaterialEditorStats: Vertex shader: 29 instructions
 [2018.03.07-18.50.01:104][207]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.50.13:291][696]SourceControl: On branch daniel
+[2018.03.07-18.50.13:292][696]SourceControl: Your branch is up-to-date with 'origin/daniel'.
+[2018.03.07-18.50.13:292][696]SourceControl: Changes to be committed:
+[2018.03.07-18.50.13:292][696]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Dirt_1_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Dirt_2_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Dirt_3_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Dirt_4_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Grass_1_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Grass_2_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Grass_3_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Grass_4_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Sand_1_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Sand_2_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Sand_3_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Sand_4_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Stone_1_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Stone_2_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Stone_3_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Stone_4_LayerInfo.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/TerrainMaterials/Terrain_Mat.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	new file:   Content/Daniel/Materials/Terrain_Mat.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/barrels_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/barrels_4.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/barrels_5.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/barrels_6.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/base_prop_mat.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/boxes_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/boxes_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/boxes_5.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/boxes_7.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/desert_cactus_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/desert_cactus_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/desert_cactus_4.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/desert_tree_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/desert_tree_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/desert_tree_stump_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_blue_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_blue_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_blue_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_blue_4.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_full_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_green.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_orange.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_basket_yellow.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/food_box_empty.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/forest_log_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/forest_tree_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/forest_tree_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/forest_tree_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/grass_regular_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/grass_snow_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/lamp_post_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/market_bench_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/monster_camp_bed_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/monster_camp_fence_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/monster_camp_tent_regular_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/monster_camp_tent_regular_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/phong1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/ruins_pillar_arch_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/ruins_pillar_broken.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/ruins_pillar_broken_part.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/ruins_pillar_tall_1.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/snow_tree_2.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/snow_tree_3.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/snow_tree_4.uasset
+[2018.03.07-18.50.13:292][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/snow_tree_5.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/swamp_house_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/swamp_house_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/swamp_log_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	deleted:    Content/Daniel/OURPROPS/swamp_tree_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Plates/phong1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Plates/plate_large.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Plates/plate_medium.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Plates/plate_small.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/barrels_1.uasset -> Content/Daniel/Props/barrels_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/barrels_2.uasset -> Content/Daniel/Props/barrels_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/barrels_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/barrels_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/base_prop_mat.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/boxes_1.uasset -> Content/Daniel/Props/boxes_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/boxes_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/boxes_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/boxes_4.uasset -> Content/Daniel/Props/boxes_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/boxes_5.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/boxes_6.uasset -> Content/Daniel/Props/boxes_6.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/boxes_7.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_1.uasset -> Content/Daniel/Props/city_1_house_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_2.uasset -> Content/Daniel/Props/city_1_house_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_3.uasset -> Content/Daniel/Props/city_1_house_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_4.uasset -> Content/Daniel/Props/city_1_house_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_5.uasset -> Content/Daniel/Props/city_1_house_5.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_6.uasset -> Content/Daniel/Props/city_1_house_6.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/city_1_house_7.uasset -> Content/Daniel/Props/city_1_house_7.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/desert_cactus_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_cactus_2.uasset -> Content/Daniel/Props/desert_cactus_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/desert_cactus_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/desert_cactus_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_1.uasset -> Content/Daniel/Props/desert_house_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_2.uasset -> Content/Daniel/Props/desert_house_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_3.uasset -> Content/Daniel/Props/desert_house_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_4.uasset -> Content/Daniel/Props/desert_house_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_5.uasset -> Content/Daniel/Props/desert_house_5.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_6.uasset -> Content/Daniel/Props/desert_house_6.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/desert_house_7.uasset -> Content/Daniel/Props/desert_house_7.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/desert_tree_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/desert_tree_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/desert_tree_stump_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_blue_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_blue_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_blue_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_blue_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_full_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_basket_full_2.uasset -> Content/Daniel/Props/food_basket_full_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_basket_full_3.uasset -> Content/Daniel/Props/food_basket_full_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_basket_full_4.uasset -> Content/Daniel/Props/food_basket_full_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_green.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_orange.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_basket_yellow.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/food_box_empty.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_1.uasset -> Content/Daniel/Props/food_box_full_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_2.uasset -> Content/Daniel/Props/food_box_full_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_3.uasset -> Content/Daniel/Props/food_box_full_3.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_4.uasset -> Content/Daniel/Props/food_box_full_4.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_5.uasset -> Content/Daniel/Props/food_box_full_5.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_6.uasset -> Content/Daniel/Props/food_box_full_6.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/food_box_full_7.uasset -> Content/Daniel/Props/food_box_full_7.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/forest_log_1.uasset -> Content/Daniel/Props/forest_log_1.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/forest_log_2.uasset -> Content/Daniel/Props/forest_log_2.uasset
+[2018.03.07-18.50.13:293][696]SourceControl: 	new file:   Content/Daniel/Props/forest_log_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/forest_tree_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/forest_tree_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/forest_tree_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/grass_regular_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/grass_snow_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/lamp_post_1.uasset -> Content/Daniel/Props/lamp_post_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/lamp_post_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/market_bench_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_blue_1.uasset -> Content/Daniel/Props/market_tent_blue_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_blue_2.uasset -> Content/Daniel/Props/market_tent_blue_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_blue_3.uasset -> Content/Daniel/Props/market_tent_blue_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_green.uasset -> Content/Daniel/Props/market_tent_green.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_orange.uasset -> Content/Daniel/Props/market_tent_orange.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_red.uasset -> Content/Daniel/Props/market_tent_red.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/market_tent_yellow.uasset -> Content/Daniel/Props/market_tent_yellow.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_bones_1.uasset -> Content/Daniel/Props/monster_bones_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_bones_2.uasset -> Content/Daniel/Props/monster_bones_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_banner_1.uasset -> Content/Daniel/Props/monster_camp_banner_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/monster_camp_bed_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_bed_2.uasset -> Content/Daniel/Props/monster_camp_bed_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_building_large.uasset -> Content/Daniel/Props/monster_camp_building_large.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/monster_camp_fence_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_pillar_1.uasset -> Content/Daniel/Props/monster_camp_pillar_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tent_large_1.uasset -> Content/Daniel/Props/monster_camp_tent_large_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tent_large_2.uasset -> Content/Daniel/Props/monster_camp_tent_large_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/monster_camp_tent_regular_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/monster_camp_tent_regular_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tent_regular_3.uasset -> Content/Daniel/Props/monster_camp_tent_regular_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tent_round_1.uasset -> Content/Daniel/Props/monster_camp_tent_round_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tent_round_2.uasset -> Content/Daniel/Props/monster_camp_tent_round_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tent_round_3.uasset -> Content/Daniel/Props/monster_camp_tent_round_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/monster_camp_tower_1.uasset -> Content/Daniel/Props/monster_camp_tower_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/new_colors.uasset -> Content/Daniel/Props/new_colors.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/phong1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/platform_stand_1.uasset -> Content/Daniel/Props/platform_stand_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/ruins_pillar_arch_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/ruins_pillar_broken.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/ruins_pillar_broken_part.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/ruins_pillar_square.uasset -> Content/Daniel/Props/ruins_pillar_square.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/ruins_pillar_tall_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/ruins_wall_1.uasset -> Content/Daniel/Props/ruins_wall_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/ruins_wall_2.uasset -> Content/Daniel/Props/ruins_wall_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/ruins_wall_3.uasset -> Content/Daniel/Props/ruins_wall_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/ruins_wall_4.uasset -> Content/Daniel/Props/ruins_wall_4.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_house_1.uasset -> Content/Daniel/Props/snow_house_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_house_2.uasset -> Content/Daniel/Props/snow_house_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_house_3.uasset -> Content/Daniel/Props/snow_house_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_log_1.uasset -> Content/Daniel/Props/snow_log_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_log_2.uasset -> Content/Daniel/Props/snow_log_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_log_3.uasset -> Content/Daniel/Props/snow_log_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_log_4.uasset -> Content/Daniel/Props/snow_log_4.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/snow_tree_1.uasset -> Content/Daniel/Props/snow_tree_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/snow_tree_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/snow_tree_3.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/snow_tree_4.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/snow_tree_5.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/swamp_house_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_house_1_spikes.uasset -> Content/Daniel/Props/swamp_house_1_spikes.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/swamp_house_2.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_house_2_spikes.uasset -> Content/Daniel/Props/swamp_house_2_spikes.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_log_1.uasset -> Content/Daniel/Props/swamp_log_1.uasset
+[2018.03.07-18.50.13:294][696]SourceControl: 	new file:   Content/Daniel/Props/swamp_log_2.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_log_3.uasset -> Content/Daniel/Props/swamp_log_3.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_log_4.uasset -> Content/Daniel/Props/swamp_log_4.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_temple.uasset -> Content/Daniel/Props/swamp_temple.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_tree_1.uasset -> Content/Daniel/Props/swamp_tree_1.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	new file:   Content/Daniel/Props/swamp_tree_2.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/swamp_tree_3.uasset -> Content/Daniel/Props/swamp_tree_3.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	renamed:    Content/Daniel/OURPROPS/well_1.uasset -> Content/Daniel/Props/well_1.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: Changes not staged for commit:
+[2018.03.07-18.50.13:295][696]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.03.07-18.50.13:295][696]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.03.07-18.50.13:295][696]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.03.07-18.50.13:295][696]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.03.07-18.50.13:295][696]SourceControl: 	modified:   Saved/Logs/MyProject12.log
+[2018.03.07-18.50.13:295][696]SourceControl: Untracked files:
+[2018.03.07-18.50.13:295][696]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Autosaves/Game/Daniel/
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Autosaves/Temp/
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/Terrain_Mat_2018-03-07-10-04-37.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/barrels_1_2018-03-07-09-48-50.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/barrels_2_2018-03-07-09-48-50.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/barrels_3_2018-03-07-09-48-50.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/barrels_4_2018-03-07-09-48-49.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/base_prop_mat_2018-03-07-09-48-51.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_1_2018-03-07-09-48-49.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_2_2018-03-07-09-48-49.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_3_2018-03-07-09-48-49.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_4_2018-03-07-09-48-48.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_5_2018-03-07-09-48-48.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_6_2018-03-07-09-48-48.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/boxes_7_2018-03-07-09-48-47.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_1_2018-03-07-09-48-47.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_2_2018-03-07-09-48-46.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_3_2018-03-07-09-48-46.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_4_2018-03-07-09-48-46.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_5_2018-03-07-09-48-45.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_6_2018-03-07-09-48-45.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/city_1_house_7_2018-03-07-09-48-45.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_cactus_1_2018-03-07-09-48-44.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_cactus_2_2018-03-07-09-48-44.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_cactus_3_2018-03-07-09-48-44.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_cactus_4_2018-03-07-09-48-43.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_1_2018-03-07-09-48-43.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_2_2018-03-07-09-48-43.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_3_2018-03-07-09-48-42.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_4_2018-03-07-09-48-42.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_5_2018-03-07-09-48-42.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_6_2018-03-07-09-48-41.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_house_7_2018-03-07-09-48-41.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_tree_1_2018-03-07-09-48-41.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_tree_2_2018-03-07-09-48-40.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/desert_tree_stump_1_2018-03-07-09-48-40.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_blue_1_2018-03-07-09-48-40.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_blue_2_2018-03-07-09-48-39.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_blue_3_2018-03-07-09-48-39.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_blue_4_2018-03-07-09-48-39.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_full_1_2018-03-07-09-48-38.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_full_2_2018-03-07-09-48-38.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_full_3_2018-03-07-09-48-38.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_full_4_2018-03-07-09-48-37.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_green_2018-03-07-09-48-37.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_orange_2018-03-07-09-48-37.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_basket_yellow_2018-03-07-09-48-36.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_box_empty_2018-03-07-09-48-35.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_box_full_1_2018-03-07-09-48-35.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_box_full_2_2018-03-07-09-48-35.uasset
+[2018.03.07-18.50.13:295][696]SourceControl: 	Saved/Backup/food_box_full_3_2018-03-07-09-48-34.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/food_box_full_4_2018-03-07-09-48-34.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/food_box_full_5_2018-03-07-09-48-34.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/food_box_full_6_2018-03-07-09-48-33.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/food_box_full_7_2018-03-07-09-48-33.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/forest_log_1_2018-03-07-09-48-33.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/forest_log_2_2018-03-07-09-48-32.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/forest_log_3_2018-03-07-09-48-32.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/forest_tree_1_2018-03-07-09-48-32.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/forest_tree_2_2018-03-07-09-48-31.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/forest_tree_3_2018-03-07-09-48-31.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/grass_regular_1_2018-03-07-09-48-31.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/grass_snow_1_2018-03-07-09-48-30.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/lamp_post_1_2018-03-07-09-48-30.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/lamp_post_2_2018-03-07-09-48-30.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_bench_1_2018-03-07-09-48-29.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_blue_1_2018-03-07-09-48-29.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_blue_2_2018-03-07-09-48-29.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_blue_3_2018-03-07-09-48-28.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_green_2018-03-07-09-48-28.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_orange_2018-03-07-09-48-27.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_red_2018-03-07-09-48-27.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/market_tent_yellow_2018-03-07-09-48-27.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_bones_1_2018-03-07-09-48-26.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_bones_2_2018-03-07-09-48-26.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_banner_1_2018-03-07-09-48-25.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_bed_1_2018-03-07-09-48-25.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_bed_2_2018-03-07-09-48-25.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_building_large_2018-03-07-09-48-24.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_fence_1_2018-03-07-09-48-24.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_pillar_1_2018-03-07-09-48-24.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_large_1_2018-03-07-09-48-23.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_large_2_2018-03-07-09-48-23.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_regular_1_2018-03-07-09-48-23.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_regular_2_2018-03-07-09-48-22.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_regular_3_2018-03-07-09-48-22.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_round_1_2018-03-07-09-48-22.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_round_2_2018-03-07-09-48-21.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tent_round_3_2018-03-07-09-48-21.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/monster_camp_tower_1_2018-03-07-09-48-21.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/new_colors_2018-03-07-09-48-51.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/phong1_2018-03-07-09-48-51.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/platform_stand_1_2018-03-07-09-48-20.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_pillar_arch_1_2018-03-07-09-48-20.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_pillar_broken_2018-03-07-09-48-20.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_pillar_broken_part_2018-03-07-09-48-19.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_pillar_square_2018-03-07-09-48-19.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_pillar_tall_1_2018-03-07-09-48-19.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_wall_1_2018-03-07-09-48-18.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_wall_2_2018-03-07-09-48-18.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_wall_3_2018-03-07-09-48-18.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/ruins_wall_4_2018-03-07-09-48-17.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_house_1_2018-03-07-09-48-17.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_house_2_2018-03-07-09-48-17.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_house_3_2018-03-07-09-48-16.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_log_1_2018-03-07-09-48-16.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_log_2_2018-03-07-09-48-16.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_log_3_2018-03-07-09-48-15.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_log_4_2018-03-07-09-48-15.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_tree_1_2018-03-07-09-48-15.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_tree_2_2018-03-07-09-48-14.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_tree_3_2018-03-07-09-48-14.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_tree_4_2018-03-07-09-48-14.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/snow_tree_5_2018-03-07-09-48-13.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_house_1_2018-03-07-09-48-13.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_house_1_spikes_2018-03-07-09-48-13.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_house_2_2018-03-07-09-48-12.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_house_2_spikes_2018-03-07-09-48-12.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_log_1_2018-03-07-09-48-11.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_log_2_2018-03-07-09-48-11.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_log_3_2018-03-07-09-48-11.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_log_4_2018-03-07-09-48-10.uasset
+[2018.03.07-18.50.13:296][696]SourceControl: 	Saved/Backup/swamp_temple_2018-03-07-09-48-10.uasset
+[2018.03.07-18.50.13:297][696]SourceControl: 	Saved/Backup/swamp_tree_1_2018-03-07-09-48-10.uasset
+[2018.03.07-18.50.13:297][696]SourceControl: 	Saved/Backup/swamp_tree_2_2018-03-07-09-48-09.uasset
+[2018.03.07-18.50.13:297][696]SourceControl: 	Saved/Backup/swamp_tree_3_2018-03-07-09-48-09.uasset
+[2018.03.07-18.50.13:297][696]SourceControl: 	Saved/Backup/well_1_2018-03-07-09-48-09.uasset
+[2018.03.07-18.50.13:297][696]SourceControl: 	Saved/Config/WorldState/112858600.json
+[2018.03.07-18.50.13:709][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/grass_1" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/grass_1.uasset" SILENT=true
+[2018.03.07-18.50.13:725][696]LogSavePackage: Save=14.68ms
+[2018.03.07-18.50.13:725][696]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/grass_1195F0B3B4BFC72A9001B19B55994F7C5.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/grass_1.uasset'
+[2018.03.07-18.50.13:727][696]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/grass_1.uasset
+[2018.03.07-18.50.14:976][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/plate_small" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/plate_small.uasset" SILENT=true
+[2018.03.07-18.50.15:003][696]LogSavePackage: Save=5.64ms
+[2018.03.07-18.50.15:003][696]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/plate_smallCDAF1B4F499CC98E61244C9476B8CEA6.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/plate_small.uasset'
+[2018.03.07-18.50.15:004][696]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/plate_small.uasset
+[2018.03.07-18.50.15:035][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/plate_medium" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/plate_medium.uasset" SILENT=true
+[2018.03.07-18.50.15:061][696]LogSavePackage: Save=5.89ms
+[2018.03.07-18.50.15:061][696]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/plate_medium82DDE6E940A817DAD95DF3A19C2E28B6.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/plate_medium.uasset'
+[2018.03.07-18.50.15:061][696]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/plate_medium.uasset
+[2018.03.07-18.50.15:092][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/plate_large" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/plate_large.uasset" SILENT=true
+[2018.03.07-18.50.15:118][696]LogSavePackage: Save=5.88ms
+[2018.03.07-18.50.15:118][696]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/plate_largeA2C963E642D682FAC52860874DD39E39.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/plate_large.uasset'
+[2018.03.07-18.50.15:119][696]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/plate_large.uasset
+[2018.03.07-18.50.24:497][ 52]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.07-18.50.24:599][ 52]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.07-18.50.24:618][ 52]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.07-18.50.24:663][ 52]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.50.26:294][106]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.50.26:294][106]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.50.26:294][106]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.50.26:294][106]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.50.27:737][150]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.07-18.50.27:757][150]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.50.28:675][167]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.07-18.50.28:706][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.50.30:140][218]LogMaterialEditor: Applying material phong1
+[2018.03.07-18.50.30:630][218]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.03.07-18.50.30:712][218]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2018.03.07-18.50.30:754][218]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2018.03.07-18.50.30:809][218]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy phong1, compiling. 
+[2018.03.07-18.50.31:704][218]TextureStreamingBuild: Display: Compiling optional shaders took 0.901 seconds.
+[2018.03.07-18.50.34:196][346]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.50.34:196][346]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.50.34:196][346]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.50.34:196][346]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.50.48:974][974]LogRenderer: Reallocating scene render targets to support 1392x924 Format 9 NumSamples 1 (Frame:1).
+[2018.03.07-18.51.00:941][162]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass_2, compiling. 
+[2018.03.07-18.51.01:250][162]TextureStreamingBuild: Display: Compiling optional shaders took 0.312 seconds.
+[2018.03.07-18.51.18:894][752]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.21:184][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/grass_2" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/grass_2.uasset" SILENT=true
+[2018.03.07-18.51.21:201][752]LogSavePackage: Save=15.19ms
+[2018.03.07-18.51.21:201][752]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/grass_2EB7026E44E48CA84C9795B856F0AA7A0.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/grass_2.uasset'
+[2018.03.07-18.51.21:203][752]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/grass_2.uasset
+[2018.03.07-18.51.22:975][827]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.23:073][827]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.23:093][827]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.23:134][827]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.51.24:479][875]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.51.24:479][875]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.51.24:479][875]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.51.24:480][875]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.51.29:444][  7]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.29:464][  7]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.51.30:211][ 20]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.30:242][ 20]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.51.31:854][103]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.51.31:854][103]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.51.31:854][103]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.51.31:854][103]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.51.33:032][193]LogMaterialEditor: Applying material grass_2
+[2018.03.07-18.51.33:470][193]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.33:547][193]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.33:591][193]LogMaterial: Missing cached shader map for material grass_2, compiling. 
+[2018.03.07-18.51.33:648][193]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass_2, compiling. 
+[2018.03.07-18.51.34:531][193]TextureStreamingBuild: Display: Compiling optional shaders took 0.894 seconds.
+[2018.03.07-18.51.47:186][590]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.51.49:253][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/grass_3" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/grass_3.uasset" SILENT=true
+[2018.03.07-18.51.49:270][590]LogSavePackage: Save=15.13ms
+[2018.03.07-18.51.49:270][590]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/grass_3448896FB4120960A01EA95A4BEDF946B.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/grass_3.uasset'
+[2018.03.07-18.51.49:272][590]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/grass_3.uasset
+[2018.03.07-18.51.50:996][631]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.51.51:117][631]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.51.51:137][631]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.51.51:182][631]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.51.52:679][652]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.51.52:680][652]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.51.52:680][652]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.51.52:680][652]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.52.03:086][743]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.52.03:111][743]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.52.03:617][745]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.52.03:646][745]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.52.05:108][761]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.52.05:108][761]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.52.05:108][761]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.52.05:108][761]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.52.06:366][775]LogMaterialEditor: Applying material grass_3
+[2018.03.07-18.52.06:818][775]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.52.06:975][775]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.52.07:021][775]LogMaterial: Missing cached shader map for material grass_3, compiling. 
+[2018.03.07-18.52.07:077][775]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass_3, compiling. 
+[2018.03.07-18.52.07:910][775]TextureStreamingBuild: Display: Compiling optional shaders took 0.841 seconds.
+[2018.03.07-18.52.10:303][795]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.52.10:303][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.52.10:303][795]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.52.10:303][795]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.52.19:976][924]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.22:118][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/grass_4" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/grass_4.uasset" SILENT=true
+[2018.03.07-18.52.22:136][924]LogSavePackage: Save=16.01ms
+[2018.03.07-18.52.22:136][924]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/grass_49B2CA4034CA1CD60D93110ADF6E8D44A.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/grass_4.uasset'
+[2018.03.07-18.52.22:138][924]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/grass_4.uasset
+[2018.03.07-18.52.23:678][946]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.23:894][946]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.23:913][946]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.23:960][946]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.52.25:598][958]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.52.25:599][958]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.52.25:599][958]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.52.25:599][958]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.52.33:372][998]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.33:393][998]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.52.34:306][  1]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.34:338][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.52.35:695][ 11]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.52.35:695][ 11]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.52.35:695][ 11]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.52.35:695][ 11]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.52.36:987][ 23]LogMaterialEditor: Applying material grass_4
+[2018.03.07-18.52.37:433][ 23]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.37:675][ 23]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.37:716][ 23]LogMaterial: Missing cached shader map for material grass_4, compiling. 
+[2018.03.07-18.52.37:768][ 23]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass_4, compiling. 
+[2018.03.07-18.52.38:552][ 23]TextureStreamingBuild: Display: Compiling optional shaders took 0.791 seconds.
+[2018.03.07-18.52.40:879][ 35]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.52.40:879][ 35]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.52.40:879][ 35]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.52.40:879][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.52.55:853][458]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.52.57:903][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/dirt_1" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/dirt_1.uasset" SILENT=true
+[2018.03.07-18.52.57:920][458]LogSavePackage: Save=15.51ms
+[2018.03.07-18.52.57:920][458]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/dirt_10CBD3E0742F7697C8F8D619E75BF4349.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/dirt_1.uasset'
+[2018.03.07-18.52.57:922][458]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/dirt_1.uasset
+[2018.03.07-18.52.59:492][489]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.52.59:614][489]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.52.59:634][489]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.52.59:685][489]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.01:033][512]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.01:033][512]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.01:033][512]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.01:033][512]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.03:281][562]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.53.03:303][562]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.07:233][623]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.53.07:256][623]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.08:455][638]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.53.08:483][638]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.09:857][669]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.09:857][669]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.09:857][669]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.09:857][669]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.10:673][694]LogMaterialEditor: Applying material dirt_1
+[2018.03.07-18.53.11:119][694]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.53.11:197][694]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.53.11:241][694]LogMaterial: Missing cached shader map for material dirt_1, compiling. 
+[2018.03.07-18.53.11:299][694]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy dirt_1, compiling. 
+[2018.03.07-18.53.12:200][694]TextureStreamingBuild: Display: Compiling optional shaders took 0.909 seconds.
+[2018.03.07-18.53.18:565][956]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.20:617][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/dirt_2" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/dirt_2.uasset" SILENT=true
+[2018.03.07-18.53.20:634][956]LogSavePackage: Save=15.00ms
+[2018.03.07-18.53.20:634][956]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/dirt_27534ACCD4BB586B63B86EF997BB27A7B.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/dirt_2.uasset'
+[2018.03.07-18.53.20:636][956]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/dirt_2.uasset
+[2018.03.07-18.53.21:977][992]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.22:099][992]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.22:120][992]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.22:166][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.23:567][ 16]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.23:567][ 16]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.23:567][ 16]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.23:567][ 16]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.25:057][ 41]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.25:080][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.26:381][ 55]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.26:381][ 55]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.26:381][ 55]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.26:381][ 55]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.28:580][ 98]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.28:601][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.29:917][136]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.29:917][136]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.29:917][136]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.29:917][136]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.30:514][157]LogMaterialEditor: Applying material dirt_2
+[2018.03.07-18.53.30:957][157]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.31:034][157]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.31:076][157]LogMaterial: Missing cached shader map for material dirt_2, compiling. 
+[2018.03.07-18.53.31:135][157]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy dirt_2, compiling. 
+[2018.03.07-18.53.31:996][157]TextureStreamingBuild: Display: Compiling optional shaders took 0.870 seconds.
+[2018.03.07-18.53.38:622][426]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.40:662][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/dirt_3" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/dirt_3.uasset" SILENT=true
+[2018.03.07-18.53.40:679][426]LogSavePackage: Save=15.23ms
+[2018.03.07-18.53.40:679][426]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/dirt_37A90BAD34E3310FF14E24AA714FC979F.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/dirt_3.uasset'
+[2018.03.07-18.53.40:680][426]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/dirt_3.uasset
+[2018.03.07-18.53.41:921][449]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.42:038][449]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.42:060][449]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.42:108][449]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.43:514][472]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.43:514][472]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.43:514][472]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.43:514][472]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.46:462][526]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.46:488][526]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.47:778][541]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.47:778][541]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.47:778][541]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.47:778][541]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.48:799][563]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.48:825][563]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.53.50:147][592]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.53.50:147][592]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.53.50:147][592]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.53.50:147][592]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.53.51:078][619]LogMaterialEditor: Applying material dirt_3
+[2018.03.07-18.53.51:519][619]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.51:597][619]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.51:634][619]LogMaterial: Missing cached shader map for material dirt_3, compiling. 
+[2018.03.07-18.53.51:690][619]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy dirt_3, compiling. 
+[2018.03.07-18.53.52:584][619]TextureStreamingBuild: Display: Compiling optional shaders took 0.902 seconds.
+[2018.03.07-18.54.02:308][ 18]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.04:372][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/dirt_4" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/dirt_4.uasset" SILENT=true
+[2018.03.07-18.54.04:389][ 18]LogSavePackage: Save=15.44ms
+[2018.03.07-18.54.04:389][ 18]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/dirt_4F2F293E14DC21E30C13DBD9363CF0EB9.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/dirt_4.uasset'
+[2018.03.07-18.54.04:391][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/dirt_4.uasset
+[2018.03.07-18.54.05:635][ 50]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.05:754][ 50]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.05:774][ 50]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.05:822][ 50]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.54.07:209][ 76]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.54.07:209][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.54.07:209][ 76]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.54.07:209][ 76]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.54.10:069][153]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.10:093][153]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.54.11:357][169]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.54.11:357][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.54.11:357][169]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.54.11:357][169]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.54.12:921][194]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.12:941][194]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.54.14:279][222]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.54.14:279][222]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.54.14:279][222]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.54.14:279][222]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.54.15:618][262]LogMaterialEditor: Applying material dirt_4
+[2018.03.07-18.54.16:056][262]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.16:140][262]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.16:184][262]LogMaterial: Missing cached shader map for material dirt_4, compiling. 
+[2018.03.07-18.54.16:245][262]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy dirt_4, compiling. 
+[2018.03.07-18.54.17:124][262]TextureStreamingBuild: Display: Compiling optional shaders took 0.888 seconds.
+[2018.03.07-18.54.42:328][570]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.54.44:663][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/stone_1" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/stone_1.uasset" SILENT=true
+[2018.03.07-18.54.44:684][570]LogSavePackage: Save=19.43ms
+[2018.03.07-18.54.44:684][570]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/stone_142D2B4EE43D3414657449695793C51B2.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/stone_1.uasset'
+[2018.03.07-18.54.44:686][570]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/stone_1.uasset
+[2018.03.07-18.54.46:736][623]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.54.46:852][623]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.54.46:872][623]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.54.46:923][623]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.54.48:404][647]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.54.48:404][647]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.54.48:404][647]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.54.48:404][647]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.54.58:893][837]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.54.58:917][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.00:300][851]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.00:326][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.01:588][866]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.01:588][866]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.01:588][866]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.01:588][866]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.01:924][872]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.01:945][872]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.03:285][887]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.03:286][887]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.03:286][887]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.03:286][887]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.06:735][951]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.06:758][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.08:530][975]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.08:553][975]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.09:789][989]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.09:789][989]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.09:789][989]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.09:789][989]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.11:742][ 30]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.11:762][ 30]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.13:064][ 47]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.13:064][ 47]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.13:064][ 47]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.13:064][ 47]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.14:940][ 86]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.14:961][ 86]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.16:247][104]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.16:248][104]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.16:248][104]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.16:248][104]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.20:725][206]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.20:745][206]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.22:068][224]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.22:068][224]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.22:068][224]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.22:068][224]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.32:668][458]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.32:691][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.33:980][478]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.33:980][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.33:980][478]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.33:980][478]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.34:718][496]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.34:739][496]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.35:740][511]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.35:771][511]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.36:185][517]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.36:217][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.36:650][523]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.36:684][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.37:040][528]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.37:076][528]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.37:431][533]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.37:466][533]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.37:821][538]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.37:853][538]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.39:228][560]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.39:228][560]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.39:228][560]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.39:228][560]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.43:021][653]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.43:045][653]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.44:352][669]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.44:352][669]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.44:352][669]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.44:352][669]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.44:863][678]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.44:883][678]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.46:192][693]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.46:213][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.47:094][703]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.47:127][703]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.48:242][718]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.48:279][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.55.49:759][756]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.49:759][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.49:759][756]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.49:759][756]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.55.50:952][793]LogMaterialEditor: Applying material stone_1
+[2018.03.07-18.55.51:396][793]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.51:474][793]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.51:514][793]LogMaterial: Missing cached shader map for material stone_1, compiling. 
+[2018.03.07-18.55.51:582][793]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy stone_1, compiling. 
+[2018.03.07-18.55.52:451][793]TextureStreamingBuild: Display: Compiling optional shaders took 0.880 seconds.
+[2018.03.07-18.55.54:910][859]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.55.54:911][859]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.55.54:911][859]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.55.54:911][859]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.56.01:948][148]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.04:041][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/stone_2" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/stone_2.uasset" SILENT=true
+[2018.03.07-18.56.04:057][148]LogSavePackage: Save=14.17ms
+[2018.03.07-18.56.04:057][148]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/stone_2F3519E794ED80EFAE71A899DFFE79958.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/stone_2.uasset'
+[2018.03.07-18.56.04:061][148]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/stone_2.uasset
+[2018.03.07-18.56.05:497][193]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.05:611][193]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.05:632][193]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.05:681][193]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.07:188][219]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.07:188][219]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.07:188][219]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.07:188][219]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.09:238][258]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.09:260][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.10:553][273]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.10:553][273]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.10:553][273]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.10:553][273]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.11:100][285]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.11:124][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.12:420][311]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.12:420][311]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.12:420][311]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.12:420][311]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.13:437][335]LogMaterialEditor: Applying material stone_2
+[2018.03.07-18.56.13:883][335]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.13:956][335]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.13:994][335]LogMaterial: Missing cached shader map for material stone_2, compiling. 
+[2018.03.07-18.56.14:054][335]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy stone_2, compiling. 
+[2018.03.07-18.56.14:939][335]TextureStreamingBuild: Display: Compiling optional shaders took 0.895 seconds.
+[2018.03.07-18.56.21:177][563]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.23:211][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/stone_3" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/stone_3.uasset" SILENT=true
+[2018.03.07-18.56.23:228][563]LogSavePackage: Save=15.58ms
+[2018.03.07-18.56.23:228][563]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/stone_33CD1B0114191A9EE93A339AE632BCB1E.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/stone_3.uasset'
+[2018.03.07-18.56.23:230][563]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/stone_3.uasset
+[2018.03.07-18.56.24:404][592]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.24:518][592]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.24:541][592]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.24:594][592]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.26:000][615]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.26:000][615]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.26:000][615]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.26:000][615]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.27:506][643]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.27:527][643]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.28:816][659]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.28:816][659]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.28:816][659]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.28:816][659]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.29:195][667]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.29:216][667]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.30:564][699]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.30:564][699]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.30:564][699]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.30:564][699]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.31:124][713]LogMaterialEditor: Applying material stone_3
+[2018.03.07-18.56.31:565][713]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.31:641][713]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.31:679][713]LogMaterial: Missing cached shader map for material stone_3, compiling. 
+[2018.03.07-18.56.31:742][713]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy stone_3, compiling. 
+[2018.03.07-18.56.32:636][713]TextureStreamingBuild: Display: Compiling optional shaders took 0.902 seconds.
+[2018.03.07-18.56.35:018][788]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.35:018][788]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.35:018][788]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.35:018][788]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.56.42:368][ 75]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.44:436][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/stone_4" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/stone_4.uasset" SILENT=true
+[2018.03.07-18.56.44:453][ 75]LogSavePackage: Save=15.60ms
+[2018.03.07-18.56.44:453][ 75]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/stone_43EF4219848E8C3E43131F498715298E2.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/stone_4.uasset'
+[2018.03.07-18.56.44:455][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/stone_4.uasset
+[2018.03.07-18.56.46:059][127]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.46:177][127]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.46:198][127]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.46:244][127]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.47:609][154]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.47:609][154]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.47:609][154]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.47:609][154]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.50:911][218]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.50:933][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.51:946][230]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.51:982][230]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.56.53:330][258]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.56.53:331][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.56.53:331][258]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.56.53:331][258]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.56.53:739][268]LogMaterialEditor: Applying material stone_4
+[2018.03.07-18.56.54:180][268]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.54:258][268]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.54:300][268]LogMaterial: Missing cached shader map for material stone_4, compiling. 
+[2018.03.07-18.56.54:358][268]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy stone_4, compiling. 
+[2018.03.07-18.56.55:246][268]TextureStreamingBuild: Display: Compiling optional shaders took 0.896 seconds.
+[2018.03.07-18.57.15:774][297]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.17:849][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/sand_1" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/sand_1.uasset" SILENT=true
+[2018.03.07-18.57.17:868][297]LogSavePackage: Save=17.29ms
+[2018.03.07-18.57.17:868][297]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/sand_12DCE19B94CAE128D3F9FD2AEFFE6096C.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/sand_1.uasset'
+[2018.03.07-18.57.17:871][297]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/sand_1.uasset
+[2018.03.07-18.57.20:820][418]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.20:933][418]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.20:956][418]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.21:002][418]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.57.22:469][447]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.57.22:469][447]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.57.22:469][447]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.57.22:469][447]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.57.28:759][659]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.28:786][659]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.57.30:576][685]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.30:601][685]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.57.40:709][950]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.40:731][950]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.57.42:037][970]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.57.42:037][970]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.57.42:037][970]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.57.42:037][970]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.57.44:866][ 43]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.44:890][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.57.46:267][ 76]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.57.46:267][ 76]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.57.46:267][ 76]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.57.46:267][ 76]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.57.46:626][ 86]LogMaterialEditor: Applying material sand_1
+[2018.03.07-18.57.47:068][ 86]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.47:143][ 86]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.47:181][ 86]LogMaterial: Missing cached shader map for material sand_1, compiling. 
+[2018.03.07-18.57.47:235][ 86]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sand_1, compiling. 
+[2018.03.07-18.57.48:136][ 86]TextureStreamingBuild: Display: Compiling optional shaders took 0.909 seconds.
+[2018.03.07-18.57.56:118][482]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.57.58:172][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/sand_2" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/sand_2.uasset" SILENT=true
+[2018.03.07-18.57.58:188][482]LogSavePackage: Save=14.81ms
+[2018.03.07-18.57.58:188][482]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/sand_2B58A2ACE4D80658EF867D3B77502ECA2.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/sand_2.uasset'
+[2018.03.07-18.57.58:190][482]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/sand_2.uasset
+[2018.03.07-18.57.59:428][511]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.57.59:550][511]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.57.59:574][511]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.57.59:623][511]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.01:007][537]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.01:007][537]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.01:007][537]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.01:007][537]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.58.08:990][716]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.58.09:016][716]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.10:346][735]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.10:346][735]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.10:346][735]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.10:346][735]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.58.10:615][741]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.58.10:635][741]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.11:956][776]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.11:956][776]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.11:956][776]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.11:956][776]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.58.13:813][842]LogMaterialEditor: Applying material sand_2
+[2018.03.07-18.58.14:255][842]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.58.14:327][842]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.58.14:369][842]LogMaterial: Missing cached shader map for material sand_2, compiling. 
+[2018.03.07-18.58.14:426][842]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sand_2, compiling. 
+[2018.03.07-18.58.15:314][842]TextureStreamingBuild: Display: Compiling optional shaders took 0.896 seconds.
+[2018.03.07-18.58.17:747][927]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.17:747][927]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.17:747][927]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.17:747][927]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.58.26:349][240]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.28:400][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/sand_3" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/sand_3.uasset" SILENT=true
+[2018.03.07-18.58.28:416][240]LogSavePackage: Save=14.31ms
+[2018.03.07-18.58.28:416][240]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/sand_3FAD1BC374E09BB45C488A786655969AE.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/sand_3.uasset'
+[2018.03.07-18.58.28:417][240]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/sand_3.uasset
+[2018.03.07-18.58.31:438][348]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.31:557][348]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.31:579][348]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.31:628][348]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.32:985][368]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.32:985][368]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.32:985][368]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.32:986][368]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.58.38:970][451]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.38:994][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.40:327][463]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.40:327][463]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.40:327][463]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.40:327][463]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.58.41:143][476]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.41:163][476]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.42:464][502]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.42:464][502]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.42:464][502]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.42:464][502]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.58.43:364][519]LogMaterialEditor: Applying material sand_3
+[2018.03.07-18.58.43:806][519]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.43:888][519]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.43:932][519]LogMaterial: Missing cached shader map for material sand_3, compiling. 
+[2018.03.07-18.58.43:989][519]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sand_3, compiling. 
+[2018.03.07-18.58.44:865][519]TextureStreamingBuild: Display: Compiling optional shaders took 0.885 seconds.
+[2018.03.07-18.58.53:025][737]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.58.55:086][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Daniel/Plates/sand_4" FILE="../../../../../../UE4/steam/Content/Daniel/Plates/sand_4.uasset" SILENT=true
+[2018.03.07-18.58.55:102][737]LogSavePackage: Save=14.46ms
+[2018.03.07-18.58.55:102][737]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/sand_44FD9FCA0459D308AE64D1BADD42AC630.tmp' to '../../../../../../UE4/steam/Content/Daniel/Plates/sand_4.uasset'
+[2018.03.07-18.58.55:103][737]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Daniel/Plates/sand_4.uasset
+[2018.03.07-18.58.57:223][774]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.58.57:349][774]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.58.57:369][774]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.58.57:422][774]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.58.59:175][793]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.58.59:175][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.58.59:175][793]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.58.59:175][793]MaterialEditorStats: Texture samplers: 2/16
+[2018.03.07-18.59.01:316][810]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.59.01:336][810]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.59.02:607][820]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.59.02:628][820]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.03.07-18.59.03:934][845]LogMaterialEditor: Applying material sand_4
+[2018.03.07-18.59.04:388][845]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.59.04:506][845]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.59.04:550][845]LogMaterial: Missing cached shader map for material sand_4, compiling. 
+[2018.03.07-18.59.04:607][845]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sand_4, compiling. 
+[2018.03.07-18.59.05:475][845]TextureStreamingBuild: Display: Compiling optional shaders took 0.875 seconds.
+[2018.03.07-18.59.07:800][894]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.03.07-18.59.07:800][894]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.03.07-18.59.07:800][894]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.03.07-18.59.07:800][894]MaterialEditorStats: Texture samplers: 3/16
+[2018.03.07-18.59.18:104][240]LogActorFactory: Actor Factory created plate_large
+[2018.03.07-18.59.20:013][325]LogActorFactory: Actor Factory created plate_large
+[2018.03.07-18.59.24:827][525]LogActorFactory: Actor Factory created plate_medium
+[2018.03.07-18.59.26:731][605]LogActorFactory: Actor Factory created plate_medium
+[2018.03.07-18.59.42:066][200]Cmd: DELETE
+[2018.03.07-18.59.42:066][200]Cmd: ACTOR DELETE
+[2018.03.07-18.59.42:071][200]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-18.59.42:090][200]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.03.07-18.59.46:248][303]LogActorFactory: Actor Factory created plate_medium
+[2018.03.07-18.59.47:999][378]LogActorFactory: Actor Factory created plate_medium
+[2018.03.07-18.59.53:305][568]LogActorFactory: Actor Factory created plate_small
+[2018.03.07-18.59.54:009][597]LogActorFactory: Actor Factory created plate_small
+[2018.03.07-18.59.56:841][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pPlane38)
+[2018.03.07-19.00.32:445][824]LogActorFactory: Actor Factory created city_1_house_5
+[2018.03.07-19.00.33:160][860]LogActorFactory: Actor Factory created city_1_house_5
+[2018.03.07-19.00.43:784][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plate_large)
+[2018.03.07-19.01.14:340][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../PolyGround/3D/props/finished_props/PlatesV1/PlatesV1.fbx)
+[2018.03.07-19.01.14:368][ 49]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.07-19.01.14:368][ 49]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.07-19.01.14:368][ 49]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.07-19.01.14:368][ 49]LogFbx: ItemName: Geometry, ItemCount : 3
+[2018.03.07-19.01.14:368][ 49]LogFbx: ItemName: Material, ItemCount : 1
+[2018.03.07-19.01.14:368][ 49]LogFbx: ItemName: Model, ItemCount : 3
+[2018.03.07-19.01.14:373][ 49]LogFbx: Loading FBX Scene from ../../../../../../PolyGround/3D/props/finished_props/PlatesV1/PlatesV1.fbx
+[2018.03.07-19.01.14:380][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.07-19.01.16:404][ 49]LogFbx: Loading FBX Scene from ../../../../../../PolyGround/3D/props/finished_props/PlatesV1/PlatesV1.fbx
+[2018.03.07-19.01.16:412][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.07-19.01.16:413][ 49]LogFbx: Warning: Triangulating static mesh pDisc2
+[2018.03.07-19.01.16:419][ 49]LogStaticMesh: Building static mesh PlatesV1_pDisc2...
+[2018.03.07-19.01.16:423][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Daniel/Plates/PlatesV1_pDisc2.PlatesV1_pDisc2
+[2018.03.07-19.01.16:424][ 49]LogFbx: Warning: Triangulating static mesh pDisc3
+[2018.03.07-19.01.16:431][ 49]LogStaticMesh: Building static mesh PlatesV1_pDisc3...
+[2018.03.07-19.01.16:435][ 49]LogStaticMesh: Built static mesh [0.00s] /Game/Daniel/Plates/PlatesV1_pDisc3.PlatesV1_pDisc3
+[2018.03.07-19.01.16:436][ 49]LogStaticMesh: Warning: PlatesV1_pDisc3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.03.07-19.01.16:437][ 49]LogFbx: Warning: Triangulating static mesh pPlane38
+[2018.03.07-19.01.16:448][ 49]LogStaticMesh: Building static mesh PlatesV1_pPlane38...
+[2018.03.07-19.01.16:457][ 49]LogStaticMesh: Built static mesh [0.01s] /Game/Daniel/Plates/PlatesV1_pPlane38.PlatesV1_pPlane38
+[2018.03.07-19.01.16:461][ 49]FBXImport: Warning: PlatesV1_pDisc3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.03.07-19.01.21:905][236]LogActorFactory: Actor Factory created PlatesV1_pDisc2
+[2018.03.07-19.01.22:391][261]LogActorFactory: Actor Factory created PlatesV1_pDisc2
+[2018.03.07-19.01.23:388][297]LogActorFactory: Actor Factory created PlatesV1_pDisc3
+[2018.03.07-19.01.23:745][309]LogActorFactory: Actor Factory created PlatesV1_pDisc3
+[2018.03.07-19.01.24:450][345]LogActorFactory: Actor Factory created PlatesV1_pDisc3
+[2018.03.07-19.01.29:173][619]LogActorFactory: Actor Factory created PlatesV1_pPlane38
+[2018.03.07-19.01.30:209][674]LogActorFactory: Actor Factory created PlatesV1_pPlane38
+[2018.03.07-19.01.33:769][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pDisc3)
+[2018.03.07-19.02.02:781][528]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (PlatesV1_pPlane38)
+[2018.03.07-19.02.03:750][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pDisc2)
+[2018.03.07-19.02.20:394][914]LogActorFactory: Actor Factory created city_1_house_5
+[2018.03.07-19.02.21:405][928]LogActorFactory: Actor Factory created city_1_house_5
+[2018.03.07-19.02.22:730][934]LogActorFactory: Actor Factory created city_1_house_7
+[2018.03.07-19.02.23:855][  8]LogActorFactory: Actor Factory created city_1_house_7
+[2018.03.07-19.02.25:269][ 55]LogActorFactory: Actor Factory created city_1_house_6
+[2018.03.07-19.02.26:059][ 95]LogActorFactory: Actor Factory created city_1_house_6
+[2018.03.07-19.02.27:017][121]LogActorFactory: Actor Factory created city_1_house_4
+[2018.03.07-19.02.27:886][169]LogActorFactory: Actor Factory created city_1_house_4
+[2018.03.07-19.02.28:886][199]LogActorFactory: Actor Factory created city_1_house_6
+[2018.03.07-19.02.29:845][254]LogActorFactory: Actor Factory created city_1_house_6
+[2018.03.07-19.02.31:182][310]LogActorFactory: Actor Factory created desert_house_2
+[2018.03.07-19.02.31:572][331]LogActorFactory: Actor Factory created desert_house_2
+[2018.03.07-19.02.32:315][349]LogActorFactory: Actor Factory created desert_house_5
+[2018.03.07-19.02.32:603][364]LogActorFactory: Actor Factory created desert_house_5
+[2018.03.07-19.02.33:407][387]LogActorFactory: Actor Factory created desert_house_7
+[2018.03.07-19.02.33:719][402]LogActorFactory: Actor Factory created desert_house_7
+[2018.03.07-19.02.34:545][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pPlane38)
+[2018.03.07-19.02.42:249][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plate_medium)
+[2018.03.07-19.02.44:082][ 47]Cmd: DELETE
+[2018.03.07-19.02.44:082][ 47]Cmd: ACTOR DELETE
+[2018.03.07-19.02.44:086][ 47]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.44:100][ 47]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.03.07-19.02.44:552][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plate_small)
+[2018.03.07-19.02.44:622][ 79]Cmd: DELETE
+[2018.03.07-19.02.44:622][ 79]Cmd: ACTOR DELETE
+[2018.03.07-19.02.44:626][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.44:636][ 79]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.03.07-19.02.45:059][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plate_large)
+[2018.03.07-19.02.45:125][110]Cmd: DELETE
+[2018.03.07-19.02.45:125][110]Cmd: ACTOR DELETE
+[2018.03.07-19.02.45:129][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.45:138][110]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.03.07-19.02.45:801][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city_1_house_5)
+[2018.03.07-19.02.45:920][162]Cmd: DELETE
+[2018.03.07-19.02.45:920][162]Cmd: ACTOR DELETE
+[2018.03.07-19.02.45:925][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.45:936][162]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.03.07-19.02.55:136][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desert_house_7)
+[2018.03.07-19.02.56:048][846]Cmd: DELETE
+[2018.03.07-19.02.56:048][846]Cmd: ACTOR DELETE
+[2018.03.07-19.02.56:052][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.56:064][846]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2018.03.07-19.02.56:591][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desert_house_5)
+[2018.03.07-19.02.56:827][897]Cmd: DELETE
+[2018.03.07-19.02.56:827][897]Cmd: ACTOR DELETE
+[2018.03.07-19.02.56:830][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.56:841][897]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.03.07-19.02.57:558][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desert_house_2)
+[2018.03.07-19.02.57:738][958]Cmd: DELETE
+[2018.03.07-19.02.57:738][958]Cmd: ACTOR DELETE
+[2018.03.07-19.02.57:741][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.57:752][958]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2018.03.07-19.02.58:556][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pPlane39)
+[2018.03.07-19.02.59:033][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city_1_house_9)
+[2018.03.07-19.02.59:245][ 54]Cmd: DELETE
+[2018.03.07-19.02.59:245][ 54]Cmd: ACTOR DELETE
+[2018.03.07-19.02.59:248][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.59:260][ 54]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.03.07-19.02.59:696][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city_1_house_4)
+[2018.03.07-19.02.59:865][ 93]Cmd: DELETE
+[2018.03.07-19.02.59:865][ 93]Cmd: ACTOR DELETE
+[2018.03.07-19.02.59:870][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.02.59:880][ 93]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.03.07-19.03.00:612][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city_1_house_8)
+[2018.03.07-19.03.00:743][152]Cmd: DELETE
+[2018.03.07-19.03.00:743][152]Cmd: ACTOR DELETE
+[2018.03.07-19.03.00:746][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.03.00:757][152]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.03.07-19.03.02:428][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city_1_house_6)
+[2018.03.07-19.03.03:142][332]Cmd: DELETE
+[2018.03.07-19.03.03:142][332]Cmd: ACTOR DELETE
+[2018.03.07-19.03.03:145][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.03.03:157][332]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.03.07-19.03.04:019][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (city_1_house_7)
+[2018.03.07-19.03.04:170][398]Cmd: DELETE
+[2018.03.07-19.03.04:170][398]Cmd: ACTOR DELETE
+[2018.03.07-19.03.04:174][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.03.04:186][398]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.03.07-19.03.04:472][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pDisc3)
+[2018.03.07-19.03.04:596][423]Cmd: DELETE
+[2018.03.07-19.03.04:596][423]Cmd: ACTOR DELETE
+[2018.03.07-19.03.04:599][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.03.04:610][423]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.03.07-19.03.04:975][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pDisc2)
+[2018.03.07-19.03.05:078][453]Cmd: DELETE
+[2018.03.07-19.03.05:078][453]Cmd: ACTOR DELETE
+[2018.03.07-19.03.05:081][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.03.05:092][453]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.03.07-19.03.05:552][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PlatesV1_pPlane39)
+[2018.03.07-19.03.05:696][493]Cmd: DELETE
+[2018.03.07-19.03.05:696][493]Cmd: ACTOR DELETE
+[2018.03.07-19.03.05:700][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.07-19.03.05:711][493]LogEditorActor: Deleted 1 Actors (0.014 secs)
