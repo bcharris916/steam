@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-DD36FF7745B0D63FB76621B1489A3EF5_0000</CrashGUID>
+		<ProcessId>120372</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<GameName>UE4-MyProject12</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.18.1-3754814+++UE4+Release-4.18</EngineVersion>
+		<CommandLine>&quot;E:\ue4\steam\MyProject12.uproject&quot; -game</CommandLine>
+		<LanguageLCID>1033</LanguageLCID>
+		<AppDefaultLocale>en-US</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.18-CL-3754814</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>Calvert</UserName>
+		<BaseDir>E:/UE_4.18/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>E:/UE_4.18/</RootDir>
+		<MachineId>A3D9942345808FA3A1E1769BEFC31DC6</MachineId>
+		<LoginId>a3d9942345808fa3a1e1769befc31dc6</LoginId>
+		<EpicAccountId>ad81b733fea54fe3856882108786a68f</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Fatal error: [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Private\OnlineSubsystemSteam.cpp] [Line: 107] STEAM: Failed to create file: E:/UE_4.18/Engine/Binaries/Win64/steam_appid.txt</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 760</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 7</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>Service Pack 1</Misc.OSVersionMinor>
+		<MemoryStats.TotalPhysical>8448401408</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>8796092891136</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>146313216</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>8795681669120</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>81686528</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>81686528</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>43241472</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>43245568</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636554726563780000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 7 Service Pack 1 64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
