@@ -2074,3 +2074,8 @@ LogInit: Object subsystem initialized
 [2018.03.13-20.55.45:263][ 72]Cmd: ACTOR DELETE
 [2018.03.13-20.55.45:264][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
 [2018.03.13-20.55.45:275][ 72]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.03.13-21.04.37:120][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/arena01" FILE="../../../../../../UE4/steam/Content/Maps/arena01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.13-21.04.37:595][921]LogSavePackage: Save=424.66ms
+[2018.03.13-21.04.37:595][921]LogSavePackage: Moving '../../../../../../UE4/steam/Saved/arena0146BFED054B9DBB07B30DBD8C8933D698.tmp' to '../../../../../../UE4/steam/Content/Maps/arena01.umap'
+[2018.03.13-21.04.37:597][921]LogSavePackage: Display: Finished SavePackage ../../../../../../UE4/steam/Content/Maps/arena01.umap
+[2018.03.13-21.04.37:732][921]LogFileHelpers: Saving map 'arena01' took 0.686
