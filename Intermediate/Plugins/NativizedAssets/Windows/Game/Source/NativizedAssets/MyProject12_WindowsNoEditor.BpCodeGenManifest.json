@@ -1,0 +1,479 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/Paper2D'",
+		"Package'/Script/ClothingSystemRuntime'",
+		"Package'/Script/HeadMountedDisplay'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/AnimGraphRuntime'",
+		"Package'/Script/OnlineSubsystemUtils'",
+		"Package'/Script/UMG'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/CustomMeshComponent'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'"
+	],
+	"convertedAssets":
+	{
+		"/Game/FogOfWar/ExampleMap/Blueprints/VisibilityMode.VisibilityMode":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/VisibilityMode.VisibilityMode",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/VisibilityMode__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/VisibilityMode__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/Blueprints/FogType.FogType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/FogOfWar/Blueprints/FogType.FogType",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FogType__pf1242490746.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FogType__pf1242490746.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/TargettingType.TargettingType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/TargettingType.TargettingType",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TargettingType__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TargettingType__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/MovementType.MovementType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/MovementType.MovementType",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MovementType__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MovementType__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/DamageType.DamageType":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/DamageType.DamageType",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/DamageType__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/DamageType__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/AttackKeys.AttackKeys":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedEnum'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/AttackKeys.AttackKeys",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/AttackKeys__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/AttackKeys__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/allLevels/PlayerInfo.PlayerInfo":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/allLevels/PlayerInfo.PlayerInfo",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PlayerInfo__pf533497531.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PlayerInfo__pf533497531.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/TimingInformation.TimingInformation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/TimingInformation.TimingInformation",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TimingInformation__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TimingInformation__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/TargettingInformation.TargettingInformation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/TargettingInformation.TargettingInformation",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TargettingInformation__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TargettingInformation__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/MovementInformation.MovementInformation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/MovementInformation.MovementInformation",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MovementInformation__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MovementInformation__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/damageInformation.DamageInformation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/damageInformation.DamageInformation",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/damageInformation__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/damageInformation__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/AnimationInformation.AnimationInformation":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/AnimationInformation.AnimationInformation",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/AnimationInformation__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/AnimationInformation__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/Ability.Ability":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/Ability.Ability",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Ability__pf2117864009.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Ability__pf2117864009.cpp"
+		},
+		"/Game/Blueprints/characters/0_base.0_base_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/characters/0_base.0_base_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/0_base__pf1490413170.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/0_base__pf1490413170.cpp"
+		},
+		"/Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/InfinityBladeWarriors/animations/0_baseANimBP.0_baseANimBP_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/0_baseANimBP__pf3993841739.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/0_baseANimBP__pf3993841739.cpp"
+		},
+		"/Game/Blueprints/allLevels/gameInfoInstance.gameInfoInstance_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/allLevels/gameInfoInstance.gameInfoInstance_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/gameInfoInstance__pf533497531.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/gameInfoInstance__pf533497531.cpp"
+		},
+		"/Game/FogOfWar/Blueprints/FOWComponent.FOWComponent_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/Blueprints/FOWComponent.FOWComponent_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FOWComponent__pf1242490746.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FOWComponent__pf1242490746.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/TopDownController.TopDownController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/TopDownController.TopDownController_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TopDownController__pf4174972760.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TopDownController__pf4174972760.cpp"
+		},
+		"/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/TopDownCharacter__pf4174972760.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/TopDownCharacter__pf4174972760.cpp"
+		},
+		"/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ThirdPerson_AnimBP__pf2404374163.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ThirdPerson_AnimBP__pf2404374163.cpp"
+		},
+		"/Game/UI/MainMenu/optionsMenu.optionsMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/MainMenu/optionsMenu.optionsMenu_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/optionsMenu__pf1343218889.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/optionsMenu__pf1343218889.cpp"
+		},
+		"/Game/UI/allLevels/loadingScreen.loadingScreen_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/allLevels/loadingScreen.loadingScreen_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/loadingScreen__pf1207061625.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/loadingScreen__pf1207061625.cpp"
+		},
+		"/Game/UI/MainMenu/hostMenu.hostMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/MainMenu/hostMenu.hostMenu_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/hostMenu__pf1343218889.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/hostMenu__pf1343218889.cpp"
+		},
+		"/Game/UI/MainMenu/mainMenu.mainMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/MainMenu/mainMenu.mainMenu_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/mainMenu__pf1343218889.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/mainMenu__pf1343218889.cpp"
+		},
+		"/Game/Blueprints/allLevels/playerSaveGame.playerSaveGame_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/allLevels/playerSaveGame.playerSaveGame_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/playerSaveGame__pf533497531.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/playerSaveGame__pf533497531.cpp"
+		},
+		"/Game/UI/MainMenu/serverMenu.serverMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/MainMenu/serverMenu.serverMenu_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/serverMenu__pf1343218889.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/serverMenu__pf1343218889.cpp"
+		},
+		"/Game/UI/MainMenu/errorDialogue.errorDialogue_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/MainMenu/errorDialogue.errorDialogue_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/errorDialogue__pf1343218889.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/errorDialogue__pf1343218889.cpp"
+		},
+		"/Game/UI/Lobby/playerButton.playerButton_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Lobby/playerButton.playerButton_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/playerButton__pf3941786787.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/playerButton__pf3941786787.cpp"
+		},
+		"/Game/Blueprints/lobby/lobbyGM.lobbyGM_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/lobby/lobbyGM.lobbyGM_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/lobbyGM__pf2687806415.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/lobbyGM__pf2687806415.cpp"
+		},
+		"/Game/Blueprints/lobby/lobbyPlayerController.lobbyPlayerController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/lobby/lobbyPlayerController.lobbyPlayerController_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/lobbyPlayerController__pf2687806415.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/lobbyPlayerController__pf2687806415.cpp"
+		},
+		"/Game/UI/Lobby/lobbyMenu.lobbyMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Lobby/lobbyMenu.lobbyMenu_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/lobbyMenu__pf3941786787.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/lobbyMenu__pf3941786787.cpp"
+		},
+		"/Game/UI/allLevels/chatWIndow.chatWIndow_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/allLevels/chatWIndow.chatWIndow_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/chatWIndow__pf1207061625.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/chatWIndow__pf1207061625.cpp"
+		},
+		"/Game/Blueprints/gameplay/gameplayPC.gameplayPC_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/gameplay/gameplayPC.gameplayPC_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/gameplayPC__pf1836565435.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/gameplayPC__pf1836565435.cpp"
+		},
+		"/Game/Blueprints/gameplay/gameplayGM.gameplayGM_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/gameplay/gameplayGM.gameplayGM_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/gameplayGM__pf1836565435.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/gameplayGM__pf1836565435.cpp"
+		},
+		"/Game/InfinityBladeWarriors/animations/sprites/aoeSpell.aoeSpell_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/InfinityBladeWarriors/animations/sprites/aoeSpell.aoeSpell_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/aoeSpell__pf2191428166.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/aoeSpell__pf2191428166.cpp"
+		},
+		"/Game/UI/allLevels/gameplayChat.gameplayChat_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/allLevels/gameplayChat.gameplayChat_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/gameplayChat__pf1207061625.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/gameplayChat__pf1207061625.cpp"
+		},
+		"/Game/UI/allLevels/ChatText.ChatText_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/allLevels/ChatText.ChatText_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ChatText__pf1207061625.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ChatText__pf1207061625.cpp"
+		},
+		"/Game/UI/Lobby/characterSelect.characterSelect_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Lobby/characterSelect.characterSelect_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/characterSelect__pf3941786787.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/characterSelect__pf3941786787.cpp"
+		},
+		"/Game/UI/Lobby/gameSettings.gameSettings_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Lobby/gameSettings.gameSettings_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/gameSettings__pf3941786787.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/gameSettings__pf3941786787.cpp"
+		},
+		"/Game/UI/Lobby/connectedPlayer.connectedPlayer_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/UI/Lobby/connectedPlayer.connectedPlayer_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/connectedPlayer__pf3941786787.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/connectedPlayer__pf3941786787.cpp"
+		},
+		"/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Sky_Sphere__pf1379775596.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Sky_Sphere__pf1379775596.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Fire__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Fire__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Smoke__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Smoke__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Sparks__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Sparks__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Steam.Blueprint_Effect_Steam_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Steam__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Steam__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_CeilingLight__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_CeilingLight__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_WallSconce.Blueprint_WallSconce_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_WallSconce__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_WallSconce__pf1079297466.cpp"
+		},
+		"/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/BP_LightStudio.BP_LightStudio_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_LightStudio__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_LightStudio__pf1079297466.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/Bot.Bot_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/Bot.Bot_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Bot__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Bot__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C":
+		{
+			"assetType": "Class'/Script/Engine.AnimBlueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ThirdPerson_AnimBP__pf160440623.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ThirdPerson_AnimBP__pf160440623.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/BotThatRunsAround.BotThatRunsAround_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/BotThatRunsAround.BotThatRunsAround_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BotThatRunsAround__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BotThatRunsAround__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/Blueprints/FogDrawingActor.FogDrawingActor_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/Blueprints/FogDrawingActor.FogDrawingActor_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FogDrawingActor__pf1242490746.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FogDrawingActor__pf1242490746.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/Wall.Wall_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/Wall.Wall_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Wall__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Wall__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/WallThatChangesSize.WallThatChangesSize_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/WallThatChangesSize.WallThatChangesSize_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/WallThatChangesSize__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/WallThatChangesSize__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/WallThatTurnsFogOnAndOff.WallThatTurnsFogOnAndOff_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/WallThatTurnsFogOnAndOff.WallThatTurnsFogOnAndOff_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/WallThatTurnsFogOnAndOff__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/WallThatTurnsFogOnAndOff__pf421451684.cpp"
+		},
+		"/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Blueprint_Effect_Explosion__pf1079297466.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Blueprint_Effect_Explosion__pf1079297466.cpp"
+		},
+		"/Game/Blueprints/gameplay/gameplayGMbase.gameplayGMbase_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/gameplay/gameplayGMbase.gameplayGMbase_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/gameplayGMbase__pf1836565435.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/gameplayGMbase__pf1836565435.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/UMG_FogControl.UMG_FogControl_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/UMG_FogControl.UMG_FogControl_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/UMG_FogControl__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/UMG_FogControl__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/BP_Example_PlayerController.BP_Example_PlayerController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/BP_Example_PlayerController.BP_Example_PlayerController_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Example_PlayerController__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Example_PlayerController__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/BP_Example_Character.BP_Example_Character_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/BP_Example_Character.BP_Example_Character_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BP_Example_Character__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BP_Example_Character__pf421451684.cpp"
+		},
+		"/Game/FogOfWar/ExampleMap/Blueprints/Box.Box_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FogOfWar/ExampleMap/Blueprints/Box.Box_C",
+			"generatedHeaderPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Box__pf421451684.h",
+			"generatedCppPath": "D:/ue4/steam/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Box__pf421451684.cpp"
+		},
+		"/Game/Blueprints/gameplay/Attacks/AttackComponent.AttackComponent_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/AttackComponent.AttackComponent_C",
+			"generatedHeaderPath": "",
+			"generatedCppPath": ""
+		},
+		"/Game/Blueprints/gameplay/Attacks/Attack.Attack_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/gameplay/Attacks/Attack.Attack_C",
+			"generatedHeaderPath": "",
+			"generatedCppPath": ""
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
